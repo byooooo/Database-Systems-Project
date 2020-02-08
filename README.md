@@ -1,16 +1,16 @@
 # Paper Chasers
 
-Paper Chasers help users learn what prospective colleges, majors, and career opportunities to pursue.
-This app will be powered by Rails front end and a MySQL backend. It a course project for Spring '20 CS411 Database Systems class.
+Paper Chasers help users learn what prospective colleges, majors, and career paths to pursue provided a query.
+This app will be powered by Rails front end and a MySQL backend. It is work [to be] done for UIUC Spring '20 CS411 Database Systems course project.
 
 ## Project Team
 
 - Jonathan Kuik
 - Albert Matabaro
-- Julio Felix Diaz Sanchez
+- Harsha Reddy
 - Brian Yoo
 
-Task Lists:
+## Task Lists:
 
 - [x] find appropriate data (>50k entries)
 - [x] clean data (see notebook)
