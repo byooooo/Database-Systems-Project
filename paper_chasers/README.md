@@ -10,7 +10,7 @@ Assumptions:
 - You are familiar with the command line terminal. A good introduction can be found at https://www.codecademy.com/learn/learn-the-command-line
 
 
-1. Homebrew
+### Homebrew
 
 First we need to install Homebrew https://brew.sh/. Homebrew allow us to install and compile software packages easily from source. Homebrew comes with a very simple install script. When it asks you to install XCode CommandLine Tools, say yes.
 
@@ -18,7 +18,7 @@ Open Terminal and run the following command:
 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-2. Installing Ruby
+### Installing Ruby
 
 Now that we have Homebrew installed, we can use it to install Ruby.
 We are going to use rbenv https://github.com/rbenv/rbenv to install and manage our Ruby versions.
@@ -38,7 +38,7 @@ rbenv global 2.7.0
 ruby -v
 
 ```
-3. Configuring Git
+### Configuring Git
 
 We'll be using Git for our version control system so we're going to set it up to match our Github https://github.com account. If you don't already have a Github account, make sure to register. It will come in handy soon :)
 
@@ -62,7 +62,7 @@ You should get a message like this:
 
 `Hi ...! You've successfully authenticated, but Github does not provide shell access.`
 
-4. Installing Rails
+### Installing Rails
 
 Installing Rails is as simple as running the following command in your Terminal.
 
@@ -77,7 +77,7 @@ And now we can verify Rails is installed:
 `rails -v`
 `# Rails 6.0.2.1`
 
-5. Installing MySQL
+### Installing MySQL
 
 You can install MySQL server and client from Homebrew.
 
@@ -91,30 +91,30 @@ brew services start mysql
 ```
 By default the mysql user is `root` with no password.
 
-6. Setting up the app.
+### Setting up the app on your machine
 
-- Clone the Database-Systems-Project
+1. Clone the Database-Systems-Project
 
 `git clone https://github.com/byooooo/Database-Systems-Project.git`
 
 
-- Go into the app directory
+2. Go into the app directory
 
 `cd paper_chasers`
 
-- Bundle the app
+3. Bundle the app
 
 `bundle install`
 
-- Create the database
+4. Create the database
 
 `rails db:create`
 
-- Launch the app server
+5. Launch the app server
 
 `rails server`
 
-- Go to your browser at http://localhost:3000, Yay! You're on Rails!
+6. Go to your browser at http://localhost:3000, Yay! You're on Rails!
 
 
 
