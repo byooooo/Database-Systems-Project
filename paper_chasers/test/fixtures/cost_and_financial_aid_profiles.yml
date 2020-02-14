@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  institution: one
+  percent_awarded_fin_aid: 1
+  type: 
+
+two:
+  institution: two
+  percent_awarded_fin_aid: 1
+  type: 

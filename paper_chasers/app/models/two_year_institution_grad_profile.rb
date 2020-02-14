@@ -1,0 +1,3 @@
+class TwoYearInstitutionGradProfile < DetailedGraduationRateProfile
+  store_accessor :sti_store, :degree_seeking_cohort, :grad_rate_within_100_percent_of_time, :grad_rate_within_150_percent_of_time
+end

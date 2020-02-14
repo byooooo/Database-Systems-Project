@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  institution: one
+  student_by_age: 1
+  student_by_race: 1
+
+two:
+  institution: two
+  student_by_age: 1
+  student_by_race: 1
