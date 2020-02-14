@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  institution: one
+  total_grad_rate: 1
+  pell_grant_and_subsidized_loans_grad_rate: 1
+  type: 
+
+two:
+  institution: two
+  total_grad_rate: 1
+  pell_grant_and_subsidized_loans_grad_rate: 1
+  type: 

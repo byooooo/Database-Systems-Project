@@ -1,0 +1,2 @@
+class PrivateCostAndFinancialAid < CostAndFinancialAidProfile
+end
