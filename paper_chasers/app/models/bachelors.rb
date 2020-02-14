@@ -1,0 +1,3 @@
+class Bachelors < DegreeProgram
+
+end

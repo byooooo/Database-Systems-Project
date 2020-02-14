@@ -1,0 +1,3 @@
+class Masters < DegreeProgram
+
+end

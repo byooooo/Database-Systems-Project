@@ -1,0 +1,43 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  state_abbreviation: MyString
+  total_enrollment: MyString
+  sector_of_institition: MyString
+  institutional_control_or_affiliation: MyString
+  institutional_category: MyString
+  hbcu: MyString
+  degree_of_urbanization: MyString
+  institution_size_category: 1
+  open_enrollement: MyString
+  tes_scores_considered: MyString
+  highest_degree_offered: MyString
+  carnegie_classification_basic: MyString
+  carnegie_classification_undergraduate: MyString
+  carnegie_classification_graduate: MyString
+  nces_data_reporting_category: MyString
+  percent_admitted: 1
+  percent_admitted_men: 1
+  percent_admitted_women: 1
+  type: 
+
+two:
+  state_abbreviation: MyString
+  total_enrollment: MyString
+  sector_of_institition: MyString
+  institutional_control_or_affiliation: MyString
+  institutional_category: MyString
+  hbcu: MyString
+  degree_of_urbanization: MyString
+  institution_size_category: 1
+  open_enrollement: MyString
+  tes_scores_considered: MyString
+  highest_degree_offered: MyString
+  carnegie_classification_basic: MyString
+  carnegie_classification_undergraduate: MyString
+  carnegie_classification_graduate: MyString
+  nces_data_reporting_category: MyString
+  percent_admitted: 1
+  percent_admitted_men: 1
+  percent_admitted_women: 1
+  type: 
