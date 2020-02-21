@@ -1,2 +1,3 @@
 class PublicCostAndFinancialAid < CostAndFinancialAidProfile
+  store_accessor :sti_store, :total_price_in_district_on_campus, :total_price_in_state_on_campus, :total_price_out_state_on_campus, :average_net_price_students_awarded_in_state, :average_net_price_student_awarded_fed_aid_by_income_in_state
 end

@@ -1,3 +1,0 @@
-class Associate < DegreeProgram
-
-end

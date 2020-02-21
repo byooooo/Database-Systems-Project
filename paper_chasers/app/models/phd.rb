@@ -1,3 +1,0 @@
-class Phd < DegreeProgram
-
-end
