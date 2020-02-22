@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  med_debt: 9.99
+  mean: 
+  median_wage: 9.99
+  references: 
+  references: 
+
+two:
+  med_debt: 9.99
+  mean: 
+  median_wage: 9.99
+  references: 
+  references: 

@@ -1,3 +1,0 @@
-class Certificate < DegreeProgram
-
-end
