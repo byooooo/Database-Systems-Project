@@ -181,4 +181,8 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
   add_foreign_key "institution_to_degrees", "degree_programs"
   add_foreign_key "institution_to_degrees", "institutions"
   add_foreign_key "student_demographic_profiles", "institutions"
+  add_foreign_key "cost_and_financial_aid_profiles", "institutions"
+  add_foreign_key "detailed_graduation_rate_profiles", "institutions"
+  add_foreign_key "schools", "people"
+  add_foreign_key "student_demographic_profiles", "institutions"
 end
