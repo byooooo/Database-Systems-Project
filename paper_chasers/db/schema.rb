@@ -10,22 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_02_21_222335) do
+ActiveRecord::Schema.define(version: 2020_02_27_185333) do
 
   create_table "comparisons", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.string "supplied_name"
     t.bigint "user_id", null: false
-    t.bigint "degree_program_id", null: false
-    t.bigint "institution_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["degree_program_id"], name: "index_comparisons_on_degree_program_id"
-    t.index ["institution_id"], name: "index_comparisons_on_institution_id"
+    t.integer "unit_id"
+    t.integer "program_id"
     t.index ["user_id"], name: "index_comparisons_on_user_id"
   end
 
   create_table "cost_and_financial_aid_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
-    t.bigint "institution_id", null: false
     t.integer "percent_awarded_fin_aid"
     t.string "type"
     t.datetime "created_at", precision: 6, null: false
@@ -37,28 +34,14 @@ ActiveRecord::Schema.define(version: 2020_02_21_222335) do
     t.integer "percent_awarded_federal_loans"
     t.integer "average_federal_loan_amount"
     t.json "sti_store"
-    t.index ["institution_id"], name: "index_cost_and_financial_aid_profiles_on_institution_id"
+    t.integer "unit_id"
   end
 
-  create_table "degree_programs", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "degree_programs", primary_key: "program_id", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "description"
     t.string "credit_level"
-  end
-
-  create_table "detailed_graduation_rate_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
-    t.bigint "institution_id", null: false
-    t.integer "grad_rate_total_cohort"
-    t.integer "pell_grant_recipients_grad_rate_in_150_percent_normal_time"
-    t.string "type"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.string "grad_rate_men"
-    t.string "grad_rate_women"
-    t.integer "subsidized_stafford_loan_recipients_not_receiving_pell_grants"
-    t.integer "did_not_receive_pell_grants_or_subsidized_stafford_loans"
-    t.index ["institution_id"], name: "index_detailed_graduation_rate_profiles_on_institution_id"
   end
 
   create_table "favorites", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
@@ -70,19 +53,30 @@ ActiveRecord::Schema.define(version: 2020_02_21_222335) do
     t.index ["user_id"], name: "index_favorites_on_user_id"
   end
 
+  create_table "graduation_rate_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+    t.integer "grad_rate_total_cohort"
+    t.integer "pell_grant_recipients_grad_rate_in_150_percent_normal_time"
+    t.string "type"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.string "grad_rate_men"
+    t.string "grad_rate_women"
+    t.integer "subsidized_stafford_loan_recipients_not_receiving_pell_grants"
+    t.integer "did_not_receive_pell_grants_or_subsidized_stafford_loans"
+    t.integer "unit_id"
+  end
+
   create_table "institution_to_degrees", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.decimal "med_debt", precision: 10
     t.decimal "mean_debt", precision: 10
     t.decimal "median_wage", precision: 10
-    t.bigint "institutions_id"
-    t.bigint "degree_programs_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["degree_programs_id"], name: "index_institution_to_degrees_on_degree_programs_id"
-    t.index ["institutions_id"], name: "index_institution_to_degrees_on_institutions_id"
+    t.integer "unit_id"
+    t.integer "program_id"
   end
 
-  create_table "institutions", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "institutions", primary_key: "unit_id", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.string "state_abbreviation"
     t.string "total_enrollment"
     t.string "sector_of_institition"
@@ -108,7 +102,6 @@ ActiveRecord::Schema.define(version: 2020_02_21_222335) do
   end
 
   create_table "student_demographic_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
-    t.bigint "institution_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.integer "undergrad_total"
@@ -135,7 +128,7 @@ ActiveRecord::Schema.define(version: 2020_02_21_222335) do
     t.integer "total_grad_over_25"
     t.integer "first_time_undergrad_us"
     t.integer "first_time_undergrad_foreign"
-    t.index ["institution_id"], name: "index_student_demographic_profiles_on_institution_id"
+    t.integer "unit_id"
   end
 
   create_table "users", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
@@ -155,10 +148,5 @@ ActiveRecord::Schema.define(version: 2020_02_21_222335) do
     t.index ["email"], name: "index_users_on_email"
   end
 
-  add_foreign_key "comparisons", "degree_programs"
-  add_foreign_key "comparisons", "institutions"
   add_foreign_key "comparisons", "users"
-  add_foreign_key "cost_and_financial_aid_profiles", "institutions"
-  add_foreign_key "detailed_graduation_rate_profiles", "institutions"
-  add_foreign_key "student_demographic_profiles", "institutions"
 end
