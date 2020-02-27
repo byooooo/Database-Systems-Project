@@ -1,3 +1,3 @@
-class BachelorsGrantingInstitutionGradRateProfile < DetailedGraduationRateProfile
+class BachelorsGrantingInstitutionGradRateProfile < GraduationRateProfile
   store_accessor :sti_store, :grad_rate_4_years_total, :grad_rate_5_years_total, :grad_rate_6_years_total, :grad_rate_6_years_men, :grad_rate_6_years_women, :pell_grant_recipients_bachelors_6_years, :subsidized_stafford_loan_recipients_not_receiving_pell_grants, :no_pell_grant_no_subsidized_stafford
 end
