@@ -6,6 +6,12 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+school = Institution.find_by_id(2)
+puts school.name
+CostAndFinancialAidProfile.create(institution_id: school.id, percent_awarded_fin_aid: 50, )
+
+
+"""
 require 'csv'
 csv_text = File.read(Rails.root.join('lib', 'seeds', 'InstitutionEntityData.csv'))
 csv = CSV.parse(csv_text, :headers => true, :encoding => 'ISO-8859-1')
@@ -34,6 +40,7 @@ csv.each do |row|
         percent_submitting_sat: row['percent_submitting_sat'],
     )
 end
+"""
 
 
 

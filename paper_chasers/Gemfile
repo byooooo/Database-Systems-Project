@@ -25,6 +25,13 @@ gem 'bcrypt', '~> 3.1.7'
 # Using uuid as primary key rather than default `id`
 gem 'uuidtools'
 
+#adding bootstrap
+gem 'bootstrap',  '~>4.3.1'
+
+
+#adding this for the theme
+gem 'jquery-rails'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
@@ -43,7 +50,6 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
-  gem "rails-erd"
 end
 
 group :test do
