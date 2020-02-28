@@ -1,3 +1,3 @@
 class StudentDemographicProfile < ApplicationRecord
-  belongs_to :institution
+  has_one :institution
 end
