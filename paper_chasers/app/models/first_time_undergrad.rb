@@ -1,0 +1,2 @@
+class FirstTimeUndergrad < ApplicationRecord
+end
