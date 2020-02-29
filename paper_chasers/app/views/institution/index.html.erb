@@ -1,0 +1,18 @@
+
+<h1>Listing Schools</h1>
+ 
+<table>
+  <tr>
+    <th>School Name</th>
+    <th>State</th>
+    <th></th>
+  </tr>
+ 
+  <% @institution.each do |institution| %>
+    <tr>
+      <td><%= institution.name %></td>
+      <td><%= institution.state_abbreviation %></td>
+      <td><%= link_to 'Show', institution_path(institution) %></td>
+    </tr>
+  <% end %>
+</table>
