@@ -7,6 +7,8 @@ class AddKeys < ActiveRecord::Migration[6.0]
     add_column :cost_and_financial_aid_profiles, :institution_id, :bigint
     add_column :student_demographic_profiles, :institution_id, :bigint
     add_column :graduation_rate_profiles, :institution_id, :bigint
+    add_column :first_time_undergrads, :institution_id, :bigint
+    add_column :first_time_undergrads, :state_id, :bigint
     add_foreign_key :institution_to_degrees, :institutions
     add_foreign_key :institution_to_degrees, :degree_programs
     add_foreign_key :cost_and_financial_aid_profiles, :institutions
