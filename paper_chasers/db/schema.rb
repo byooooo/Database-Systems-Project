@@ -59,6 +59,10 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
   create_table "first_time_undergrads", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.bigint "institution_id"
+    t.bigint "state_id"
+    t.index ["institution_id"], name: "fk_rails_8950ffaf81"
+    t.index ["state_id"], name: "fk_rails_533858ce43"
   end
 
   create_table "graduation_rate_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
@@ -171,6 +175,8 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
   add_foreign_key "comparisons", "institutions"
   add_foreign_key "comparisons", "users"
   add_foreign_key "cost_and_financial_aid_profiles", "institutions"
+  add_foreign_key "first_time_undergrads", "institutions"
+  add_foreign_key "first_time_undergrads", "states"
   add_foreign_key "graduation_rate_profiles", "institutions"
   add_foreign_key "institution_to_degrees", "degree_programs"
   add_foreign_key "institution_to_degrees", "institutions"

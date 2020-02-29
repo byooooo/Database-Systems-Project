@@ -16,5 +16,7 @@ class AddKeys < ActiveRecord::Migration[6.0]
     add_foreign_key :graduation_rate_profiles, :institutions
     add_foreign_key :comparisons, :degree_programs
     add_foreign_key :comparisons, :institutions
+    add_foreign_key :first_time_undergrads, :states
+    add_foreign_key :first_time_undergrads, :institutions
   end
 end
