@@ -4,6 +4,7 @@
 // that code so it'll be compiled.
 import "bootstrap";
 import "../stylesheets/application";
+import "@fortawesome/fontawesome-free/js/all"
 
 require("@rails/ujs").start()
 require("turbolinks").start()
@@ -15,5 +16,3 @@ require("channels")
 // them with the image_pack_tag helper in views (e.g <%= image_pack_tag 'rails.png' %>)
 // or the `imagePath` JavaScript helper below.
 //
-// const images = require.context('../images', true)
-// const imagePath = (name) => images(name, true)
