@@ -7,7 +7,8 @@
     <th>State</th>
     <th></th>
   </tr>
- 
+  <%= pie_chart [["test1", 5], ["test2", 10]] %>
+
   <% @institution.each do |institution| %>
     <tr>
       <td><%= institution.name %></td>
