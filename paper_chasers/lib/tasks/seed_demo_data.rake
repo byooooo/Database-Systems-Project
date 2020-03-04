@@ -1,10 +1,12 @@
-task :seed_demographic_table => :environment do
+task :seed_demo_data => :environment do
     require 'csv'
     csv_text = File.read(Rails.root.join('lib', 'seeds', 'DemographicEntityData.csv'))
     csv = CSV.parse(csv_text, :headers => true, :encoding => 'ISO-8859-1')
     csv.each do |row|
-        institution = Institution.find_by(unitId: row['UnitID'])
-        puts "creating: #{institution.name}"
+        puts "This is the unitID from the CSV #{row['id']}"
+        puts "This is the college name #{row['Institution Name']}"
+        institution = Institution.find_by(unitId: row['id'])
+        puts "This is the institution I found with UnitId #{institution.name}"
         d = StudentDemographicProfile.new
         d.undergrad_total= row['UndergradTotal']
         d.undergrad_men= row['UndergradMen']
@@ -30,6 +32,7 @@ task :seed_demographic_table => :environment do
         d.total_undergrad_over_25= row['TotalUndergradOver25']
         d.total_grad_under_25= row['TotalGradUnder25']
         d.total_grad_over_25= row['TotatlGradOver25']
+        d.institution_id = institution.id 
         d.save
         institution.student_demographic_profile = d
     end

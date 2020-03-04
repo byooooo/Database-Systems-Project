@@ -1,4 +1,4 @@
-UnitID,Institution Name,UndergradTotal,UndergradMen,UndergradWomen,AmericanIndianTotalUndergrad,AsianTotalUndergrad,BlackOrAfricanAmericanTotalUndergrad,HispanicTotalUndergrad,NativeHawaiianPacificIslanderTotalUndergrad,WhiteUndergrad,GraduateStudentTotal,GraduateStudentMen,GraduateStudentWomen,AmericanIndianTotalGrad,AsianTotalGrad,BlackOrAfricanAmericanTotalGrad,HispanicTotalGrad,NativeHawaiianPacificIslanderTotalGrad,WhiteGrad,FirstTimeUndergradUS,FirsttimeUndergradForeign,TotalUndergradUnder25,TotalUndergradOver25,TotalGradUnder25,TotatlGradOver25
+﻿UnitID,Institution Name,UndergradTotal,UndergradMen,UndergradWomen,AmericanIndianTotalUndergrad,AsianTotalUndergrad,BlackOrAfricanAmericanTotalUndergrad,HispanicTotalUndergrad,NativeHawaiianPacificIslanderTotalUndergrad,WhiteUndergrad,GraduateStudentTotal,GraduateStudentMen,GraduateStudentWomen,AmericanIndianTotalGrad,AsianTotalGrad,BlackOrAfricanAmericanTotalGrad,HispanicTotalGrad,NativeHawaiianPacificIslanderTotalGrad,WhiteGrad,FirstTimeUndergradUS,FirsttimeUndergradForeign,TotalUndergradUnder25,TotalUndergradOver25,TotalGradUnder25,TotatlGradOver25
 177834,A T Still University of Health Sciences,,,,,,,,,,3717,1582,2135,26,523,265,318,4,2072,,,,,476,3210
 180203,Aaniiih Nakoda College,150,60,90,125,0,0,1,0,24,,,,,,,,,,39,,80,42,,
 491464,ABC Adult School,90,24,66,0,9,9,54,0,14,,,,,,,,,,59,,,,,
@@ -5126,9 +5126,9 @@ UnitID,Institution Name,UndergradTotal,UndergradMen,UndergradWomen,AmericanIndia
 139579,South University-Savannah,363,127,236,3,8,155,22,0,161,633,174,459,3,36,157,31,0,401,13,,133,364,232,499
 449898,South University-Tampa,541,130,411,3,31,133,193,6,161,339,67,272,3,24,78,61,2,143,23,,155,388,29,311
 133465,South University-West Palm Beach,556,99,457,4,18,260,135,3,119,136,23,113,0,6,67,26,0,34,10,,198,501,9,153
-459259,South University–Richmond,379,55,324,2,10,173,27,1,160,154,31,123,3,13,49,7,0,76,12,,150,354,16,132
-475121,South University–Savannah Online,3568,715,2853,68,29,1549,398,22,1417,3336,502,2834,47,142,1011,428,11,1526,355,,887,3169,94,3425
-459268,South University–Virginia Beach,369,66,303,4,18,176,41,4,123,108,20,88,2,3,57,11,1,29,6,,85,368,3,108
+459259,South University‚ÄìRichmond,379,55,324,2,10,173,27,1,160,154,31,123,3,13,49,7,0,76,12,,150,354,16,132
+475121,South University‚ÄìSavannah Online,3568,715,2853,68,29,1549,398,22,1417,3336,502,2834,47,142,1011,428,11,1526,355,,887,3169,94,3425
+459268,South University‚ÄìVirginia Beach,369,66,303,4,18,176,41,4,123,108,20,88,2,3,57,11,1,29,6,,85,368,3,108
 156338,Southcentral Kentucky Community and Technical College,4482,1878,2604,9,110,298,259,2,3587,,,,,,,,,,775,,3143,1146,,
 107637,Southeast Arkansas College,1119,342,777,4,14,636,57,1,400,,,,,,,,,,211,,706,598,,
 181640,Southeast Community College Area,9240,4250,4990,44,448,429,806,12,7143,,,,,,,,,,1459,10,6989,2422,,
