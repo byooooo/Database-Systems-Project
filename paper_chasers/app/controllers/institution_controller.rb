@@ -5,6 +5,6 @@ class InstitutionController < ApplicationController
     end
 
     def index
-        @institutions = Institution.paginate(page: params[:page], per_page: 20)
+        @institutions = Institution.paginate(page: params[:page], per_page: 50)
     end
 end
