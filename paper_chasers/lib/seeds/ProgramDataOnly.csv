@@ -1,0 +1,2409 @@
+﻿CIPCODE,CIPDESC,CREDLEV,CREDDESC,Duplicate
+100,"Agriculture, General.",3,Bachelors Degree,1003
+101,Agricultural Business and Management.,3,Bachelors Degree,1013
+109,Animal Sciences.,3,Bachelors Degree,1093
+110,Food Science and Technology.,3,Bachelors Degree,1103
+110,Food Science and Technology.,5,Master's Degree,1105
+110,Food Science and Technology.,6,Doctoral Degree,1106
+111,Plant Sciences.,3,Bachelors Degree,1113
+199,"Agriculture, Agriculture Operations, and Related Sciences, Other.",3,Bachelors Degree,1993
+199,"Agriculture, Agriculture Operations, and Related Sciences, Other.",5,Master's Degree,1995
+199,"Agriculture, Agriculture Operations, and Related Sciences, Other.",6,Doctoral Degree,1996
+305,Forestry.,3,Bachelors Degree,3053
+403,"City/Urban, Community and Regional Planning.",3,Bachelors Degree,4033
+403,"City/Urban, Community and Regional Planning.",5,Master's Degree,4035
+901,Communication and Media Studies.,5,Master's Degree,9015
+1002,Audiovisual Communications Technologies/Technicians.,3,Bachelors Degree,10023
+1101,"Computer and Information Sciences, General.",3,Bachelors Degree,11013
+1101,"Computer and Information Sciences, General.",5,Master's Degree,11015
+1301,"Education, General.",5,Master's Degree,13015
+1301,"Education, General.",8,Graduate/Professional Certificate,13018
+1304,Educational Administration and Supervision.,5,Master's Degree,13045
+1310,Special Education and Teaching.,3,Bachelors Degree,13103
+1310,Special Education and Teaching.,5,Master's Degree,13105
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",3,Bachelors Degree,13123
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,13125
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",3,Bachelors Degree,13133
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,13135
+1408,Civil Engineering.,3,Bachelors Degree,14083
+1410,"Electrical, Electronics and Communications Engineering.",3,Bachelors Degree,14103
+1419,Mechanical Engineering.,3,Bachelors Degree,14193
+1499,"Engineering, Other.",5,Master's Degree,14995
+1503,Electrical Engineering Technologies/Technicians.,3,Bachelors Degree,15033
+1506,Industrial Production Technologies/Technicians.,3,Bachelors Degree,15063
+1508,Mechanical Engineering Related Technologies/Technicians.,3,Bachelors Degree,15083
+1510,Construction Engineering Technologies.,3,Bachelors Degree,15103
+1901,"Family and Consumer Sciences/Human Sciences, General.",3,Bachelors Degree,19013
+1901,"Family and Consumer Sciences/Human Sciences, General.",5,Master's Degree,19015
+2301,"English Language and Literature, General.",3,Bachelors Degree,23013
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",3,Bachelors Degree,24013
+2601,"Biology, General.",3,Bachelors Degree,26013
+2601,"Biology, General.",5,Master's Degree,26015
+2701,Mathematics.,3,Bachelors Degree,27013
+3105,Health and Physical Education/Fitness.,5,Master's Degree,31055
+4005,Chemistry.,3,Bachelors Degree,40053
+4008,Physics.,3,Bachelors Degree,40083
+4008,Physics.,5,Master's Degree,40085
+4008,Physics.,6,Doctoral Degree,40086
+4201,"Psychology, General.",3,Bachelors Degree,42013
+4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,42285
+4301,Criminal Justice and Corrections.,3,Bachelors Degree,43013
+4407,Social Work.,3,Bachelors Degree,44073
+4407,Social Work.,5,Master's Degree,44075
+4510,Political Science and Government.,3,Bachelors Degree,45103
+4511,Sociology.,3,Bachelors Degree,45113
+5007,Fine and Studio Arts.,3,Bachelors Degree,50073
+5009,Music.,3,Bachelors Degree,50093
+5102,Communication Disorders Sciences and Services.,5,Master's Degree,51025
+5202,"Business Administration, Management and Operations.",3,Bachelors Degree,52023
+5202,"Business Administration, Management and Operations.",5,Master's Degree,52025
+5203,Accounting and Related Services.,3,Bachelors Degree,52033
+5208,Finance and Financial Management Services.,3,Bachelors Degree,52083
+5214,Marketing.,3,Bachelors Degree,52143
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",3,Bachelors Degree,5023
+901,Communication and Media Studies.,3,Bachelors Degree,9013
+1101,"Computer and Information Sciences, General.",6,Doctoral Degree,11016
+1110,Computer/Information Technology Administration and Management.,5,Master's Degree,11105
+1304,Educational Administration and Supervision.,6,Doctoral Degree,13046
+1304,Educational Administration and Supervision.,7,First Professional Degree,13047
+1304,Educational Administration and Supervision.,8,Graduate/Professional Certificate,13048
+1311,Student Counseling and Personnel Services.,5,Master's Degree,13115
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",6,Doctoral Degree,13126
+1314,Teaching English or French as a Second or Foreign Language.,5,Master's Degree,13145
+1401,"Engineering, General.",3,Bachelors Degree,14013
+1401,"Engineering, General.",5,Master's Degree,14015
+1405,Biomedical/Medical Engineering.,3,Bachelors Degree,14053
+1405,Biomedical/Medical Engineering.,5,Master's Degree,14055
+1405,Biomedical/Medical Engineering.,6,Doctoral Degree,14056
+1408,Civil Engineering.,5,Master's Degree,14085
+1408,Civil Engineering.,6,Doctoral Degree,14086
+1409,Computer Engineering.,6,Doctoral Degree,14096
+1410,"Electrical, Electronics and Communications Engineering.",5,Master's Degree,14105
+1418,Materials Engineering,3,Bachelors Degree,14183
+1418,Materials Engineering,5,Master's Degree,14185
+1418,Materials Engineering,6,Doctoral Degree,14186
+1419,Mechanical Engineering.,5,Master's Degree,14195
+1499,"Engineering, Other.",6,Doctoral Degree,14996
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",3,Bachelors Degree,16013
+1609,"Romance Languages, Literatures, and Linguistics.",3,Bachelors Degree,16093
+2301,"English Language and Literature, General.",5,Master's Degree,23015
+2601,"Biology, General.",6,Doctoral Degree,26016
+2602,"Biochemistry, Biophysics and Molecular Biology.",6,Doctoral Degree,26026
+2604,Cell/Cellular Biology and Anatomical Sciences.,6,Doctoral Degree,26046
+2605,Microbiological Sciences and Immunology.,6,Doctoral Degree,26056
+2608,Genetics.,6,Doctoral Degree,26086
+2609,"Physiology, Pathology and Related Sciences.",5,Master's Degree,26095
+2609,"Physiology, Pathology and Related Sciences.",6,Doctoral Degree,26096
+2610,Pharmacology and Toxicology.,6,Doctoral Degree,26106
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",5,Master's Degree,26115
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",6,Doctoral Degree,26116
+2612,Biotechnology.,5,Master's Degree,26125
+2613,"Ecology, Evolution, Systematics, and Population Biology.",6,Doctoral Degree,26136
+2614,Molecular Medicine.,6,Doctoral Degree,26146
+2615,Neurobiology and Neurosciences.,3,Bachelors Degree,26153
+2615,Neurobiology and Neurosciences.,6,Doctoral Degree,26156
+2699,"Biological and Biomedical Sciences, Other.",5,Master's Degree,26995
+2699,"Biological and Biomedical Sciences, Other.",6,Doctoral Degree,26996
+2701,Mathematics.,5,Master's Degree,27015
+2703,Applied Mathematics.,6,Doctoral Degree,27036
+3006,Systems Science and Theory.,5,Master's Degree,30065
+3019,Nutrition Sciences.,5,Master's Degree,30195
+3019,Nutrition Sciences.,6,Doctoral Degree,30196
+3099,"Multi/Interdisciplinary Studies, Other.",5,Master's Degree,30995
+3105,Health and Physical Education/Fitness.,6,Doctoral Degree,31056
+3801,Philosophy.,3,Bachelors Degree,38013
+4005,Chemistry.,5,Master's Degree,40055
+4005,Chemistry.,6,Doctoral Degree,40056
+4010,Materials Sciences.,6,Doctoral Degree,40106
+4201,"Psychology, General.",5,Master's Degree,42015
+4201,"Psychology, General.",6,Doctoral Degree,42016
+4301,Criminal Justice and Corrections.,5,Master's Degree,43015
+4404,Public Administration.,5,Master's Degree,44045
+4502,Anthropology.,3,Bachelors Degree,45023
+4502,Anthropology.,5,Master's Degree,45025
+4511,Sociology.,5,Master's Degree,45115
+4511,Sociology.,6,Doctoral Degree,45116
+4599,"Social Sciences, Other.",3,Bachelors Degree,45993
+5005,Drama/Theatre Arts and Stagecraft.,3,Bachelors Degree,50053
+5007,Fine and Studio Arts.,5,Master's Degree,50075
+5100,"Health Services/Allied Health/Health Sciences, General.",3,Bachelors Degree,51003
+5100,"Health Services/Allied Health/Health Sciences, General.",5,Master's Degree,51005
+5104,Dentistry.,5,Master's Degree,51045
+5104,Dentistry.,7,First Professional Degree,51047
+5104,Dentistry.,8,Graduate/Professional Certificate,51048
+5105,Advanced/Graduate Dentistry and Oral Sciences.,5,Master's Degree,51055
+5105,Advanced/Graduate Dentistry and Oral Sciences.,8,Graduate/Professional Certificate,51058
+5106,Dental Support Services and Allied Professions.,1,Undergraduate Certificate or Diploma,51061
+5107,Health and Medical Administrative Services.,3,Bachelors Degree,51073
+5107,Health and Medical Administrative Services.,5,Master's Degree,51075
+5107,Health and Medical Administrative Services.,6,Doctoral Degree,51076
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",1,Undergraduate Certificate or Diploma,51091
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",3,Bachelors Degree,51093
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,51095
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,3,Bachelors Degree,51103
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,5,Master's Degree,51105
+5112,Medicine.,7,First Professional Degree,51127
+5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,51155
+5117,Optometry.,7,First Professional Degree,51177
+5122,Public Health.,3,Bachelors Degree,51223
+5122,Public Health.,5,Master's Degree,51225
+5122,Public Health.,6,Doctoral Degree,51226
+5122,Public Health.,7,First Professional Degree,51227
+5123,Rehabilitation and Therapeutic Professions.,5,Master's Degree,51235
+5123,Rehabilitation and Therapeutic Professions.,6,Doctoral Degree,51236
+5123,Rehabilitation and Therapeutic Professions.,7,First Professional Degree,51237
+5131,Dietetics and Clinical Nutrition Services.,5,Master's Degree,51315
+5131,Dietetics and Clinical Nutrition Services.,8,Graduate/Professional Certificate,51318
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",3,Bachelors Degree,51383
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,51385
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",6,Doctoral Degree,51386
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",7,First Professional Degree,51387
+5199,"Health Professions and Related Clinical Sciences, Other.",3,Bachelors Degree,51993
+5203,Accounting and Related Services.,5,Master's Degree,52035
+5206,Business/Managerial Economics.,3,Bachelors Degree,52063
+5210,Human Resources Management and Services.,3,Bachelors Degree,52103
+5212,Management Information Systems and Services.,3,Bachelors Degree,52123
+5212,Management Information Systems and Services.,5,Master's Degree,52125
+5212,Management Information Systems and Services.,8,Graduate/Professional Certificate,52128
+5218,"General Sales, Merchandising and Related Marketing Operations.",3,Bachelors Degree,52183
+5401,History.,3,Bachelors Degree,54013
+5401,History.,5,Master's Degree,54015
+1907,"Human Development, Family Studies, and Related Services.",3,Bachelors Degree,19073
+1907,"Human Development, Family Studies, and Related Services.",5,Master's Degree,19075
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",2,Associate's Degree,24012
+3802,Religion/Religious Studies.,5,Master's Degree,38025
+3902,Bible/Biblical Studies.,3,Bachelors Degree,39023
+3902,Bible/Biblical Studies.,5,Master's Degree,39025
+3902,Bible/Biblical Studies.,6,Doctoral Degree,39026
+3906,Theological and Ministerial Studies.,5,Master's Degree,39065
+3906,Theological and Ministerial Studies.,6,Doctoral Degree,39066
+3907,Pastoral Counseling and Specialized Ministries.,3,Bachelors Degree,39073
+3907,Pastoral Counseling and Specialized Ministries.,5,Master's Degree,39075
+3907,Pastoral Counseling and Specialized Ministries.,6,Doctoral Degree,39076
+4301,Criminal Justice and Corrections.,2,Associate's Degree,43012
+4303,Homeland Security.,3,Bachelors Degree,43033
+5115,Mental and Social Health Services and Allied Professions.,6,Doctoral Degree,51156
+5202,"Business Administration, Management and Operations.",2,Associate's Degree,52022
+5205,Business/Corporate Communications.,3,Bachelors Degree,52053
+1108,Computer Software and Media Applications.,5,Master's Degree,11085
+1108,Computer Software and Media Applications.,6,Doctoral Degree,11086
+1108,Computer Software and Media Applications.,8,Graduate/Professional Certificate,11088
+1110,Computer/Information Technology Administration and Management.,4,Post-baccalaureate Certificate,11104
+1301,"Education, General.",3,Bachelors Degree,13013
+1314,Teaching English or French as a Second or Foreign Language.,4,Post-baccalaureate Certificate,13144
+1314,Teaching English or French as a Second or Foreign Language.,8,Graduate/Professional Certificate,13148
+1402,"Aerospace, Aeronautical and Astronautical Engineering.",3,Bachelors Degree,14023
+1402,"Aerospace, Aeronautical and Astronautical Engineering.",5,Master's Degree,14025
+1402,"Aerospace, Aeronautical and Astronautical Engineering.",6,Doctoral Degree,14026
+1407,Chemical Engineering.,3,Bachelors Degree,14073
+1407,Chemical Engineering.,5,Master's Degree,14075
+1409,Computer Engineering.,3,Bachelors Degree,14093
+1409,Computer Engineering.,4,Post-baccalaureate Certificate,14094
+1409,Computer Engineering.,5,Master's Degree,14095
+1409,Computer Engineering.,8,Graduate/Professional Certificate,14098
+1410,"Electrical, Electronics and Communications Engineering.",6,Doctoral Degree,14106
+1419,Mechanical Engineering.,6,Doctoral Degree,14196
+1435,Industrial Engineering.,3,Bachelors Degree,14353
+1435,Industrial Engineering.,5,Master's Degree,14355
+1435,Industrial Engineering.,6,Doctoral Degree,14356
+1499,"Engineering, Other.",3,Bachelors Degree,14993
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",1,Undergraduate Certificate or Diploma,16011
+2313,Rhetoric and Composition/Writing Studies.,4,Post-baccalaureate Certificate,23134
+2313,Rhetoric and Composition/Writing Studies.,8,Graduate/Professional Certificate,23138
+2612,Biotechnology.,6,Doctoral Degree,26126
+3001,Biological and Physical Sciences.,5,Master's Degree,30015
+3015,"Science, Technology and Society.",5,Master's Degree,30155
+3099,"Multi/Interdisciplinary Studies, Other.",3,Bachelors Degree,30993
+3099,"Multi/Interdisciplinary Studies, Other.",4,Post-baccalaureate Certificate,30994
+3099,"Multi/Interdisciplinary Studies, Other.",6,Doctoral Degree,30996
+3099,"Multi/Interdisciplinary Studies, Other.",8,Graduate/Professional Certificate,30998
+3105,Health and Physical Education/Fitness.,3,Bachelors Degree,31053
+4004,Atmospheric Sciences and Meteorology.,5,Master's Degree,40045
+4004,Atmospheric Sciences and Meteorology.,6,Doctoral Degree,40046
+4099,"Physical Sciences, Other.",3,Bachelors Degree,40993
+4099,"Physical Sciences, Other.",5,Master's Degree,40995
+4099,"Physical Sciences, Other.",6,Doctoral Degree,40996
+4510,Political Science and Government.,1,Undergraduate Certificate or Diploma,45101
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",4,Post-baccalaureate Certificate,51384
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",8,Graduate/Professional Certificate,51388
+5202,"Business Administration, Management and Operations.",4,Post-baccalaureate Certificate,52024
+5202,"Business Administration, Management and Operations.",8,Graduate/Professional Certificate,52028
+5203,Accounting and Related Services.,4,Post-baccalaureate Certificate,52034
+5203,Accounting and Related Services.,8,Graduate/Professional Certificate,52038
+5210,Human Resources Management and Services.,5,Master's Degree,52105
+5210,Human Resources Management and Services.,8,Graduate/Professional Certificate,52108
+5212,Management Information Systems and Services.,4,Post-baccalaureate Certificate,52124
+5213,Management Sciences and Quantitative Methods.,5,Master's Degree,52135
+1104,Information Science/Studies.,3,Bachelors Degree,11043
+1107,Computer Science.,3,Bachelors Degree,11073
+1301,"Education, General.",1,Undergraduate Certificate or Diploma,13011
+1305,Educational/Instructional Media Design.,5,Master's Degree,13055
+1305,Educational/Instructional Media Design.,8,Graduate/Professional Certificate,13058
+1311,Student Counseling and Personnel Services.,8,Graduate/Professional Certificate,13118
+2613,"Ecology, Evolution, Systematics, and Population Biology.",3,Bachelors Degree,26133
+3103,"Parks, Recreation and Leisure Facilities Management.",3,Bachelors Degree,31033
+4499,"Public Administration and Social Service Professions, Other.",5,Master's Degree,44995
+5003,Dance.,3,Bachelors Degree,50033
+5123,Rehabilitation and Therapeutic Professions.,3,Bachelors Degree,51233
+5123,Rehabilitation and Therapeutic Professions.,8,Graduate/Professional Certificate,51238
+301,Natural Resources Conservation and Research.,3,Bachelors Degree,3013
+501,Area Studies.,3,Bachelors Degree,5013
+501,Area Studies.,5,Master's Degree,5015
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",5,Master's Degree,5025
+901,Communication and Media Studies.,6,Doctoral Degree,9016
+904,Journalism.,3,Bachelors Degree,9043
+904,Journalism.,5,Master's Degree,9045
+907,"Radio, Television, and Digital Communication.",3,Bachelors Degree,9073
+907,"Radio, Television, and Digital Communication.",5,Master's Degree,9075
+909,"Public Relations, Advertising, and Applied Communication.",3,Bachelors Degree,9093
+909,"Public Relations, Advertising, and Applied Communication.",5,Master's Degree,9095
+1306,"Educational Assessment, Evaluation, and Research.",6,Doctoral Degree,13066
+1310,Special Education and Teaching.,6,Doctoral Degree,13106
+1310,Special Education and Teaching.,8,Graduate/Professional Certificate,13108
+1311,Student Counseling and Personnel Services.,6,Doctoral Degree,13116
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",8,Graduate/Professional Certificate,13128
+1404,Architectural Engineering.,3,Bachelors Degree,14043
+1407,Chemical Engineering.,6,Doctoral Degree,14076
+1411,Engineering Mechanics.,5,Master's Degree,14115
+1414,Environmental/Environmental Health Engineering.,3,Bachelors Degree,14143
+1414,Environmental/Environmental Health Engineering.,5,Master's Degree,14145
+1420,Metallurgical Engineering.,3,Bachelors Degree,14203
+1420,Metallurgical Engineering.,5,Master's Degree,14205
+1433,Construction Engineering.,3,Bachelors Degree,14333
+1605,"Germanic Languages, Literatures, and Linguistics.",3,Bachelors Degree,16053
+1605,"Germanic Languages, Literatures, and Linguistics.",5,Master's Degree,16055
+1609,"Romance Languages, Literatures, and Linguistics.",5,Master's Degree,16095
+1609,"Romance Languages, Literatures, and Linguistics.",6,Doctoral Degree,16096
+1904,Family and Consumer Economics and Related Studies.,3,Bachelors Degree,19043
+1904,Family and Consumer Economics and Related Studies.,5,Master's Degree,19045
+1905,"Foods, Nutrition, and Related Services.",3,Bachelors Degree,19053
+1905,"Foods, Nutrition, and Related Services.",5,Master's Degree,19055
+1909,Apparel and Textiles.,3,Bachelors Degree,19093
+2201,Law.,7,First Professional Degree,22017
+2202,Legal Research and Advanced Professional Studies.,5,Master's Degree,22025
+2202,Legal Research and Advanced Professional Studies.,6,Doctoral Degree,22026
+2301,"English Language and Literature, General.",6,Doctoral Degree,23016
+2313,Rhetoric and Composition/Writing Studies.,5,Master's Degree,23135
+2501,Library Science and Administration.,5,Master's Degree,25015
+2605,Microbiological Sciences and Immunology.,3,Bachelors Degree,26053
+2613,"Ecology, Evolution, Systematics, and Population Biology.",5,Master's Degree,26135
+2701,Mathematics.,6,Doctoral Degree,27016
+2705,Statistics.,5,Master's Degree,27055
+2705,Statistics.,6,Doctoral Degree,27056
+3000,"Multi-/Interdisciplinary Studies, General.",3,Bachelors Degree,30003
+3000,"Multi-/Interdisciplinary Studies, General.",6,Doctoral Degree,30006
+3020,International/Global Studies.,1,Undergraduate Certificate or Diploma,30201
+3802,Religion/Religious Studies.,3,Bachelors Degree,38023
+4006,Geological and Earth Sciences/Geosciences.,3,Bachelors Degree,40063
+4006,Geological and Earth Sciences/Geosciences.,5,Master's Degree,40065
+4006,Geological and Earth Sciences/Geosciences.,6,Doctoral Degree,40066
+4228,"Clinical, Counseling and Applied Psychology.",6,Doctoral Degree,42286
+4228,"Clinical, Counseling and Applied Psychology.",8,Graduate/Professional Certificate,42288
+4407,Social Work.,6,Doctoral Degree,44076
+4502,Anthropology.,6,Doctoral Degree,45026
+4504,Criminology.,3,Bachelors Degree,45043
+4504,Criminology.,5,Master's Degree,45045
+4507,Geography and Cartography.,3,Bachelors Degree,45073
+4507,Geography and Cartography.,5,Master's Degree,45075
+4507,Geography and Cartography.,6,Doctoral Degree,45076
+4509,International Relations and National Security Studies.,3,Bachelors Degree,45093
+4510,Political Science and Government.,5,Master's Degree,45105
+4510,Political Science and Government.,6,Doctoral Degree,45106
+5004,Design and Applied Arts.,3,Bachelors Degree,50043
+5005,Drama/Theatre Arts and Stagecraft.,5,Master's Degree,50055
+5009,Music.,5,Master's Degree,50095
+5009,Music.,6,Doctoral Degree,50096
+5102,Communication Disorders Sciences and Services.,3,Bachelors Degree,51023
+5122,Public Health.,8,Graduate/Professional Certificate,51228
+5131,Dietetics and Clinical Nutrition Services.,3,Bachelors Degree,51313
+5199,"Health Professions and Related Clinical Sciences, Other.",5,Master's Degree,51995
+5202,"Business Administration, Management and Operations.",6,Doctoral Degree,52026
+5203,Accounting and Related Services.,6,Doctoral Degree,52036
+5206,Business/Managerial Economics.,5,Master's Degree,52065
+5206,Business/Managerial Economics.,6,Doctoral Degree,52066
+5208,Finance and Financial Management Services.,5,Master's Degree,52085
+5208,Finance and Financial Management Services.,6,Doctoral Degree,52086
+5209,Hospitality Administration/Management.,3,Bachelors Degree,52093
+5213,Management Sciences and Quantitative Methods.,3,Bachelors Degree,52133
+5213,Management Sciences and Quantitative Methods.,6,Doctoral Degree,52136
+5214,Marketing.,5,Master's Degree,52145
+5214,Marketing.,6,Doctoral Degree,52146
+5216,Taxation.,5,Master's Degree,52165
+5401,History.,6,Doctoral Degree,54016
+1101,"Computer and Information Sciences, General.",1,Undergraduate Certificate or Diploma,11011
+1101,"Computer and Information Sciences, General.",2,Associate's Degree,11012
+1204,Cosmetology and Related Personal Grooming Services.,1,Undergraduate Certificate or Diploma,12041
+1204,Cosmetology and Related Personal Grooming Services.,2,Associate's Degree,12042
+1506,Industrial Production Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15061
+1506,Industrial Production Technologies/Technicians.,2,Associate's Degree,15062
+1513,Drafting/Design Engineering Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15131
+1513,Drafting/Design Engineering Technologies/Technicians.,2,Associate's Degree,15132
+1907,"Human Development, Family Studies, and Related Services.",1,Undergraduate Certificate or Diploma,19071
+1907,"Human Development, Family Studies, and Related Services.",2,Associate's Degree,19072
+3099,"Multi/Interdisciplinary Studies, Other.",1,Undergraduate Certificate or Diploma,30991
+3099,"Multi/Interdisciplinary Studies, Other.",2,Associate's Degree,30992
+4701,Electrical/Electronics Maintenance and Repair Technology.,1,Undergraduate Certificate or Diploma,47011
+4701,Electrical/Electronics Maintenance and Repair Technology.,2,Associate's Degree,47012
+4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",1,Undergraduate Certificate or Diploma,47021
+4805,Precision Metal Working.,1,Undergraduate Certificate or Diploma,48051
+4805,Precision Metal Working.,2,Associate's Degree,48052
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",1,Undergraduate Certificate or Diploma,51381
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",2,Associate's Degree,51382
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",1,Undergraduate Certificate or Diploma,51391
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",2,Associate's Degree,51392
+5202,"Business Administration, Management and Operations.",1,Undergraduate Certificate or Diploma,52021
+5204,Business Operations Support and Assistant Services.,1,Undergraduate Certificate or Diploma,52041
+5204,Business Operations Support and Assistant Services.,2,Associate's Degree,52042
+1399,"Education, Other.",3,Bachelors Degree,13993
+4302,Fire Protection.,3,Bachelors Degree,43023
+4501,"Social Sciences, General.",3,Bachelors Degree,45013
+5299,"Business, Management, Marketing, and Related Support Services, Other.",3,Bachelors Degree,52993
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",7,First Professional Degree,13127
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",5,Master's Degree,24015
+4001,Physical Sciences.,3,Bachelors Degree,40013
+4506,Economics.,3,Bachelors Degree,45063
+4507,Geography and Cartography.,1,Undergraduate Certificate or Diploma,45071
+4507,Geography and Cartography.,8,Graduate/Professional Certificate,45078
+5201,"Business/Commerce, General.",3,Bachelors Degree,52013
+5201,"Business/Commerce, General.",5,Master's Degree,52015
+5211,International Business.,3,Bachelors Degree,52113
+101,Agricultural Business and Management.,5,Master's Degree,1015
+103,Agricultural Production Operations.,3,Bachelors Degree,1033
+103,Agricultural Production Operations.,5,Master's Degree,1035
+103,Agricultural Production Operations.,6,Doctoral Degree,1036
+109,Animal Sciences.,5,Master's Degree,1095
+109,Animal Sciences.,6,Doctoral Degree,1096
+111,Plant Sciences.,4,Post-baccalaureate Certificate,1114
+111,Plant Sciences.,5,Master's Degree,1115
+111,Plant Sciences.,6,Doctoral Degree,1116
+111,Plant Sciences.,8,Graduate/Professional Certificate,1118
+301,Natural Resources Conservation and Research.,5,Master's Degree,3015
+302,Natural Resources Management and Policy.,3,Bachelors Degree,3023
+305,Forestry.,5,Master's Degree,3055
+305,Forestry.,6,Doctoral Degree,3056
+306,Wildlife and Wildlands Science and Management.,3,Bachelors Degree,3063
+402,Architecture.,3,Bachelors Degree,4023
+404,Environmental Design.,3,Bachelors Degree,4043
+405,Interior Architecture.,3,Bachelors Degree,4053
+406,Landscape Architecture.,5,Master's Degree,4065
+410,Real Estate Development.,5,Master's Degree,4105
+1304,Educational Administration and Supervision.,4,Post-baccalaureate Certificate,13044
+1310,Special Education and Teaching.,4,Post-baccalaureate Certificate,13104
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",4,Post-baccalaureate Certificate,13124
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",4,Post-baccalaureate Certificate,13134
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",6,Doctoral Degree,13136
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",8,Graduate/Professional Certificate,13138
+1404,Architectural Engineering.,4,Post-baccalaureate Certificate,14044
+1404,Architectural Engineering.,5,Master's Degree,14045
+1404,Architectural Engineering.,8,Graduate/Professional Certificate,14048
+1432,Polymer/Plastics Engineering.,3,Bachelors Degree,14323
+1432,Polymer/Plastics Engineering.,5,Master's Degree,14325
+1432,Polymer/Plastics Engineering.,6,Doctoral Degree,14326
+1435,Industrial Engineering.,4,Post-baccalaureate Certificate,14354
+1435,Industrial Engineering.,8,Graduate/Professional Certificate,14358
+1445,Biological/Biosystems Engineering.,3,Bachelors Degree,14453
+1445,Biological/Biosystems Engineering.,5,Master's Degree,14455
+1445,Biological/Biosystems Engineering.,6,Doctoral Degree,14456
+1905,"Foods, Nutrition, and Related Services.",8,Graduate/Professional Certificate,19058
+1907,"Human Development, Family Studies, and Related Services.",6,Doctoral Degree,19076
+1909,Apparel and Textiles.,5,Master's Degree,19095
+1999,"Family and Consumer Sciences/Human Sciences, Other.",3,Bachelors Degree,19993
+2607,Zoology/Animal Biology.,3,Bachelors Degree,26073
+2609,"Physiology, Pathology and Related Sciences.",3,Bachelors Degree,26093
+2609,"Physiology, Pathology and Related Sciences.",8,Graduate/Professional Certificate,26098
+2703,Applied Mathematics.,3,Bachelors Degree,27033
+2703,Applied Mathematics.,5,Master's Degree,27035
+3019,Nutrition Sciences.,3,Bachelors Degree,30193
+4404,Public Administration.,3,Bachelors Degree,44043
+4404,Public Administration.,4,Post-baccalaureate Certificate,44044
+4404,Public Administration.,6,Doctoral Degree,44046
+4404,Public Administration.,8,Graduate/Professional Certificate,44048
+4506,Economics.,5,Master's Degree,45065
+5004,Design and Applied Arts.,5,Master's Degree,50045
+5004,Design and Applied Arts.,6,Doctoral Degree,50046
+5102,Communication Disorders Sciences and Services.,7,First Professional Degree,51027
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",5,Master's Degree,51205
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",6,Doctoral Degree,51206
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",7,First Professional Degree,51207
+5124,Veterinary Medicine.,7,First Professional Degree,51247
+5125,Veterinary Biomedical and Clinical Sciences.,5,Master's Degree,51255
+5125,Veterinary Biomedical and Clinical Sciences.,6,Doctoral Degree,51256
+5203,Accounting and Related Services.,1,Undergraduate Certificate or Diploma,52031
+5213,Management Sciences and Quantitative Methods.,8,Graduate/Professional Certificate,52138
+5401,History.,4,Post-baccalaureate Certificate,54014
+5401,History.,8,Graduate/Professional Certificate,54018
+3010,Biopsychology.,3,Bachelors Degree,30103
+3020,International/Global Studies.,3,Bachelors Degree,30203
+3905,Religious/Sacred Music.,3,Bachelors Degree,39053
+5006,Film/Video and Photographic Arts.,3,Bachelors Degree,50063
+4301,Criminal Justice and Corrections.,1,Undergraduate Certificate or Diploma,43011
+4302,Fire Protection.,1,Undergraduate Certificate or Diploma,43021
+4302,Fire Protection.,2,Associate's Degree,43022
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",2,Associate's Degree,43992
+5004,Design and Applied Arts.,1,Undergraduate Certificate or Diploma,50041
+5004,Design and Applied Arts.,2,Associate's Degree,50042
+5009,Music.,2,Associate's Degree,50092
+5108,Allied Health and Medical Assisting Services.,1,Undergraduate Certificate or Diploma,51081
+5108,Allied Health and Medical Assisting Services.,2,Associate's Degree,51082
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",2,Associate's Degree,51092
+5203,Accounting and Related Services.,2,Associate's Degree,52032
+1304,Educational Administration and Supervision.,2,Associate's Degree,13042
+1304,Educational Administration and Supervision.,3,Bachelors Degree,13043
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",2,Associate's Degree,13122
+3017,Behavioral Sciences.,3,Bachelors Degree,30173
+3017,Behavioral Sciences.,4,Post-baccalaureate Certificate,30174
+4301,Criminal Justice and Corrections.,4,Post-baccalaureate Certificate,43014
+5111,Health/Medical Preparatory Programs.,2,Associate's Degree,51112
+1104,Information Science/Studies.,2,Associate's Degree,11042
+1104,Information Science/Studies.,5,Master's Degree,11045
+1110,Computer/Information Technology Administration and Management.,3,Bachelors Degree,11103
+2203,Legal Support Services.,2,Associate's Degree,22032
+2203,Legal Support Services.,3,Bachelors Degree,22033
+3906,Theological and Ministerial Studies.,7,First Professional Degree,39067
+5201,"Business/Commerce, General.",2,Associate's Degree,52012
+1108,Computer Software and Media Applications.,1,Undergraduate Certificate or Diploma,11081
+1512,Computer Engineering Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15121
+2203,Legal Support Services.,1,Undergraduate Certificate or Diploma,22031
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",1,Undergraduate Certificate or Diploma,24011
+4706,Vehicle Maintenance and Repair Technologies.,1,Undergraduate Certificate or Diploma,47061
+4706,Vehicle Maintenance and Repair Technologies.,2,Associate's Degree,47062
+5107,Health and Medical Administrative Services.,1,Undergraduate Certificate or Diploma,51071
+106,Applied Horticulture and Horticultural Business Services.,1,Undergraduate Certificate or Diploma,1061
+106,Applied Horticulture and Horticultural Business Services.,2,Associate's Degree,1062
+1003,Graphic Communications.,1,Undergraduate Certificate or Diploma,10031
+1003,Graphic Communications.,2,Associate's Degree,10032
+1505,Environmental Control Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15051
+1508,Mechanical Engineering Related Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15081
+1905,"Foods, Nutrition, and Related Services.",1,Undergraduate Certificate or Diploma,19051
+3103,"Parks, Recreation and Leisure Facilities Management.",1,Undergraduate Certificate or Diploma,31031
+3103,"Parks, Recreation and Leisure Facilities Management.",2,Associate's Degree,31032
+4103,Physical Science Technologies/Technicians.,1,Undergraduate Certificate or Diploma,41031
+4601,Mason/Masonry.,1,Undergraduate Certificate or Diploma,46011
+4602,Carpenters.,1,Undergraduate Certificate or Diploma,46021
+4603,Electrical and Power Transmission Installers.,1,Undergraduate Certificate or Diploma,46031
+4604,"Building/Construction Finishing, Management, and Inspection.",1,Undergraduate Certificate or Diploma,46041
+4703,Heavy/Industrial Equipment Maintenance Technologies.,1,Undergraduate Certificate or Diploma,47031
+4703,Heavy/Industrial Equipment Maintenance Technologies.,2,Associate's Degree,47032
+4704,Precision Systems Maintenance and Repair Technologies.,1,Undergraduate Certificate or Diploma,47041
+4799,"Mechanic and Repair Technologies/Technicians, Other.",1,Undergraduate Certificate or Diploma,47991
+4803,Leatherworking and Upholstery.,1,Undergraduate Certificate or Diploma,48031
+4807,Woodworking.,1,Undergraduate Certificate or Diploma,48071
+4902,Ground Transportation.,1,Undergraduate Certificate or Diploma,49021
+5007,Fine and Studio Arts.,1,Undergraduate Certificate or Diploma,50071
+5106,Dental Support Services and Allied Professions.,2,Associate's Degree,51062
+5126,Health Aides/Attendants/Orderlies.,1,Undergraduate Certificate or Diploma,51261
+5201,"Business/Commerce, General.",1,Undergraduate Certificate or Diploma,52011
+5209,Hospitality Administration/Management.,1,Undergraduate Certificate or Diploma,52091
+5209,Hospitality Administration/Management.,2,Associate's Degree,52092
+5215,Real Estate.,1,Undergraduate Certificate or Diploma,52151
+5219,"Specialized Sales, Merchandising and Marketing Operations.",1,Undergraduate Certificate or Diploma,52191
+2200,Non-Professional General Legal Studies (Undergraduate).,2,Associate's Degree,22002
+2200,Non-Professional General Legal Studies (Undergraduate).,3,Bachelors Degree,22003
+2299,"Legal Professions and Studies, Other.",2,Associate's Degree,22992
+2299,"Legal Professions and Studies, Other.",3,Bachelors Degree,22993
+2399,"English Language and Literature/Letters, Other.",5,Master's Degree,23995
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",6,Doctoral Degree,24016
+2601,"Biology, General.",2,Associate's Degree,26012
+2602,"Biochemistry, Biophysics and Molecular Biology.",3,Bachelors Degree,26023
+3028,Dispute Resolution.,5,Master's Degree,30285
+3906,Theological and Ministerial Studies.,3,Bachelors Degree,39063
+4228,"Clinical, Counseling and Applied Psychology.",3,Bachelors Degree,42283
+4299,"Psychology, Other.",3,Bachelors Degree,42993
+5111,Health/Medical Preparatory Programs.,3,Bachelors Degree,51113
+5115,Mental and Social Health Services and Allied Professions.,3,Bachelors Degree,51153
+5210,Human Resources Management and Services.,2,Associate's Degree,52102
+103,Agricultural Production Operations.,1,Undergraduate Certificate or Diploma,1031
+999,"Communication, Journalism, and Related Programs, Other.",2,Associate's Degree,9992
+1502,Civil Engineering Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15021
+1502,Civil Engineering Technologies/Technicians.,2,Associate's Degree,15022
+1503,Electrical Engineering Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15031
+1503,Electrical Engineering Technologies/Technicians.,2,Associate's Degree,15032
+1505,Environmental Control Technologies/Technicians.,2,Associate's Degree,15052
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,2,Associate's Degree,51102
+5115,Mental and Social Health Services and Allied Professions.,2,Associate's Degree,51152
+5135,Somatic Bodywork and Related Therapeutic Services.,1,Undergraduate Certificate or Diploma,51351
+5218,"General Sales, Merchandising and Related Marketing Operations.",2,Associate's Degree,52182
+1508,Mechanical Engineering Related Technologies/Technicians.,2,Associate's Degree,15082
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,2,Associate's Degree,41022
+4603,Electrical and Power Transmission Installers.,2,Associate's Degree,46032
+4605,Plumbing and Related Water Supply Services.,1,Undergraduate Certificate or Diploma,46051
+1205,Culinary Arts and Related Services.,1,Undergraduate Certificate or Diploma,12051
+1205,Culinary Arts and Related Services.,2,Associate's Degree,12052
+1500,"Engineering Technology, General.",1,Undergraduate Certificate or Diploma,15001
+1500,"Engineering Technology, General.",2,Associate's Degree,15002
+4700,"Mechanics and Repairers, General.",2,Associate's Degree,47002
+4901,Air Transportation.,1,Undergraduate Certificate or Diploma,49011
+4901,Air Transportation.,2,Associate's Degree,49012
+5107,Health and Medical Administrative Services.,2,Associate's Degree,51072
+5115,Mental and Social Health Services and Allied Professions.,1,Undergraduate Certificate or Diploma,51151
+1102,Computer Programming.,2,Associate's Degree,11022
+1102,Computer Programming.,3,Bachelors Degree,11023
+1109,Computer Systems Networking and Telecommunications.,1,Undergraduate Certificate or Diploma,11091
+1109,Computer Systems Networking and Telecommunications.,2,Associate's Degree,11092
+1599,"Engineering Technologies/Technicians, Other.",2,Associate's Degree,15992
+2313,Rhetoric and Composition/Writing Studies.,3,Bachelors Degree,23133
+2604,Cell/Cellular Biology and Anatomical Sciences.,3,Bachelors Degree,26043
+3904,Religious Education.,3,Bachelors Degree,39043
+3902,Bible/Biblical Studies.,2,Associate's Degree,39022
+4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",2,Associate's Degree,47022
+1507,Quality Control and Safety Technologies/Technicians.,3,Bachelors Degree,15073
+1599,"Engineering Technologies/Technicians, Other.",3,Bachelors Degree,15993
+1599,"Engineering Technologies/Technicians, Other.",5,Master's Degree,15995
+3101,"Parks, Recreation and Leisure Studies.",3,Bachelors Degree,31013
+3105,Health and Physical Education/Fitness.,8,Graduate/Professional Certificate,31058
+4499,"Public Administration and Social Service Professions, Other.",3,Bachelors Degree,44993
+4499,"Public Administration and Social Service Professions, Other.",6,Doctoral Degree,44996
+4499,"Public Administration and Social Service Professions, Other.",8,Graduate/Professional Certificate,44998
+4510,Political Science and Government.,8,Graduate/Professional Certificate,45108
+1002,Audiovisual Communications Technologies/Technicians.,1,Undergraduate Certificate or Diploma,10021
+1002,Audiovisual Communications Technologies/Technicians.,2,Associate's Degree,10022
+1203,Funeral Service and Mortuary Science.,1,Undergraduate Certificate or Diploma,12031
+1203,Funeral Service and Mortuary Science.,2,Associate's Degree,12032
+1510,Construction Engineering Technologies.,1,Undergraduate Certificate or Diploma,15101
+1510,Construction Engineering Technologies.,2,Associate's Degree,15102
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,1,Undergraduate Certificate or Diploma,51101
+2904,Military Systems and Maintenance Technology.,2,Associate's Degree,29042
+105,Agricultural and Domestic Animal Services.,3,Bachelors Degree,1053
+4201,"Psychology, General.",2,Associate's Degree,42012
+4407,Social Work.,2,Associate's Degree,44072
+4604,"Building/Construction Finishing, Management, and Inspection.",2,Associate's Degree,46042
+3001,Biological and Physical Sciences.,3,Bachelors Degree,30013
+4227,Research and Experimental Psychology.,5,Master's Degree,42275
+305,Forestry.,1,Undergraduate Certificate or Diploma,3051
+305,Forestry.,2,Associate's Degree,3052
+999,"Communication, Journalism, and Related Programs, Other.",3,Bachelors Degree,9993
+1109,Computer Systems Networking and Telecommunications.,3,Bachelors Degree,11093
+5001,"Visual and Performing Arts, General.",3,Bachelors Degree,50013
+3023,Intercultural/Multicultural and Diversity Studies.,3,Bachelors Degree,30233
+1301,"Education, General.",7,First Professional Degree,13017
+1305,Educational/Instructional Media Design.,7,First Professional Degree,13057
+1501,Architectural Engineering Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15011
+1504,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15041
+1205,Culinary Arts and Related Services.,3,Bachelors Degree,12053
+1500,"Engineering Technology, General.",3,Bachelors Degree,15003
+1907,"Human Development, Family Studies, and Related Services.",8,Graduate/Professional Certificate,19078
+3000,"Multi-/Interdisciplinary Studies, General.",5,Master's Degree,30005
+3033,Sustainability Studies.,3,Bachelors Degree,30333
+3199,"Parks, Recreation, Leisure, and Fitness Studies, Other.",3,Bachelors Degree,31993
+3199,"Parks, Recreation, Leisure, and Fitness Studies, Other.",5,Master's Degree,31995
+4227,Research and Experimental Psychology.,3,Bachelors Degree,42273
+4407,Social Work.,8,Graduate/Professional Certificate,44078
+4511,Sociology.,8,Graduate/Professional Certificate,45118
+5010,"Arts, Entertainment,and Media Management.",3,Bachelors Degree,50103
+5102,Communication Disorders Sciences and Services.,2,Associate's Degree,51022
+5123,Rehabilitation and Therapeutic Professions.,2,Associate's Degree,51232
+5131,Dietetics and Clinical Nutrition Services.,4,Post-baccalaureate Certificate,51314
+5205,Business/Corporate Communications.,1,Undergraduate Certificate or Diploma,52051
+5199,"Health Professions and Related Clinical Sciences, Other.",1,Undergraduate Certificate or Diploma,51991
+1504,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,2,Associate's Degree,15042
+1905,"Foods, Nutrition, and Related Services.",2,Associate's Degree,19052
+1909,Apparel and Textiles.,1,Undergraduate Certificate or Diploma,19091
+4902,Ground Transportation.,2,Associate's Degree,49022
+1311,Student Counseling and Personnel Services.,3,Bachelors Degree,13113
+1412,Engineering Physics.,3,Bachelors Degree,14123
+1505,Environmental Control Technologies/Technicians.,5,Master's Degree,15055
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",3,Bachelors Degree,16123
+2201,Law.,6,Doctoral Degree,22016
+2203,Legal Support Services.,4,Post-baccalaureate Certificate,22034
+3899,"Philosophy and Religious Studies, Other.",3,Bachelors Degree,38993
+3905,Religious/Sacred Music.,5,Master's Degree,39055
+3906,Theological and Ministerial Studies.,8,Graduate/Professional Certificate,39068
+4400,"Human Services, General.",3,Bachelors Degree,44003
+5099,"Visual and Performing Arts, Other.",3,Bachelors Degree,50993
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",3,Bachelors Degree,51203
+5207,Entrepreneurial and Small Business Operations.,3,Bachelors Degree,52073
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",2,Associate's Degree,13132
+3802,Religion/Religious Studies.,2,Associate's Degree,38022
+3902,Bible/Biblical Studies.,4,Post-baccalaureate Certificate,39024
+3904,Religious Education.,2,Associate's Degree,39042
+3907,Pastoral Counseling and Specialized Ministries.,2,Associate's Degree,39072
+1907,"Human Development, Family Studies, and Related Services.",7,First Professional Degree,19077
+3105,Health and Physical Education/Fitness.,1,Undergraduate Certificate or Diploma,31051
+5009,Music.,1,Undergraduate Certificate or Diploma,50091
+302,Natural Resources Management and Policy.,5,Master's Degree,3025
+1104,Information Science/Studies.,1,Undergraduate Certificate or Diploma,11041
+1107,Computer Science.,1,Undergraduate Certificate or Diploma,11071
+1399,"Education, Other.",5,Master's Degree,13995
+1399,"Education, Other.",6,Doctoral Degree,13996
+1399,"Education, Other.",8,Graduate/Professional Certificate,13998
+1427,Systems Engineering.,6,Doctoral Degree,14276
+2610,Pharmacology and Toxicology.,5,Master's Degree,26105
+2705,Statistics.,3,Bachelors Degree,27053
+3001,Biological and Physical Sciences.,6,Doctoral Degree,30016
+3011,Gerontology.,1,Undergraduate Certificate or Diploma,30111
+3011,Gerontology.,8,Graduate/Professional Certificate,30118
+4004,Atmospheric Sciences and Meteorology.,3,Bachelors Degree,40043
+5102,Communication Disorders Sciences and Services.,6,Doctoral Degree,51026
+5112,Medicine.,6,Doctoral Degree,51126
+5127,Medical Illustration and Informatics.,3,Bachelors Degree,51273
+3802,Religion/Religious Studies.,1,Undergraduate Certificate or Diploma,38021
+3802,Religion/Religious Studies.,8,Graduate/Professional Certificate,38028
+5007,Fine and Studio Arts.,8,Graduate/Professional Certificate,50078
+5111,Health/Medical Preparatory Programs.,1,Undergraduate Certificate or Diploma,51111
+5111,Health/Medical Preparatory Programs.,8,Graduate/Professional Certificate,51118
+3902,Bible/Biblical Studies.,1,Undergraduate Certificate or Diploma,39021
+1199,"Computer and Information Sciences and Support Services, Other.",3,Bachelors Degree,11993
+1511,Engineering-Related Technologies.,3,Bachelors Degree,15113
+1616,American Sign Language.,3,Bachelors Degree,16163
+3015,"Science, Technology and Society.",3,Bachelors Degree,30153
+4501,"Social Sciences, General.",5,Master's Degree,45015
+4509,International Relations and National Security Studies.,5,Master's Degree,45095
+5211,International Business.,5,Master's Degree,52115
+5216,Taxation.,8,Graduate/Professional Certificate,52168
+112,Soil Sciences.,3,Bachelors Degree,1123
+112,Soil Sciences.,5,Master's Degree,1125
+409,Architectural Sciences and Technology.,3,Bachelors Degree,4093
+1107,Computer Science.,5,Master's Degree,11075
+4010,Materials Sciences.,5,Master's Degree,40105
+4604,"Building/Construction Finishing, Management, and Inspection.",3,Bachelors Degree,46043
+5108,Allied Health and Medical Assisting Services.,5,Master's Degree,51085
+5220,Construction Management.,3,Bachelors Degree,52203
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",1,Undergraduate Certificate or Diploma,13131
+3103,"Parks, Recreation and Leisure Facilities Management.",5,Master's Degree,31035
+1509,Mining and Petroleum Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15091
+301,Natural Resources Conservation and Research.,1,Undergraduate Certificate or Diploma,3011
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",1,Undergraduate Certificate or Diploma,5021
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",2,Associate's Degree,5022
+904,Journalism.,1,Undergraduate Certificate or Diploma,9041
+904,Journalism.,2,Associate's Degree,9042
+1110,Computer/Information Technology Administration and Management.,1,Undergraduate Certificate or Diploma,11101
+1310,Special Education and Teaching.,1,Undergraduate Certificate or Diploma,13101
+1310,Special Education and Teaching.,2,Associate's Degree,13102
+1408,Civil Engineering.,1,Undergraduate Certificate or Diploma,14081
+1408,Civil Engineering.,8,Graduate/Professional Certificate,14088
+1422,Naval Architecture and Marine Engineering.,8,Graduate/Professional Certificate,14228
+1501,Architectural Engineering Technologies/Technicians.,2,Associate's Degree,15012
+1507,Quality Control and Safety Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15071
+1507,Quality Control and Safety Technologies/Technicians.,2,Associate's Degree,15072
+1509,Mining and Petroleum Technologies/Technicians.,2,Associate's Degree,15092
+1511,Engineering-Related Technologies.,2,Associate's Degree,15112
+1512,Computer Engineering Technologies/Technicians.,2,Associate's Degree,15122
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16101
+2203,Legal Support Services.,8,Graduate/Professional Certificate,22038
+2701,Mathematics.,2,Associate's Degree,27012
+3033,Sustainability Studies.,1,Undergraduate Certificate or Diploma,30331
+3106,Outdoor Education.,1,Undergraduate Certificate or Diploma,31061
+3106,Outdoor Education.,2,Associate's Degree,31062
+3801,Philosophy.,1,Undergraduate Certificate or Diploma,38011
+4199,"Science Technologies/Technicians, Other.",2,Associate's Degree,41992
+4199,"Science Technologies/Technicians, Other.",3,Bachelors Degree,41993
+4400,"Human Services, General.",1,Undergraduate Certificate or Diploma,44001
+4400,"Human Services, General.",8,Graduate/Professional Certificate,44008
+4402,Community Organization and Advocacy.,1,Undergraduate Certificate or Diploma,44021
+4501,"Social Sciences, General.",2,Associate's Degree,45012
+4901,Air Transportation.,3,Bachelors Degree,49013
+5005,Drama/Theatre Arts and Stagecraft.,2,Associate's Degree,50052
+5106,Dental Support Services and Allied Professions.,3,Bachelors Degree,51063
+5108,Allied Health and Medical Assisting Services.,3,Bachelors Degree,51083
+5122,Public Health.,2,Associate's Degree,51222
+5207,Entrepreneurial and Small Business Operations.,1,Undergraduate Certificate or Diploma,52071
+5212,Management Information Systems and Services.,1,Undergraduate Certificate or Diploma,52121
+5212,Management Information Systems and Services.,2,Associate's Degree,52122
+5220,Construction Management.,2,Associate's Degree,52202
+5220,Construction Management.,8,Graduate/Professional Certificate,52208
+5299,"Business, Management, Marketing, and Related Support Services, Other.",2,Associate's Degree,52992
+3903,Missions/Missionary Studies and Missiology.,3,Bachelors Degree,39033
+109,Animal Sciences.,1,Undergraduate Certificate or Diploma,1091
+301,Natural Resources Conservation and Research.,6,Doctoral Degree,3016
+302,Natural Resources Management and Policy.,2,Associate's Degree,3022
+302,Natural Resources Management and Policy.,6,Doctoral Degree,3026
+303,Fishing and Fisheries Sciences and Management.,3,Bachelors Degree,3033
+303,Fishing and Fisheries Sciences and Management.,5,Master's Degree,3035
+303,Fishing and Fisheries Sciences and Management.,6,Doctoral Degree,3036
+306,Wildlife and Wildlands Science and Management.,5,Master's Degree,3065
+306,Wildlife and Wildlands Science and Management.,6,Doctoral Degree,3066
+399,"Natural Resources and Conservation, Other.",3,Bachelors Degree,3993
+399,"Natural Resources and Conservation, Other.",5,Master's Degree,3995
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",6,Doctoral Degree,5026
+1110,Computer/Information Technology Administration and Management.,2,Associate's Degree,11102
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",1,Undergraduate Certificate or Diploma,13121
+1315,Teaching Assistants/Aides.,1,Undergraduate Certificate or Diploma,13151
+1315,Teaching Assistants/Aides.,2,Associate's Degree,13152
+1401,"Engineering, General.",6,Doctoral Degree,14016
+1409,Computer Engineering.,2,Associate's Degree,14092
+1421,Mining and Mineral Engineering.,3,Bachelors Degree,14213
+1421,Mining and Mineral Engineering.,5,Master's Degree,14215
+1425,Petroleum Engineering.,3,Bachelors Degree,14253
+1425,Petroleum Engineering.,5,Master's Degree,14255
+1439,Geological/Geophysical Engineering.,3,Bachelors Degree,14393
+1439,Geological/Geophysical Engineering.,5,Master's Degree,14395
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",5,Master's Degree,16015
+1603,"East Asian Languages, Literatures, and Linguistics.",3,Bachelors Degree,16033
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",2,Associate's Degree,16102
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",3,Bachelors Degree,16103
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",1,Undergraduate Certificate or Diploma,16991
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",2,Associate's Degree,16992
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",3,Bachelors Degree,16993
+2299,"Legal Professions and Studies, Other.",1,Undergraduate Certificate or Diploma,22991
+2602,"Biochemistry, Biophysics and Molecular Biology.",5,Master's Degree,26025
+2703,Applied Mathematics.,8,Graduate/Professional Certificate,27038
+3018,Natural Sciences.,2,Associate's Degree,30182
+4002,Astronomy and Astrophysics.,5,Master's Degree,40025
+4002,Astronomy and Astrophysics.,6,Doctoral Degree,40026
+4303,Homeland Security.,1,Undergraduate Certificate or Diploma,43031
+4303,Homeland Security.,5,Master's Degree,43035
+4402,Community Organization and Advocacy.,2,Associate's Degree,44022
+4402,Community Organization and Advocacy.,3,Bachelors Degree,44023
+4402,Community Organization and Advocacy.,5,Master's Degree,44025
+4501,"Social Sciences, General.",1,Undergraduate Certificate or Diploma,45011
+4600,"Construction Trades, General.",1,Undergraduate Certificate or Diploma,46001
+4600,"Construction Trades, General.",2,Associate's Degree,46002
+4602,Carpenters.,2,Associate's Degree,46022
+5122,Public Health.,1,Undergraduate Certificate or Diploma,51221
+5208,Finance and Financial Management Services.,1,Undergraduate Certificate or Diploma,52081
+303,Fishing and Fisheries Sciences and Management.,1,Undergraduate Certificate or Diploma,3031
+303,Fishing and Fisheries Sciences and Management.,2,Associate's Degree,3032
+1401,"Engineering, General.",1,Undergraduate Certificate or Diploma,14011
+3001,Biological and Physical Sciences.,2,Associate's Degree,30012
+3106,Outdoor Education.,3,Bachelors Degree,31063
+3199,"Parks, Recreation, Leisure, and Fitness Studies, Other.",1,Undergraduate Certificate or Diploma,31991
+4903,Marine Transportation.,1,Undergraduate Certificate or Diploma,49031
+4903,Marine Transportation.,2,Associate's Degree,49032
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",1,Undergraduate Certificate or Diploma,50021
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",4,Post-baccalaureate Certificate,24014
+3106,Outdoor Education.,5,Master's Degree,31065
+4228,"Clinical, Counseling and Applied Psychology.",7,First Professional Degree,42287
+4400,"Human Services, General.",2,Associate's Degree,44002
+5201,"Business/Commerce, General.",4,Post-baccalaureate Certificate,52014
+5207,Entrepreneurial and Small Business Operations.,8,Graduate/Professional Certificate,52078
+5208,Finance and Financial Management Services.,8,Graduate/Professional Certificate,52088
+5221,Telecommunications Management.,5,Master's Degree,52215
+1107,Computer Science.,2,Associate's Degree,11072
+5100,"Health Services/Allied Health/Health Sciences, General.",2,Associate's Degree,51002
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,1,Undergraduate Certificate or Diploma,51181
+5214,Marketing.,1,Undergraduate Certificate or Diploma,52141
+5299,"Business, Management, Marketing, and Related Support Services, Other.",1,Undergraduate Certificate or Diploma,52991
+5211,International Business.,8,Graduate/Professional Certificate,52118
+5214,Marketing.,8,Graduate/Professional Certificate,52148
+3906,Theological and Ministerial Studies.,2,Associate's Degree,39062
+301,Natural Resources Conservation and Research.,8,Graduate/Professional Certificate,3018
+306,Wildlife and Wildlands Science and Management.,1,Undergraduate Certificate or Diploma,3061
+402,Architecture.,5,Master's Degree,4025
+402,Architecture.,6,Doctoral Degree,4026
+403,"City/Urban, Community and Regional Planning.",1,Undergraduate Certificate or Diploma,4031
+403,"City/Urban, Community and Regional Planning.",6,Doctoral Degree,4036
+404,Environmental Design.,5,Master's Degree,4045
+405,Interior Architecture.,5,Master's Degree,4055
+406,Landscape Architecture.,3,Bachelors Degree,4063
+409,Architectural Sciences and Technology.,5,Master's Degree,4095
+501,Area Studies.,1,Undergraduate Certificate or Diploma,5011
+501,Area Studies.,8,Graduate/Professional Certificate,5018
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",8,Graduate/Professional Certificate,5028
+901,Communication and Media Studies.,1,Undergraduate Certificate or Diploma,9011
+904,Journalism.,8,Graduate/Professional Certificate,9048
+907,"Radio, Television, and Digital Communication.",6,Doctoral Degree,9076
+910,Publishing.,8,Graduate/Professional Certificate,9108
+1003,Graphic Communications.,3,Bachelors Degree,10033
+1105,Computer Systems Analysis.,3,Bachelors Degree,11053
+1105,Computer Systems Analysis.,5,Master's Degree,11055
+1107,Computer Science.,6,Doctoral Degree,11076
+1301,"Education, General.",6,Doctoral Degree,13016
+1302,"Bilingual, Multilingual, and Multicultural Education.",8,Graduate/Professional Certificate,13028
+1303,Curriculum and Instruction.,5,Master's Degree,13035
+1303,Curriculum and Instruction.,6,Doctoral Degree,13036
+1305,Educational/Instructional Media Design.,6,Doctoral Degree,13056
+1306,"Educational Assessment, Evaluation, and Research.",8,Graduate/Professional Certificate,13068
+1309,Social and Philosophical Foundations of Education.,5,Master's Degree,13095
+1314,Teaching English or French as a Second or Foreign Language.,1,Undergraduate Certificate or Diploma,13141
+1413,Engineering Science.,5,Master's Degree,14135
+1413,Engineering Science.,6,Doctoral Degree,14136
+1423,Nuclear Engineering.,8,Graduate/Professional Certificate,14238
+1427,Systems Engineering.,5,Master's Degree,14275
+1433,Construction Engineering.,5,Master's Degree,14335
+1436,Manufacturing Engineering.,3,Bachelors Degree,14363
+1436,Manufacturing Engineering.,5,Master's Degree,14365
+1499,"Engineering, Other.",8,Graduate/Professional Certificate,14998
+1503,Electrical Engineering Technologies/Technicians.,5,Master's Degree,15035
+1506,Industrial Production Technologies/Technicians.,5,Master's Degree,15065
+1508,Mechanical Engineering Related Technologies/Technicians.,5,Master's Degree,15085
+1512,Computer Engineering Technologies/Technicians.,3,Bachelors Degree,15123
+1515,Engineering-Related Fields.,3,Bachelors Degree,15153
+1515,Engineering-Related Fields.,5,Master's Degree,15155
+1516,Nanotechnology.,5,Master's Degree,15165
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",6,Doctoral Degree,16016
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",8,Graduate/Professional Certificate,16018
+1603,"East Asian Languages, Literatures, and Linguistics.",5,Master's Degree,16035
+1603,"East Asian Languages, Literatures, and Linguistics.",6,Doctoral Degree,16036
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",3,Bachelors Degree,16043
+1609,"Romance Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16091
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16111
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16121
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",8,Graduate/Professional Certificate,16998
+1902,Family and Consumer Sciences/Human Sciences Business Services.,1,Undergraduate Certificate or Diploma,19021
+1904,Family and Consumer Economics and Related Studies.,1,Undergraduate Certificate or Diploma,19041
+2200,Non-Professional General Legal Studies (Undergraduate).,5,Master's Degree,22005
+2200,Non-Professional General Legal Studies (Undergraduate).,6,Doctoral Degree,22006
+2202,Legal Research and Advanced Professional Studies.,8,Graduate/Professional Certificate,22028
+2299,"Legal Professions and Studies, Other.",5,Master's Degree,22995
+2301,"English Language and Literature, General.",1,Undergraduate Certificate or Diploma,23011
+2313,Rhetoric and Composition/Writing Studies.,1,Undergraduate Certificate or Diploma,23131
+2603,Botany/Plant Biology.,5,Master's Degree,26035
+2603,Botany/Plant Biology.,6,Doctoral Degree,26036
+2604,Cell/Cellular Biology and Anatomical Sciences.,5,Master's Degree,26045
+2605,Microbiological Sciences and Immunology.,5,Master's Degree,26055
+2705,Statistics.,8,Graduate/Professional Certificate,27058
+2799,"Mathematics and Statistics, Other.",1,Undergraduate Certificate or Diploma,27991
+3013,Medieval and Renaissance Studies.,1,Undergraduate Certificate or Diploma,30131
+3013,Medieval and Renaissance Studies.,8,Graduate/Professional Certificate,30138
+3014,Museology/Museum Studies.,5,Master's Degree,30145
+3014,Museology/Museum Studies.,8,Graduate/Professional Certificate,30148
+3015,"Science, Technology and Society.",6,Doctoral Degree,30156
+3015,"Science, Technology and Society.",8,Graduate/Professional Certificate,30158
+3018,Natural Sciences.,5,Master's Degree,30185
+3020,International/Global Studies.,5,Master's Degree,30205
+3020,International/Global Studies.,6,Doctoral Degree,30206
+3025,Cognitive Science.,1,Undergraduate Certificate or Diploma,30251
+3025,Cognitive Science.,6,Doctoral Degree,30256
+3101,"Parks, Recreation and Leisure Studies.",5,Master's Degree,31015
+3101,"Parks, Recreation and Leisure Studies.",6,Doctoral Degree,31016
+3199,"Parks, Recreation, Leisure, and Fitness Studies, Other.",8,Graduate/Professional Certificate,31998
+3800,"Philosophy and Religious Studies, General.",3,Bachelors Degree,38003
+3801,Philosophy.,5,Master's Degree,38015
+3801,Philosophy.,6,Doctoral Degree,38016
+3802,Religion/Religious Studies.,6,Doctoral Degree,38026
+4301,Criminal Justice and Corrections.,8,Graduate/Professional Certificate,43018
+4303,Homeland Security.,8,Graduate/Professional Certificate,43038
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",1,Undergraduate Certificate or Diploma,43991
+4402,Community Organization and Advocacy.,8,Graduate/Professional Certificate,44028
+4405,Public Policy Analysis.,3,Bachelors Degree,44053
+4405,Public Policy Analysis.,5,Master's Degree,44055
+4405,Public Policy Analysis.,6,Doctoral Degree,44056
+4405,Public Policy Analysis.,8,Graduate/Professional Certificate,44058
+4499,"Public Administration and Social Service Professions, Other.",1,Undergraduate Certificate or Diploma,44991
+4504,Criminology.,6,Doctoral Degree,45046
+4505,Demography and Population Studies.,8,Graduate/Professional Certificate,45058
+4506,Economics.,6,Doctoral Degree,45066
+4511,Sociology.,1,Undergraduate Certificate or Diploma,45111
+4512,Urban Studies/Affairs.,3,Bachelors Degree,45123
+4599,"Social Sciences, Other.",1,Undergraduate Certificate or Diploma,45991
+5001,"Visual and Performing Arts, General.",1,Undergraduate Certificate or Diploma,50011
+5001,"Visual and Performing Arts, General.",5,Master's Degree,50015
+5003,Dance.,5,Master's Degree,50035
+5004,Design and Applied Arts.,8,Graduate/Professional Certificate,50048
+5005,Drama/Theatre Arts and Stagecraft.,6,Doctoral Degree,50056
+5006,Film/Video and Photographic Arts.,1,Undergraduate Certificate or Diploma,50061
+5007,Fine and Studio Arts.,6,Doctoral Degree,50076
+5009,Music.,8,Graduate/Professional Certificate,50098
+5099,"Visual and Performing Arts, Other.",1,Undergraduate Certificate or Diploma,50991
+5099,"Visual and Performing Arts, Other.",8,Graduate/Professional Certificate,50998
+5112,Medicine.,3,Bachelors Degree,51123
+5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,52075
+5209,Hospitality Administration/Management.,5,Master's Degree,52095
+5209,Hospitality Administration/Management.,8,Graduate/Professional Certificate,52098
+5211,International Business.,1,Undergraduate Certificate or Diploma,52111
+5213,Management Sciences and Quantitative Methods.,1,Undergraduate Certificate or Diploma,52131
+5215,Real Estate.,3,Bachelors Degree,52153
+5220,Construction Management.,5,Master's Degree,52205
+5220,Construction Management.,6,Doctoral Degree,52206
+5401,History.,1,Undergraduate Certificate or Diploma,54011
+100,"Agriculture, General.",1,Undergraduate Certificate or Diploma,1001
+100,"Agriculture, General.",2,Associate's Degree,1002
+101,Agricultural Business and Management.,2,Associate's Degree,1012
+103,Agricultural Production Operations.,2,Associate's Degree,1032
+110,Food Science and Technology.,1,Undergraduate Certificate or Diploma,1101
+301,Natural Resources Conservation and Research.,2,Associate's Degree,3012
+409,Architectural Sciences and Technology.,1,Undergraduate Certificate or Diploma,4091
+409,Architectural Sciences and Technology.,2,Associate's Degree,4092
+901,Communication and Media Studies.,2,Associate's Degree,9012
+1106,Data Entry/Microcomputer Applications.,1,Undergraduate Certificate or Diploma,11061
+1106,Data Entry/Microcomputer Applications.,2,Associate's Degree,11062
+1108,Computer Software and Media Applications.,2,Associate's Degree,11082
+1401,"Engineering, General.",2,Associate's Degree,14012
+1609,"Romance Languages, Literatures, and Linguistics.",2,Associate's Degree,16092
+1901,"Family and Consumer Sciences/Human Sciences, General.",1,Undergraduate Certificate or Diploma,19011
+1901,"Family and Consumer Sciences/Human Sciences, General.",2,Associate's Degree,19012
+2301,"English Language and Literature, General.",2,Associate's Degree,23012
+3105,Health and Physical Education/Fitness.,2,Associate's Degree,31052
+3801,Philosophy.,2,Associate's Degree,38012
+4005,Chemistry.,2,Associate's Degree,40052
+4006,Geological and Earth Sciences/Geosciences.,2,Associate's Degree,40062
+4008,Physics.,2,Associate's Degree,40082
+4303,Homeland Security.,2,Associate's Degree,43032
+4510,Political Science and Government.,2,Associate's Degree,45102
+4605,Plumbing and Related Water Supply Services.,2,Associate's Degree,46052
+4699,"Construction Trades, Other.",1,Undergraduate Certificate or Diploma,46991
+5007,Fine and Studio Arts.,2,Associate's Degree,50072
+5131,Dietetics and Clinical Nutrition Services.,1,Undergraduate Certificate or Diploma,51311
+5135,Somatic Bodywork and Related Therapeutic Services.,2,Associate's Degree,51352
+5214,Marketing.,2,Associate's Degree,52142
+5401,History.,2,Associate's Degree,54012
+101,Agricultural Business and Management.,1,Undergraduate Certificate or Diploma,1011
+101,Agricultural Business and Management.,8,Graduate/Professional Certificate,1018
+102,Agricultural Mechanization.,6,Doctoral Degree,1026
+103,Agricultural Production Operations.,8,Graduate/Professional Certificate,1038
+112,Soil Sciences.,6,Doctoral Degree,1126
+302,Natural Resources Management and Policy.,1,Undergraduate Certificate or Diploma,3021
+302,Natural Resources Management and Policy.,8,Graduate/Professional Certificate,3028
+399,"Natural Resources and Conservation, Other.",6,Doctoral Degree,3996
+499,"Architecture and Related Services, Other.",3,Bachelors Degree,4993
+501,Area Studies.,6,Doctoral Degree,5016
+1104,Information Science/Studies.,6,Doctoral Degree,11046
+1108,Computer Software and Media Applications.,3,Bachelors Degree,11083
+1110,Computer/Information Technology Administration and Management.,8,Graduate/Professional Certificate,11108
+1302,"Bilingual, Multilingual, and Multicultural Education.",5,Master's Degree,13025
+1305,Educational/Instructional Media Design.,3,Bachelors Degree,13053
+1305,Educational/Instructional Media Design.,4,Post-baccalaureate Certificate,13054
+1306,"Educational Assessment, Evaluation, and Research.",3,Bachelors Degree,13063
+1309,Social and Philosophical Foundations of Education.,6,Doctoral Degree,13096
+1314,Teaching English or French as a Second or Foreign Language.,6,Doctoral Degree,13146
+1403,Agricultural Engineering.,3,Bachelors Degree,14033
+1403,Agricultural Engineering.,5,Master's Degree,14035
+1403,Agricultural Engineering.,6,Doctoral Degree,14036
+1411,Engineering Mechanics.,6,Doctoral Degree,14116
+1414,Environmental/Environmental Health Engineering.,6,Doctoral Degree,14146
+1421,Mining and Mineral Engineering.,6,Doctoral Degree,14216
+1421,Mining and Mineral Engineering.,8,Graduate/Professional Certificate,14218
+1423,Nuclear Engineering.,5,Master's Degree,14235
+1423,Nuclear Engineering.,6,Doctoral Degree,14236
+1427,Systems Engineering.,3,Bachelors Degree,14273
+1427,Systems Engineering.,8,Graduate/Professional Certificate,14278
+1439,Geological/Geophysical Engineering.,6,Doctoral Degree,14396
+1439,Geological/Geophysical Engineering.,8,Graduate/Professional Certificate,14398
+1515,Engineering-Related Fields.,8,Graduate/Professional Certificate,15158
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",5,Master's Degree,16045
+1608,"Iranian/Persian Languages, Literatures, and Linguistics.",5,Master's Degree,16085
+1608,"Iranian/Persian Languages, Literatures, and Linguistics.",6,Doctoral Degree,16086
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",3,Bachelors Degree,16113
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",5,Master's Degree,16115
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",5,Master's Degree,16125
+1904,Family and Consumer Economics and Related Studies.,6,Doctoral Degree,19046
+2201,Law.,3,Bachelors Degree,22013
+2202,Legal Research and Advanced Professional Studies.,7,First Professional Degree,22027
+2299,"Legal Professions and Studies, Other.",6,Doctoral Degree,22996
+2313,Rhetoric and Composition/Writing Studies.,6,Doctoral Degree,23136
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",7,First Professional Degree,24017
+2501,Library Science and Administration.,3,Bachelors Degree,25013
+2501,Library Science and Administration.,4,Post-baccalaureate Certificate,25014
+2501,Library Science and Administration.,6,Doctoral Degree,25016
+2501,Library Science and Administration.,8,Graduate/Professional Certificate,25018
+2601,"Biology, General.",8,Graduate/Professional Certificate,26018
+2605,Microbiological Sciences and Immunology.,4,Post-baccalaureate Certificate,26054
+2605,Microbiological Sciences and Immunology.,8,Graduate/Professional Certificate,26058
+2607,Zoology/Animal Biology.,5,Master's Degree,26075
+2607,Zoology/Animal Biology.,6,Doctoral Degree,26076
+2608,Genetics.,5,Master's Degree,26085
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",3,Bachelors Degree,26113
+2615,Neurobiology and Neurosciences.,5,Master's Degree,26155
+2699,"Biological and Biomedical Sciences, Other.",3,Bachelors Degree,26993
+2902,"Intelligence, Command Control and Information Operations.",1,Undergraduate Certificate or Diploma,29021
+3000,"Multi-/Interdisciplinary Studies, General.",4,Post-baccalaureate Certificate,30004
+3000,"Multi-/Interdisciplinary Studies, General.",8,Graduate/Professional Certificate,30008
+3011,Gerontology.,5,Master's Degree,30115
+3012,Historic Preservation and Conservation.,5,Master's Degree,30125
+3012,Historic Preservation and Conservation.,8,Graduate/Professional Certificate,30128
+3018,Natural Sciences.,3,Bachelors Degree,30183
+3018,Natural Sciences.,6,Doctoral Degree,30186
+4002,Astronomy and Astrophysics.,3,Bachelors Degree,40023
+4006,Geological and Earth Sciences/Geosciences.,1,Undergraduate Certificate or Diploma,40061
+4006,Geological and Earth Sciences/Geosciences.,8,Graduate/Professional Certificate,40068
+4008,Physics.,8,Graduate/Professional Certificate,40088
+4010,Materials Sciences.,3,Bachelors Degree,40103
+4199,"Science Technologies/Technicians, Other.",8,Graduate/Professional Certificate,41998
+4404,Public Administration.,7,First Professional Degree,44047
+4502,Anthropology.,8,Graduate/Professional Certificate,45028
+4503,Archeology.,8,Graduate/Professional Certificate,45038
+4599,"Social Sciences, Other.",6,Doctoral Degree,45996
+5006,Film/Video and Photographic Arts.,5,Master's Degree,50065
+5099,"Visual and Performing Arts, Other.",5,Master's Degree,50995
+5107,Health and Medical Administrative Services.,8,Graduate/Professional Certificate,51078
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,4,Post-baccalaureate Certificate,51104
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,8,Graduate/Professional Certificate,51108
+5111,Health/Medical Preparatory Programs.,4,Post-baccalaureate Certificate,51114
+5114,Medical Clinical Sciences/Graduate Medical Studies.,5,Master's Degree,51145
+5114,Medical Clinical Sciences/Graduate Medical Studies.,6,Doctoral Degree,51146
+5114,Medical Clinical Sciences/Graduate Medical Studies.,8,Graduate/Professional Certificate,51148
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",8,Graduate/Professional Certificate,51208
+5211,International Business.,4,Post-baccalaureate Certificate,52114
+1003,Graphic Communications.,5,Master's Degree,10035
+102,Agricultural Mechanization.,2,Associate's Degree,1022
+105,Agricultural and Domestic Animal Services.,1,Undergraduate Certificate or Diploma,1051
+105,Agricultural and Domestic Animal Services.,2,Associate's Degree,1052
+199,"Agriculture, Agriculture Operations, and Related Sciences, Other.",1,Undergraduate Certificate or Diploma,1991
+199,"Agriculture, Agriculture Operations, and Related Sciences, Other.",2,Associate's Degree,1992
+1102,Computer Programming.,1,Undergraduate Certificate or Diploma,11021
+1301,"Education, General.",2,Associate's Degree,13012
+1442,"Mechatronics, Robotics, and Automation Engineering.",1,Undergraduate Certificate or Diploma,14421
+1499,"Engineering, Other.",1,Undergraduate Certificate or Diploma,14991
+2612,Biotechnology.,1,Undergraduate Certificate or Diploma,26121
+3101,"Parks, Recreation and Leisure Studies.",1,Undergraduate Certificate or Diploma,31011
+4101,Biology Technician/Biotechnology Laboratory Technician.,1,Undergraduate Certificate or Diploma,41011
+4101,Biology Technician/Biotechnology Laboratory Technician.,2,Associate's Degree,41012
+4404,Public Administration.,2,Associate's Degree,44042
+5005,Drama/Theatre Arts and Stagecraft.,1,Undergraduate Certificate or Diploma,50051
+5131,Dietetics and Clinical Nutrition Services.,2,Associate's Degree,51312
+907,"Radio, Television, and Digital Communication.",2,Associate's Degree,9072
+1442,"Mechatronics, Robotics, and Automation Engineering.",2,Associate's Degree,14422
+2601,"Biology, General.",1,Undergraduate Certificate or Diploma,26011
+2902,"Intelligence, Command Control and Information Operations.",2,Associate's Degree,29022
+4201,"Psychology, General.",1,Undergraduate Certificate or Diploma,42011
+4407,Social Work.,1,Undergraduate Certificate or Diploma,44071
+4502,Anthropology.,2,Associate's Degree,45022
+4506,Economics.,2,Associate's Degree,45062
+4511,Sociology.,2,Associate's Degree,45112
+5218,"General Sales, Merchandising and Related Marketing Operations.",1,Undergraduate Certificate or Diploma,52181
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",2,Associate's Degree,16012
+2313,Rhetoric and Composition/Writing Studies.,2,Associate's Degree,23132
+2613,"Ecology, Evolution, Systematics, and Population Biology.",2,Associate's Degree,26132
+5207,Entrepreneurial and Small Business Operations.,2,Associate's Degree,52072
+4901,Air Transportation.,5,Master's Degree,49015
+402,Architecture.,8,Graduate/Professional Certificate,4028
+909,"Public Relations, Advertising, and Applied Communication.",2,Associate's Degree,9092
+999,"Communication, Journalism, and Related Programs, Other.",1,Undergraduate Certificate or Diploma,9991
+1105,Computer Systems Analysis.,1,Undergraduate Certificate or Diploma,11051
+1105,Computer Systems Analysis.,2,Associate's Degree,11052
+2612,Biotechnology.,2,Associate's Degree,26122
+3017,Behavioral Sciences.,1,Undergraduate Certificate or Diploma,30171
+3017,Behavioral Sciences.,2,Associate's Degree,30172
+3018,Natural Sciences.,1,Undergraduate Certificate or Diploma,30181
+4001,Physical Sciences.,2,Associate's Degree,40012
+5001,"Visual and Performing Arts, General.",2,Associate's Degree,50012
+5006,Film/Video and Photographic Arts.,2,Associate's Degree,50062
+5010,"Arts, Entertainment,and Media Management.",1,Undergraduate Certificate or Diploma,50101
+5010,"Arts, Entertainment,and Media Management.",2,Associate's Degree,50102
+5217,Insurance.,1,Undergraduate Certificate or Diploma,52171
+5217,Insurance.,2,Associate's Degree,52172
+2314,Literature.,3,Bachelors Degree,23143
+3027,Human Biology.,3,Bachelors Degree,30273
+3902,Bible/Biblical Studies.,8,Graduate/Professional Certificate,39028
+3904,Religious Education.,5,Master's Degree,39045
+4299,"Psychology, Other.",5,Master's Degree,42995
+4299,"Psychology, Other.",8,Graduate/Professional Certificate,42998
+4302,Fire Protection.,5,Master's Degree,43025
+5115,Mental and Social Health Services and Allied Professions.,8,Graduate/Professional Certificate,51158
+4601,Mason/Masonry.,2,Associate's Degree,46012
+4807,Woodworking.,2,Associate's Degree,48072
+1302,"Bilingual, Multilingual, and Multicultural Education.",1,Undergraduate Certificate or Diploma,13021
+1303,Curriculum and Instruction.,1,Undergraduate Certificate or Diploma,13031
+1399,"Education, Other.",1,Undergraduate Certificate or Diploma,13991
+1436,Manufacturing Engineering.,2,Associate's Degree,14362
+2503,Library and Archives Assisting.,1,Undergraduate Certificate or Diploma,25031
+2503,Library and Archives Assisting.,2,Associate's Degree,25032
+3101,"Parks, Recreation and Leisure Studies.",2,Associate's Degree,31012
+4507,Geography and Cartography.,2,Associate's Degree,45072
+5215,Real Estate.,2,Associate's Degree,52152
+5219,"Specialized Sales, Merchandising and Marketing Operations.",2,Associate's Degree,52192
+1199,"Computer and Information Sciences and Support Services, Other.",1,Undergraduate Certificate or Diploma,11991
+1199,"Computer and Information Sciences and Support Services, Other.",2,Associate's Degree,11992
+1399,"Education, Other.",2,Associate's Degree,13992
+2699,"Biological and Biomedical Sciences, Other.",2,Associate's Degree,26992
+4599,"Social Sciences, Other.",2,Associate's Degree,45992
+111,Plant Sciences.,1,Undergraduate Certificate or Diploma,1111
+305,Forestry.,4,Post-baccalaureate Certificate,3054
+305,Forestry.,8,Graduate/Professional Certificate,3058
+306,Wildlife and Wildlands Science and Management.,4,Post-baccalaureate Certificate,3064
+901,Communication and Media Studies.,8,Graduate/Professional Certificate,9018
+907,"Radio, Television, and Digital Communication.",1,Undergraduate Certificate or Diploma,9071
+909,"Public Relations, Advertising, and Applied Communication.",1,Undergraduate Certificate or Diploma,9091
+1413,Engineering Science.,1,Undergraduate Certificate or Diploma,14131
+2301,"English Language and Literature, General.",8,Graduate/Professional Certificate,23018
+2613,"Ecology, Evolution, Systematics, and Population Biology.",1,Undergraduate Certificate or Diploma,26131
+2613,"Ecology, Evolution, Systematics, and Population Biology.",8,Graduate/Professional Certificate,26138
+3023,Intercultural/Multicultural and Diversity Studies.,8,Graduate/Professional Certificate,30238
+3026,Cultural Studies/Critical Theory and Analysis.,3,Bachelors Degree,30263
+3033,Sustainability Studies.,5,Master's Degree,30335
+3101,"Parks, Recreation and Leisure Studies.",4,Post-baccalaureate Certificate,31014
+3101,"Parks, Recreation and Leisure Studies.",8,Graduate/Professional Certificate,31018
+4303,Homeland Security.,4,Post-baccalaureate Certificate,43034
+5102,Communication Disorders Sciences and Services.,1,Undergraduate Certificate or Diploma,51021
+5102,Communication Disorders Sciences and Services.,4,Post-baccalaureate Certificate,51024
+5102,Communication Disorders Sciences and Services.,8,Graduate/Professional Certificate,51028
+5206,Business/Managerial Economics.,1,Undergraduate Certificate or Diploma,52061
+5206,Business/Managerial Economics.,8,Graduate/Professional Certificate,52068
+5210,Human Resources Management and Services.,1,Undergraduate Certificate or Diploma,52101
+5219,"Specialized Sales, Merchandising and  Marketing Operations.",3,Bachelors Degree,52193
+2501,Library Science and Administration.,1,Undergraduate Certificate or Diploma,25011
+2501,Library Science and Administration.,2,Associate's Degree,25012
+4404,Public Administration.,1,Undergraduate Certificate or Diploma,44041
+3999,"Theology and Religious Vocations, Other.",3,Bachelors Degree,39993
+1511,Engineering-Related Technologies.,1,Undergraduate Certificate or Diploma,15111
+1616,American Sign Language.,1,Undergraduate Certificate or Diploma,16161
+1616,American Sign Language.,2,Associate's Degree,16162
+5208,Finance and Financial Management Services.,2,Associate's Degree,52082
+5220,Construction Management.,1,Undergraduate Certificate or Diploma,52201
+402,Architecture.,1,Undergraduate Certificate or Diploma,4021
+501,Area Studies.,2,Associate's Degree,5012
+1001,Communications Technology/Technician.,1,Undergraduate Certificate or Diploma,10011
+1001,Communications Technology/Technician.,4,Post-baccalaureate Certificate,10014
+1103,Data Processing.,1,Undergraduate Certificate or Diploma,11031
+1301,"Education, General.",4,Post-baccalaureate Certificate,13014
+1399,"Education, Other.",4,Post-baccalaureate Certificate,13994
+4503,Archeology.,1,Undergraduate Certificate or Diploma,45031
+4503,Archeology.,2,Associate's Degree,45032
+5100,"Health Services/Allied Health/Health Sciences, General.",1,Undergraduate Certificate or Diploma,51001
+5211,International Business.,2,Associate's Degree,52112
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,2,Associate's Degree,51182
+3005,Peace Studies and Conflict Resolution.,3,Bachelors Degree,30053
+5133,Alternative and Complementary Medicine and Medical Systems.,3,Bachelors Degree,51333
+1305,Educational/Instructional Media Design.,1,Undergraduate Certificate or Diploma,13051
+1305,Educational/Instructional Media Design.,2,Associate's Degree,13052
+1516,Nanotechnology.,1,Undergraduate Certificate or Diploma,15161
+1516,Nanotechnology.,2,Associate's Degree,15162
+5105,Advanced/Graduate Dentistry and Oral Sciences.,1,Undergraduate Certificate or Diploma,51051
+5003,Dance.,1,Undergraduate Certificate or Diploma,50031
+5003,Dance.,2,Associate's Degree,50032
+5136,Movement and Mind-Body Therapies and Education.,1,Undergraduate Certificate or Diploma,51361
+4504,Criminology.,1,Undergraduate Certificate or Diploma,45041
+1427,Systems Engineering.,1,Undergraduate Certificate or Diploma,14271
+3601,Leisure and Recreational Activities.,2,Associate's Degree,36012
+4704,Precision Systems Maintenance and Repair Technologies.,2,Associate's Degree,47042
+999,"Communication, Journalism, and Related Programs, Other.",5,Master's Degree,9995
+1101,"Computer and Information Sciences, General.",8,Graduate/Professional Certificate,11018
+1102,Computer Programming.,6,Doctoral Degree,11026
+1104,Information Science/Studies.,8,Graduate/Professional Certificate,11048
+1303,Curriculum and Instruction.,8,Graduate/Professional Certificate,13038
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",7,First Professional Degree,13137
+1442,"Mechatronics, Robotics, and Automation Engineering.",3,Bachelors Degree,14423
+1510,Construction Engineering Technologies.,5,Master's Degree,15105
+1599,"Engineering Technologies/Technicians, Other.",8,Graduate/Professional Certificate,15998
+3005,Peace Studies and Conflict Resolution.,8,Graduate/Professional Certificate,30058
+4001,Physical Sciences.,5,Master's Degree,40015
+4001,Physical Sciences.,6,Doctoral Degree,40016
+4301,Criminal Justice and Corrections.,6,Doctoral Degree,43016
+4405,Public Policy Analysis.,1,Undergraduate Certificate or Diploma,44051
+2699,"Biological and Biomedical Sciences, Other.",8,Graduate/Professional Certificate,26998
+3001,Biological and Physical Sciences.,8,Graduate/Professional Certificate,30018
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,3,Bachelors Degree,51183
+102,Agricultural Mechanization.,3,Bachelors Degree,1023
+106,Applied Horticulture and Horticultural Business Services.,3,Bachelors Degree,1063
+108,Agricultural Public Services.,3,Bachelors Degree,1083
+1306,"Educational Assessment, Evaluation, and Research.",5,Master's Degree,13065
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",5,Master's Degree,16995
+2201,Law.,4,Post-baccalaureate Certificate,22014
+2299,"Legal Professions and Studies, Other.",7,First Professional Degree,22997
+2299,"Legal Professions and Studies, Other.",8,Graduate/Professional Certificate,22998
+3033,Sustainability Studies.,4,Post-baccalaureate Certificate,30334
+3033,Sustainability Studies.,8,Graduate/Professional Certificate,30338
+3103,"Parks, Recreation and Leisure Facilities Management.",6,Doctoral Degree,31036
+5009,Music.,4,Post-baccalaureate Certificate,50094
+5100,"Health Services/Allied Health/Health Sciences, General.",6,Doctoral Degree,51006
+5213,Management Sciences and Quantitative Methods.,4,Post-baccalaureate Certificate,52134
+4899,"Precision Production, Other.",1,Undergraduate Certificate or Diploma,48991
+110,Food Science and Technology.,2,Associate's Degree,1102
+909,"Public Relations, Advertising, and Applied Communication.",8,Graduate/Professional Certificate,9098
+1103,Data Processing.,2,Associate's Degree,11032
+1103,Data Processing.,3,Bachelors Degree,11033
+1515,Engineering-Related Fields.,2,Associate's Degree,15152
+4799,"Mechanic and Repair Technologies/Technicians, Other.",2,Associate's Degree,47992
+5199,"Health Professions and Related Clinical Sciences, Other.",8,Graduate/Professional Certificate,51998
+1514,Nuclear Engineering Technologies/Technicians.,2,Associate's Degree,15142
+1609,"Romance Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16098
+2599,"Library Science, Other.",5,Master's Degree,25995
+5217,Insurance.,3,Bachelors Degree,52173
+2612,Biotechnology.,3,Bachelors Degree,26123
+2999,"Military Technologies and Applied Sciences, Other.",2,Associate's Degree,29992
+1204,Cosmetology and Related Personal Grooming Services.,4,Post-baccalaureate Certificate,12044
+5116,Nursing.,1,Undergraduate Certificate or Diploma,51161
+5106,Dental Support Services and Allied Professions.,8,Graduate/Professional Certificate,51068
+5108,Allied Health and Medical Assisting Services.,8,Graduate/Professional Certificate,51088
+109,Animal Sciences.,2,Associate's Degree,1092
+1906,Housing and Human Environments.,3,Bachelors Degree,19063
+3017,Behavioral Sciences.,5,Master's Degree,30175
+5111,Health/Medical Preparatory Programs.,7,First Professional Degree,51117
+4227,Research and Experimental Psychology.,8,Graduate/Professional Certificate,42278
+4504,Criminology.,2,Associate's Degree,45042
+4899,"Precision Production, Other.",2,Associate's Degree,48992
+102,Agricultural Mechanization.,1,Undergraduate Certificate or Diploma,1021
+1204,Cosmetology and Related Personal Grooming Services.,3,Bachelors Degree,12043
+4699,"Construction Trades, Other.",2,Associate's Degree,46992
+4103,Physical Science Technologies/Technicians.,2,Associate's Degree,41032
+100,"Agriculture, General.",5,Master's Degree,1005
+1419,Mechanical Engineering.,1,Undergraduate Certificate or Diploma,14191
+3000,"Multi-/Interdisciplinary Studies, General.",2,Associate's Degree,30002
+406,Landscape Architecture.,2,Associate's Degree,4062
+1002,Audiovisual Communications Technologies/Technicians.,5,Master's Degree,10025
+1003,Graphic Communications.,8,Graduate/Professional Certificate,10038
+1513,Drafting/Design Engineering Technologies/Technicians.,3,Bachelors Degree,15133
+1513,Drafting/Design Engineering Technologies/Technicians.,5,Master's Degree,15135
+1902,Family and Consumer Sciences/Human Sciences Business Services.,2,Associate's Degree,19022
+1902,Family and Consumer Sciences/Human Sciences Business Services.,3,Bachelors Degree,19023
+1909,Apparel and Textiles.,2,Associate's Degree,19092
+5006,Film/Video and Photographic Arts.,8,Graduate/Professional Certificate,50068
+5219,"Specialized Sales, Merchandising and  Marketing Operations.",5,Master's Degree,52195
+5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,51335
+4509,International Relations and National Security Studies.,2,Associate's Degree,45092
+1410,"Electrical, Electronics and Communications Engineering.",1,Undergraduate Certificate or Diploma,14101
+4299,"Psychology, Other.",2,Associate's Degree,42992
+4509,International Relations and National Security Studies.,1,Undergraduate Certificate or Diploma,45091
+5216,Taxation.,1,Undergraduate Certificate or Diploma,52161
+4706,Vehicle Maintenance and Repair Technologies.,3,Bachelors Degree,47063
+1099,"Communications Technologies/Technicians and Support Services, Other.",1,Undergraduate Certificate or Diploma,10991
+3201,Basic Skills and Developmental/Remedial Education.,1,Undergraduate Certificate or Diploma,32011
+3904,Religious Education.,6,Doctoral Degree,39046
+3904,Religious Education.,7,First Professional Degree,39047
+4299,"Psychology, Other.",6,Doctoral Degree,42996
+4599,"Social Sciences, Other.",5,Master's Degree,45995
+5213,Management Sciences and Quantitative Methods.,2,Associate's Degree,52132
+3904,Religious Education.,1,Undergraduate Certificate or Diploma,39041
+3907,Pastoral Counseling and Specialized Ministries.,1,Undergraduate Certificate or Diploma,39071
+1302,"Bilingual, Multilingual, and Multicultural Education.",3,Bachelors Degree,13023
+1302,"Bilingual, Multilingual, and Multicultural Education.",6,Doctoral Degree,13026
+3023,Intercultural/Multicultural and Diversity Studies.,5,Master's Degree,30235
+3023,Intercultural/Multicultural and Diversity Studies.,6,Doctoral Degree,30236
+3800,"Philosophy and Religious Studies, General.",5,Master's Degree,38005
+3899,"Philosophy and Religious Studies, Other.",5,Master's Degree,38995
+3899,"Philosophy and Religious Studies, Other.",8,Graduate/Professional Certificate,38998
+3903,Missions/Missionary Studies and Missiology.,5,Master's Degree,39035
+3903,Missions/Missionary Studies and Missiology.,6,Doctoral Degree,39036
+3999,"Theology and Religious Vocations, Other.",5,Master's Degree,39995
+3999,"Theology and Religious Vocations, Other.",6,Doctoral Degree,39996
+3999,"Theology and Religious Vocations, Other.",8,Graduate/Professional Certificate,39998
+2399,"English Language and Literature/Letters, Other.",2,Associate's Degree,23992
+3017,Behavioral Sciences.,6,Doctoral Degree,30176
+3026,Cultural Studies/Critical Theory and Analysis.,5,Master's Degree,30265
+3899,"Philosophy and Religious Studies, Other.",6,Doctoral Degree,38996
+4227,Research and Experimental Psychology.,6,Doctoral Degree,42276
+5133,Alternative and Complementary Medicine and Medical Systems.,6,Doctoral Degree,51336
+5133,Alternative and Complementary Medicine and Medical Systems.,8,Graduate/Professional Certificate,51338
+2701,Mathematics.,1,Undergraduate Certificate or Diploma,27011
+3001,Biological and Physical Sciences.,1,Undergraduate Certificate or Diploma,30011
+4002,Astronomy and Astrophysics.,2,Associate's Degree,40022
+4005,Chemistry.,1,Undergraduate Certificate or Diploma,40051
+4008,Physics.,1,Undergraduate Certificate or Diploma,40081
+4502,Anthropology.,1,Undergraduate Certificate or Diploma,45021
+4506,Economics.,1,Undergraduate Certificate or Diploma,45061
+3031,Human Computer Interaction.,3,Bachelors Degree,30313
+3031,Human Computer Interaction.,5,Master's Degree,30315
+4807,Woodworking.,3,Bachelors Degree,48073
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",3,Bachelors Degree,50023
+5010,"Arts, Entertainment,and Media Management.",5,Master's Degree,50105
+1402,"Aerospace, Aeronautical and Astronautical Engineering.",8,Graduate/Professional Certificate,14028
+1410,"Electrical, Electronics and Communications Engineering.",8,Graduate/Professional Certificate,14108
+1412,Engineering Physics.,5,Master's Degree,14125
+1412,Engineering Physics.,6,Doctoral Degree,14126
+1418,Materials Engineering,8,Graduate/Professional Certificate,14188
+1419,Mechanical Engineering.,8,Graduate/Professional Certificate,14198
+3008,Mathematics and Computer Science.,5,Master's Degree,30085
+3008,Mathematics and Computer Science.,6,Doctoral Degree,30086
+4501,"Social Sciences, General.",6,Doctoral Degree,45016
+1413,Engineering Science.,3,Bachelors Degree,14133
+3032,Marine Sciences.,3,Bachelors Degree,30323
+1302,"Bilingual, Multilingual, and Multicultural Education.",4,Post-baccalaureate Certificate,13024
+5210,Human Resources Management and Services.,6,Doctoral Degree,52106
+1107,Computer Science.,8,Graduate/Professional Certificate,11078
+2701,Mathematics.,8,Graduate/Professional Certificate,27018
+4506,Economics.,8,Graduate/Professional Certificate,45068
+3025,Cognitive Science.,3,Bachelors Degree,30253
+3032,Marine Sciences.,5,Master's Degree,30325
+1311,Student Counseling and Personnel Services.,4,Post-baccalaureate Certificate,13114
+2401,"Liberal Arts and Sciences, General Studies and Humanities.",8,Graduate/Professional Certificate,24018
+3016,Accounting and Computer Science.,3,Bachelors Degree,30163
+2603,Botany/Plant Biology.,3,Bachelors Degree,26033
+3008,Mathematics and Computer Science.,3,Bachelors Degree,30083
+3601,Leisure and Recreational Activities.,3,Bachelors Degree,36013
+1507,Quality Control and Safety Technologies/Technicians.,5,Master's Degree,15075
+2399,"English Language and Literature/Letters, Other.",3,Bachelors Degree,23993
+3005,Peace Studies and Conflict Resolution.,5,Master's Degree,30055
+1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,11095
+1303,Curriculum and Instruction.,4,Post-baccalaureate Certificate,13034
+2612,Biotechnology.,4,Post-baccalaureate Certificate,26124
+3601,Leisure and Recreational Activities.,5,Master's Degree,36015
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",5,Master's Degree,43995
+4507,Geography and Cartography.,4,Post-baccalaureate Certificate,45074
+4510,Political Science and Government.,4,Post-baccalaureate Certificate,45104
+4512,Urban Studies/Affairs.,4,Post-baccalaureate Certificate,45124
+1311,Student Counseling and Personnel Services.,1,Undergraduate Certificate or Diploma,13111
+4228,"Clinical, Counseling and Applied Psychology.",1,Undergraduate Certificate or Diploma,42281
+5302,High School/Secondary Certificate Programs.,1,Undergraduate Certificate or Diploma,53021
+1437,Operations Research.,3,Bachelors Degree,14373
+3011,Gerontology.,3,Bachelors Degree,30113
+101,Agricultural Business and Management.,6,Doctoral Degree,1016
+301,Natural Resources Conservation and Research.,7,First Professional Degree,3017
+402,Architecture.,7,First Professional Degree,4027
+403,"City/Urban, Community and Regional Planning.",7,First Professional Degree,4037
+406,Landscape Architecture.,7,First Professional Degree,4067
+1104,Information Science/Studies.,7,First Professional Degree,11047
+1401,"Engineering, General.",7,First Professional Degree,14017
+1405,Biomedical/Medical Engineering.,7,First Professional Degree,14057
+1408,Civil Engineering.,7,First Professional Degree,14087
+1410,"Electrical, Electronics and Communications Engineering.",7,First Professional Degree,14107
+1419,Mechanical Engineering.,7,First Professional Degree,14197
+1423,Nuclear Engineering.,3,Bachelors Degree,14233
+1423,Nuclear Engineering.,7,First Professional Degree,14237
+1437,Operations Research.,5,Master's Degree,14375
+1437,Operations Research.,6,Doctoral Degree,14376
+1437,Operations Research.,7,First Professional Degree,14377
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",6,Doctoral Degree,16046
+1605,"Germanic Languages, Literatures, and Linguistics.",6,Doctoral Degree,16056
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",6,Doctoral Degree,16126
+1613,"Celtic Languages, Literatures, and Linguistics.",3,Bachelors Degree,16133
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",6,Doctoral Degree,16996
+2201,Law.,5,Master's Degree,22015
+2610,Pharmacology and Toxicology.,3,Bachelors Degree,26103
+3013,Medieval and Renaissance Studies.,6,Doctoral Degree,30136
+3022,Classical and Ancient Studies.,3,Bachelors Degree,30223
+3022,Classical and Ancient Studies.,5,Master's Degree,30225
+3022,Classical and Ancient Studies.,6,Doctoral Degree,30226
+4405,Public Policy Analysis.,7,First Professional Degree,44057
+4407,Social Work.,7,First Professional Degree,44077
+4502,Anthropology.,7,First Professional Degree,45027
+4505,Demography and Population Studies.,5,Master's Degree,45055
+4505,Demography and Population Studies.,6,Doctoral Degree,45056
+4511,Sociology.,7,First Professional Degree,45117
+5006,Film/Video and Photographic Arts.,6,Doctoral Degree,50066
+5117,Optometry.,5,Master's Degree,51175
+5117,Optometry.,8,Graduate/Professional Certificate,51178
+5202,"Business Administration, Management and Operations.",7,First Professional Degree,52027
+5213,Management Sciences and Quantitative Methods.,7,First Professional Degree,52137
+107,International Agriculture.,3,Bachelors Degree,1073
+107,International Agriculture.,5,Master's Degree,1075
+1428,Textile Sciences and Engineering.,5,Master's Degree,14285
+2608,Genetics.,3,Bachelors Degree,26083
+3801,Philosophy.,8,Graduate/Professional Certificate,38018
+4005,Chemistry.,8,Graduate/Professional Certificate,40058
+5125,Veterinary Biomedical and Clinical Sciences.,7,First Professional Degree,51257
+5127,Medical Illustration and Informatics.,5,Master's Degree,51275
+1109,Computer Systems Networking and Telecommunications.,6,Doctoral Degree,11096
+1436,Manufacturing Engineering.,6,Doctoral Degree,14366
+3006,Systems Science and Theory.,6,Doctoral Degree,30066
+3026,Cultural Studies/Critical Theory and Analysis.,6,Doctoral Degree,30266
+5099,"Visual and Performing Arts, Other.",6,Doctoral Degree,50996
+1603,"East Asian Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16038
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",6,Doctoral Degree,16116
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16118
+2599,"Library Science, Other.",6,Doctoral Degree,25996
+2599,"Library Science, Other.",8,Graduate/Professional Certificate,25998
+2602,"Biochemistry, Biophysics and Molecular Biology.",8,Graduate/Professional Certificate,26028
+2604,Cell/Cellular Biology and Anatomical Sciences.,8,Graduate/Professional Certificate,26048
+4201,"Psychology, General.",8,Graduate/Professional Certificate,42018
+4503,Archeology.,5,Master's Degree,45035
+4503,Archeology.,6,Doctoral Degree,45036
+5105,Advanced/Graduate Dentistry and Oral Sciences.,6,Doctoral Degree,51056
+5003,Dance.,6,Doctoral Degree,50036
+2314,Literature.,6,Doctoral Degree,23146
+2399,"English Language and Literature/Letters, Other.",6,Doctoral Degree,23996
+3025,Cognitive Science.,5,Master's Degree,30255
+3030,Computational Science.,5,Master's Degree,30305
+5001,"Visual and Performing Arts, General.",6,Doctoral Degree,50016
+1199,"Computer and Information Sciences and Support Services, Other.",5,Master's Degree,11995
+1199,"Computer and Information Sciences and Support Services, Other.",6,Doctoral Degree,11996
+5104,Dentistry.,6,Doctoral Degree,51046
+5106,Dental Support Services and Allied Professions.,5,Master's Degree,51065
+3013,Medieval and Renaissance Studies.,3,Bachelors Degree,30133
+4002,Astronomy and Astrophysics.,1,Undergraduate Certificate or Diploma,40021
+4503,Archeology.,3,Bachelors Degree,45033
+5005,Drama/Theatre Arts and Stagecraft.,8,Graduate/Professional Certificate,50058
+1304,Educational Administration and Supervision.,1,Undergraduate Certificate or Diploma,13041
+5003,Dance.,8,Graduate/Professional Certificate,50038
+5010,"Arts, Entertainment,and Media Management.",8,Graduate/Professional Certificate,50108
+4903,Marine Transportation.,3,Bachelors Degree,49033
+1599,"Engineering Technologies/Technicians, Other.",1,Undergraduate Certificate or Diploma,15991
+5099,"Visual and Performing Arts, Other.",2,Associate's Degree,50992
+1906,Housing and Human Environments.,1,Undergraduate Certificate or Diploma,19061
+4999,"Transportation and Materials Moving, Other.",1,Undergraduate Certificate or Diploma,49991
+1605,"Germanic Languages, Literatures, and Linguistics.",2,Associate's Degree,16052
+2603,Botany/Plant Biology.,2,Associate's Degree,26032
+2605,Microbiological Sciences and Immunology.,2,Associate's Degree,26052
+2607,Zoology/Animal Biology.,2,Associate's Degree,26072
+1603,"East Asian Languages, Literatures, and Linguistics.",2,Associate's Degree,16032
+1102,Computer Programming.,5,Master's Degree,11025
+3030,Computational Science.,6,Doctoral Degree,30306
+1603,"East Asian Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16031
+1605,"Germanic Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16051
+1614,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16141
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",4,Post-baccalaureate Certificate,51094
+5115,Mental and Social Health Services and Allied Professions.,4,Post-baccalaureate Certificate,51154
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",4,Post-baccalaureate Certificate,51394
+5199,"Health Professions and Related Clinical Sciences, Other.",4,Post-baccalaureate Certificate,51994
+3905,Religious/Sacred Music.,6,Doctoral Degree,39056
+5111,Health/Medical Preparatory Programs.,5,Master's Degree,51115
+5119,Osteopathic Medicine/Osteopathy.,7,First Professional Degree,51197
+5121,Podiatric Medicine/Podiatry.,7,First Professional Degree,51217
+3031,Human Computer Interaction.,2,Associate's Degree,30312
+2699,"Biological and Biomedical Sciences, Other.",1,Undergraduate Certificate or Diploma,26991
+404,Environmental Design.,2,Associate's Degree,4042
+2609,"Physiology, Pathology and Related Sciences.",2,Associate's Degree,26092
+2599,"Library Science, Other.",1,Undergraduate Certificate or Diploma,25991
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",2,Associate's Degree,16112
+4706,Vehicle Maintenance and Repair Technologies.,4,Post-baccalaureate Certificate,47064
+5216,Taxation.,2,Associate's Degree,52162
+1204,Cosmetology and Related Personal Grooming Services.,8,Graduate/Professional Certificate,12048
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",1,Undergraduate Certificate or Diploma,16041
+499,"Architecture and Related Services, Other.",1,Undergraduate Certificate or Diploma,4991
+2201,Law.,1,Undergraduate Certificate or Diploma,22011
+3401,Health-Related Knowledge and Skills.,2,Associate's Degree,34012
+4199,"Science Technologies/Technicians, Other.",1,Undergraduate Certificate or Diploma,41991
+5133,Alternative and Complementary Medicine and Medical Systems.,7,First Professional Degree,51337
+5299,"Business, Management, Marketing, and Related Support Services, Other.",5,Master's Degree,52995
+1204,Cosmetology and Related Personal Grooming Services.,7,First Professional Degree,12047
+1907,"Human Development, Family Studies, and Related Services.",4,Post-baccalaureate Certificate,19074
+2799,"Mathematics and Statistics, Other.",5,Master's Degree,27995
+3028,Dispute Resolution.,8,Graduate/Professional Certificate,30288
+3903,Missions/Missionary Studies and Missiology.,8,Graduate/Professional Certificate,39038
+3907,Pastoral Counseling and Specialized Ministries.,8,Graduate/Professional Certificate,39078
+3903,Missions/Missionary Studies and Missiology.,7,First Professional Degree,39037
+2202,Legal Research and Advanced Professional Studies.,1,Undergraduate Certificate or Diploma,22021
+5221,Telecommunications Management.,1,Undergraduate Certificate or Diploma,52211
+5221,Telecommunications Management.,3,Bachelors Degree,52213
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",2,Associate's Degree,16042
+4499,"Public Administration and Social Service Professions, Other.",2,Associate's Degree,44992
+3907,Pastoral Counseling and Specialized Ministries.,4,Post-baccalaureate Certificate,39074
+4228,"Clinical, Counseling and Applied Psychology.",4,Post-baccalaureate Certificate,42284
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",5,Master's Degree,51395
+2301,"English Language and Literature, General.",7,First Professional Degree,23017
+3014,Museology/Museum Studies.,1,Undergraduate Certificate or Diploma,30141
+3105,Health and Physical Education/Fitness.,7,First Professional Degree,31057
+5007,Fine and Studio Arts.,7,First Professional Degree,50077
+2203,Legal Support Services.,6,Doctoral Degree,22036
+112,Soil Sciences.,1,Undergraduate Certificate or Diploma,1121
+399,"Natural Resources and Conservation, Other.",1,Undergraduate Certificate or Diploma,3991
+5007,Fine and Studio Arts.,4,Post-baccalaureate Certificate,50074
+5101,Chiropractic.,7,First Professional Degree,51017
+2201,Law.,2,Associate's Degree,22012
+2601,"Biology, General.",4,Post-baccalaureate Certificate,26014
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",8,Graduate/Professional Certificate,26118
+2613,"Ecology, Evolution, Systematics, and Population Biology.",4,Post-baccalaureate Certificate,26134
+5122,Public Health.,4,Post-baccalaureate Certificate,51224
+5131,Dietetics and Clinical Nutrition Services.,6,Doctoral Degree,51316
+5132,Bioethics/Medical Ethics.,5,Master's Degree,51325
+5132,Bioethics/Medical Ethics.,8,Graduate/Professional Certificate,51328
+1501,Architectural Engineering Technologies/Technicians.,7,First Professional Degree,15017
+5001,"Visual and Performing Arts, General.",7,First Professional Degree,50017
+5101,Chiropractic.,5,Master's Degree,51015
+5101,Chiropractic.,6,Doctoral Degree,51016
+5133,Alternative and Complementary Medicine and Medical Systems.,1,Undergraduate Certificate or Diploma,51331
+5133,Alternative and Complementary Medicine and Medical Systems.,2,Associate's Degree,51332
+2605,Microbiological Sciences and Immunology.,1,Undergraduate Certificate or Diploma,26051
+2609,"Physiology, Pathology and Related Sciences.",1,Undergraduate Certificate or Diploma,26091
+3800,"Philosophy and Religious Studies, General.",2,Associate's Degree,38002
+1410,"Electrical, Electronics and Communications Engineering.",2,Associate's Degree,14102
+3907,Pastoral Counseling and Specialized Ministries.,7,First Professional Degree,39077
+5136,Movement and Mind-Body Therapies and Education.,5,Master's Degree,51365
+5116,Nursing.,2,Associate's Degree,51162
+2314,Literature.,5,Master's Degree,23145
+4513,Sociology and Anthropology.,3,Bachelors Degree,45133
+406,Landscape Architecture.,1,Undergraduate Certificate or Diploma,4061
+4299,"Psychology, Other.",1,Undergraduate Certificate or Diploma,42991
+3030,Computational Science.,2,Associate's Degree,30302
+4509,International Relations and National Security Studies.,8,Graduate/Professional Certificate,45098
+2599,"Library Science, Other.",2,Associate's Degree,25992
+1203,Funeral Service and Mortuary Science.,8,Graduate/Professional Certificate,12038
+1309,Social and Philosophical Foundations of Education.,3,Bachelors Degree,13093
+1501,Architectural Engineering Technologies/Technicians.,8,Graduate/Professional Certificate,15018
+1608,"Iranian/Persian Languages, Literatures, and Linguistics.",3,Bachelors Degree,16083
+2200,Non-Professional General Legal Studies (Undergraduate).,1,Undergraduate Certificate or Diploma,22001
+2604,Cell/Cellular Biology and Anatomical Sciences.,2,Associate's Degree,26042
+4600,"Construction Trades, General.",3,Bachelors Degree,46003
+5100,"Health Services/Allied Health/Health Sciences, General.",8,Graduate/Professional Certificate,51008
+5127,Medical Illustration and Informatics.,2,Associate's Degree,51272
+5127,Medical Illustration and Informatics.,8,Graduate/Professional Certificate,51278
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",3,Bachelors Degree,51393
+1110,Computer/Information Technology Administration and Management.,6,Doctoral Degree,11106
+1437,Operations Research.,8,Graduate/Professional Certificate,14378
+2902,"Intelligence, Command Control and Information Operations.",5,Master's Degree,29025
+2902,"Intelligence, Command Control and Information Operations.",8,Graduate/Professional Certificate,29028
+2903,Military Applied Sciences.,5,Master's Degree,29035
+2903,Military Applied Sciences.,8,Graduate/Professional Certificate,29038
+2904,Military Systems and Maintenance Technology.,5,Master's Degree,29045
+2904,Military Systems and Maintenance Technology.,8,Graduate/Professional Certificate,29048
+2999,"Military Technologies and Applied Sciences, Other.",8,Graduate/Professional Certificate,29998
+3030,Computational Science.,8,Graduate/Professional Certificate,30308
+4509,International Relations and National Security Studies.,6,Doctoral Degree,45096
+3903,Missions/Missionary Studies and Missiology.,1,Undergraduate Certificate or Diploma,39031
+3905,Religious/Sacred Music.,1,Undergraduate Certificate or Diploma,39051
+3906,Theological and Ministerial Studies.,1,Undergraduate Certificate or Diploma,39061
+1101,"Computer and Information Sciences, General.",4,Post-baccalaureate Certificate,11014
+5201,"Business/Commerce, General.",6,Doctoral Degree,52016
+5211,International Business.,7,First Professional Degree,52117
+402,Architecture.,2,Associate's Degree,4022
+3019,Nutrition Sciences.,1,Undergraduate Certificate or Diploma,30191
+3019,Nutrition Sciences.,8,Graduate/Professional Certificate,30198
+3028,Dispute Resolution.,1,Undergraduate Certificate or Diploma,30281
+3006,Systems Science and Theory.,3,Bachelors Degree,30063
+4505,Demography and Population Studies.,3,Bachelors Degree,45053
+5135,Somatic Bodywork and Related Therapeutic Services.,3,Bachelors Degree,51353
+4505,Demography and Population Studies.,2,Associate's Degree,45052
+4803,Leatherworking and Upholstery.,2,Associate's Degree,48032
+4400,"Human Services, General.",5,Master's Degree,44005
+5112,Medicine.,5,Master's Degree,51125
+5121,Podiatric Medicine/Podiatry.,6,Doctoral Degree,51216
+1614,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",2,Associate's Degree,16142
+1906,Housing and Human Environments.,8,Graduate/Professional Certificate,19068
+4604,"Building/Construction Finishing, Management, and Inspection.",8,Graduate/Professional Certificate,46048
+408,Architectural History and Criticism.,3,Bachelors Degree,4083
+5215,Real Estate.,5,Master's Degree,52155
+4512,Urban Studies/Affairs.,5,Master's Degree,45125
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",4,Post-baccalaureate Certificate,16014
+1905,"Foods, Nutrition, and Related Services.",4,Post-baccalaureate Certificate,19054
+1310,Special Education and Teaching.,7,First Professional Degree,13107
+5115,Mental and Social Health Services and Allied Professions.,7,First Professional Degree,51157
+3999,"Theology and Religious Vocations, Other.",1,Undergraduate Certificate or Diploma,39991
+3999,"Theology and Religious Vocations, Other.",2,Associate's Degree,39992
+1307,International and Comparative Education.,3,Bachelors Degree,13073
+4512,Urban Studies/Affairs.,8,Graduate/Professional Certificate,45128
+1409,Computer Engineering.,7,First Professional Degree,14097
+4201,"Psychology, General.",7,First Professional Degree,42017
+111,Plant Sciences.,2,Associate's Degree,1112
+1999,"Family and Consumer Sciences/Human Sciences, Other.",1,Undergraduate Certificate or Diploma,19991
+2799,"Mathematics and Statistics, Other.",3,Bachelors Degree,27993
+4207,Developmental and Child Psychology.,3,Bachelors Degree,42073
+3800,"Philosophy and Religious Studies, General.",8,Graduate/Professional Certificate,38008
+403,"City/Urban, Community and Regional Planning.",8,Graduate/Professional Certificate,4038
+404,Environmental Design.,8,Graduate/Professional Certificate,4048
+406,Landscape Architecture.,8,Graduate/Professional Certificate,4068
+408,Architectural History and Criticism.,8,Graduate/Professional Certificate,4088
+409,Architectural Sciences and Technology.,8,Graduate/Professional Certificate,4098
+410,Real Estate Development.,3,Bachelors Degree,4103
+410,Real Estate Development.,8,Graduate/Professional Certificate,4108
+499,"Architecture and Related Services, Other.",5,Master's Degree,4995
+999,"Communication, Journalism, and Related Programs, Other.",8,Graduate/Professional Certificate,9998
+1404,Architectural Engineering.,6,Doctoral Degree,14046
+1425,Petroleum Engineering.,6,Doctoral Degree,14256
+1425,Petroleum Engineering.,8,Graduate/Professional Certificate,14258
+2614,Molecular Medicine.,5,Master's Degree,26145
+3011,Gerontology.,6,Doctoral Degree,30116
+3032,Marine Sciences.,6,Doctoral Degree,30326
+4512,Urban Studies/Affairs.,6,Doctoral Degree,45126
+5199,"Health Professions and Related Clinical Sciences, Other.",6,Doctoral Degree,51996
+5201,"Business/Commerce, General.",8,Graduate/Professional Certificate,52018
+5299,"Business, Management, Marketing, and Related Support Services, Other.",8,Graduate/Professional Certificate,52998
+6001,Dental Residency Programs.,8,Graduate/Professional Certificate,60018
+3800,"Philosophy and Religious Studies, General.",6,Doctoral Degree,38006
+3999,"Theology and Religious Vocations, Other.",7,First Professional Degree,39997
+5199,"Health Professions and Related Clinical Sciences, Other.",2,Associate's Degree,51992
+1303,Curriculum and Instruction.,3,Bachelors Degree,13033
+3201,Basic Skills and Developmental/Remedial Education.,5,Master's Degree,32015
+4400,"Human Services, General.",6,Doctoral Degree,44006
+1499,"Engineering, Other.",2,Associate's Degree,14992
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",2,Associate's Degree,50022
+404,Environmental Design.,6,Doctoral Degree,4046
+3000,"Multi-/Interdisciplinary Studies, General.",1,Undergraduate Certificate or Diploma,30001
+5105,Advanced/Graduate Dentistry and Oral Sciences.,7,First Professional Degree,51057
+5108,Allied Health and Medical Assisting Services.,7,First Professional Degree,51087
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",7,First Professional Degree,51097
+4501,"Social Sciences, General.",8,Graduate/Professional Certificate,45018
+4599,"Social Sciences, Other.",8,Graduate/Professional Certificate,45998
+999,"Communication, Journalism, and Related Programs, Other.",6,Doctoral Degree,9996
+1407,Chemical Engineering.,1,Undergraduate Certificate or Diploma,14071
+1409,Computer Engineering.,1,Undergraduate Certificate or Diploma,14091
+1412,Engineering Physics.,1,Undergraduate Certificate or Diploma,14121
+1443,Biochemical Engineering.,3,Bachelors Degree,14433
+2602,"Biochemistry, Biophysics and Molecular Biology.",1,Undergraduate Certificate or Diploma,26021
+2604,Cell/Cellular Biology and Anatomical Sciences.,1,Undergraduate Certificate or Diploma,26041
+2615,Neurobiology and Neurosciences.,1,Undergraduate Certificate or Diploma,26151
+2615,Neurobiology and Neurosciences.,8,Graduate/Professional Certificate,26158
+2703,Applied Mathematics.,1,Undergraduate Certificate or Diploma,27031
+3025,Cognitive Science.,8,Graduate/Professional Certificate,30258
+3012,Historic Preservation and Conservation.,1,Undergraduate Certificate or Diploma,30121
+3012,Historic Preservation and Conservation.,2,Associate's Degree,30122
+1420,Metallurgical Engineering.,6,Doctoral Degree,14206
+3017,Behavioral Sciences.,8,Graduate/Professional Certificate,30178
+108,Agricultural Public Services.,5,Master's Degree,1085
+306,Wildlife and Wildlands Science and Management.,8,Graduate/Professional Certificate,3068
+909,"Public Relations, Advertising, and Applied Communication.",6,Doctoral Degree,9096
+1414,Environmental/Environmental Health Engineering.,8,Graduate/Professional Certificate,14148
+1500,"Engineering Technology, General.",5,Master's Degree,15005
+1902,Family and Consumer Sciences/Human Sciences Business Services.,5,Master's Degree,19025
+1905,"Foods, Nutrition, and Related Services.",6,Doctoral Degree,19056
+3103,"Parks, Recreation and Leisure Facilities Management.",8,Graduate/Professional Certificate,31038
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",6,Doctoral Degree,51096
+5212,Management Information Systems and Services.,6,Doctoral Degree,52126
+3904,Religious Education.,4,Post-baccalaureate Certificate,39044
+3904,Religious Education.,8,Graduate/Professional Certificate,39048
+2200,Non-Professional General Legal Studies (Undergraduate).,8,Graduate/Professional Certificate,22008
+2799,"Mathematics and Statistics, Other.",6,Doctoral Degree,27996
+3020,International/Global Studies.,8,Graduate/Professional Certificate,30208
+306,Wildlife and Wildlands Science and Management.,2,Associate's Degree,3062
+3033,Sustainability Studies.,2,Associate's Degree,30332
+104,Agricultural and Food Products Processing.,1,Undergraduate Certificate or Diploma,1041
+1418,Materials Engineering,1,Undergraduate Certificate or Diploma,14181
+1502,Civil Engineering Technologies/Technicians.,3,Bachelors Degree,15023
+3905,Religious/Sacred Music.,2,Associate's Degree,39052
+1616,American Sign Language.,5,Master's Degree,16165
+3601,Leisure and Recreational Activities.,1,Undergraduate Certificate or Diploma,36011
+3199,"Parks, Recreation, Leisure, and Fitness Studies, Other.",2,Associate's Degree,31992
+1001,Communications Technology/Technician.,2,Associate's Degree,10012
+1099,"Communications Technologies/Technicians and Support Services, Other.",3,Bachelors Degree,10993
+2608,Genetics.,8,Graduate/Professional Certificate,26088
+4504,Criminology.,8,Graduate/Professional Certificate,45048
+5107,Health and Medical Administrative Services.,4,Post-baccalaureate Certificate,51074
+5127,Medical Illustration and Informatics.,4,Post-baccalaureate Certificate,51274
+5210,Human Resources Management and Services.,4,Post-baccalaureate Certificate,52104
+1442,"Mechatronics, Robotics, and Automation Engineering.",5,Master's Degree,14425
+4228,"Clinical, Counseling and Applied Psychology.",2,Associate's Degree,42282
+1411,Engineering Mechanics.,3,Bachelors Degree,14113
+2904,Military Systems and Maintenance Technology.,3,Bachelors Degree,29043
+1413,Engineering Science.,2,Associate's Degree,14132
+2314,Literature.,2,Associate's Degree,23142
+1099,"Communications Technologies/Technicians and Support Services, Other.",2,Associate's Degree,10992
+1203,Funeral Service and Mortuary Science.,3,Bachelors Degree,12033
+1515,Engineering-Related Fields.,6,Doctoral Degree,15156
+5199,"Health Professions and Related Clinical Sciences, Other.",7,First Professional Degree,51997
+1504,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,3,Bachelors Degree,15043
+1507,Quality Control and Safety Technologies/Technicians.,8,Graduate/Professional Certificate,15078
+907,"Radio, Television, and Digital Communication.",8,Graduate/Professional Certificate,9078
+2201,Law.,8,Graduate/Professional Certificate,22018
+3013,Medieval and Renaissance Studies.,5,Master's Degree,30135
+3026,Cultural Studies/Critical Theory and Analysis.,8,Graduate/Professional Certificate,30268
+1419,Mechanical Engineering.,2,Associate's Degree,14192
+1109,Computer Systems Networking and Telecommunications.,8,Graduate/Professional Certificate,11098
+1505,Environmental Control Technologies/Technicians.,8,Graduate/Professional Certificate,15058
+1512,Computer Engineering Technologies/Technicians.,5,Master's Degree,15125
+4010,Materials Sciences.,8,Graduate/Professional Certificate,40108
+3906,Theological and Ministerial Studies.,4,Post-baccalaureate Certificate,39064
+1501,Architectural Engineering Technologies/Technicians.,3,Bachelors Degree,15013
+1435,Industrial Engineering.,2,Associate's Degree,14352
+1515,Engineering-Related Fields.,1,Undergraduate Certificate or Diploma,15151
+5123,Rehabilitation and Therapeutic Professions.,1,Undergraduate Certificate or Diploma,51231
+4099,"Physical Sciences, Other.",2,Associate's Degree,40992
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",3,Bachelors Degree,43993
+405,Interior Architecture.,2,Associate's Degree,4052
+1102,Computer Programming.,8,Graduate/Professional Certificate,11028
+1405,Biomedical/Medical Engineering.,1,Undergraduate Certificate or Diploma,14051
+4101,Biology Technician/Biotechnology Laboratory Technician.,3,Bachelors Degree,41013
+4302,Fire Protection.,8,Graduate/Professional Certificate,43028
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",8,Graduate/Professional Certificate,43998
+405,Interior Architecture.,1,Undergraduate Certificate or Diploma,4051
+105,Agricultural and Domestic Animal Services.,4,Post-baccalaureate Certificate,1054
+5208,Finance and Financial Management Services.,4,Post-baccalaureate Certificate,52084
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",4,Post-baccalaureate Certificate,43994
+1309,Social and Philosophical Foundations of Education.,8,Graduate/Professional Certificate,13098
+1422,Naval Architecture and Marine Engineering.,3,Bachelors Degree,14223
+1405,Biomedical/Medical Engineering.,8,Graduate/Professional Certificate,14058
+1407,Chemical Engineering.,8,Graduate/Professional Certificate,14078
+1412,Engineering Physics.,8,Graduate/Professional Certificate,14128
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16048
+1605,"Germanic Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16058
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16128
+2610,Pharmacology and Toxicology.,8,Graduate/Professional Certificate,26108
+4002,Astronomy and Astrophysics.,8,Graduate/Professional Certificate,40028
+3401,Health-Related Knowledge and Skills.,1,Undergraduate Certificate or Diploma,34011
+104,Agricultural and Food Products Processing.,2,Associate's Degree,1042
+1405,Biomedical/Medical Engineering.,2,Associate's Degree,14052
+1437,Operations Research.,2,Associate's Degree,14372
+2399,"English Language and Literature/Letters, Other.",1,Undergraduate Certificate or Diploma,23991
+1314,Teaching English or French as a Second or Foreign Language.,3,Bachelors Degree,13143
+3012,Historic Preservation and Conservation.,3,Bachelors Degree,30123
+106,Applied Horticulture and Horticultural Business Services.,5,Master's Degree,1065
+1424,Ocean Engineering.,5,Master's Degree,14245
+1424,Ocean Engineering.,6,Doctoral Degree,14246
+1499,"Engineering, Other.",4,Post-baccalaureate Certificate,14994
+3012,Historic Preservation and Conservation.,4,Post-baccalaureate Certificate,30124
+3012,Historic Preservation and Conservation.,6,Doctoral Degree,30126
+3014,Museology/Museum Studies.,4,Post-baccalaureate Certificate,30144
+4008,Physics.,4,Post-baccalaureate Certificate,40084
+4303,Homeland Security.,6,Doctoral Degree,43036
+5100,"Health Services/Allied Health/Health Sciences, General.",4,Post-baccalaureate Certificate,51004
+5207,Entrepreneurial and Small Business Operations.,4,Post-baccalaureate Certificate,52074
+5219,"Specialized Sales, Merchandising and Marketing Operations.",4,Post-baccalaureate Certificate,52194
+4202,Clinical Psychology.,3,Bachelors Degree,42023
+2999,"Military Technologies and Applied Sciences, Other.",5,Master's Degree,29995
+1002,Audiovisual Communications Technologies/Technicians.,8,Graduate/Professional Certificate,10028
+1307,International and Comparative Education.,5,Master's Degree,13075
+3030,Computational Science.,3,Bachelors Degree,30303
+5215,Real Estate.,8,Graduate/Professional Certificate,52158
+499,"Architecture and Related Services, Other.",7,First Professional Degree,4997
+1101,"Computer and Information Sciences, General.",7,First Professional Degree,11017
+1906,Housing and Human Environments.,7,First Professional Degree,19067
+2501,Library Science and Administration.,7,First Professional Degree,25017
+4510,Political Science and Government.,7,First Professional Degree,45107
+1616,American Sign Language.,6,Doctoral Degree,16166
+106,Applied Horticulture and Horticultural Business Services.,8,Graduate/Professional Certificate,1068
+910,Publishing.,5,Master's Degree,9105
+1199,"Computer and Information Sciences and Support Services, Other.",8,Graduate/Professional Certificate,11998
+1307,International and Comparative Education.,8,Graduate/Professional Certificate,13078
+1515,Engineering-Related Fields.,7,First Professional Degree,15157
+2203,Legal Support Services.,5,Master's Degree,22035
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",8,Graduate/Professional Certificate,51098
+5299,"Business, Management, Marketing, and Related Support Services, Other.",6,Doctoral Degree,52996
+1107,Computer Science.,4,Post-baccalaureate Certificate,11074
+2602,"Biochemistry, Biophysics and Molecular Biology.",7,First Professional Degree,26027
+2609,"Physiology, Pathology and Related Sciences.",7,First Professional Degree,26097
+2615,Neurobiology and Neurosciences.,7,First Professional Degree,26157
+1105,Computer Systems Analysis.,6,Doctoral Degree,11056
+1105,Computer Systems Analysis.,8,Graduate/Professional Certificate,11058
+1606,Modern Greek Language and Literature.,3,Bachelors Degree,16063
+5105,Advanced/Graduate Dentistry and Oral Sciences.,3,Bachelors Degree,51053
+901,Communication and Media Studies.,4,Post-baccalaureate Certificate,9014
+2301,"English Language and Literature, General.",4,Post-baccalaureate Certificate,23014
+2703,Applied Mathematics.,4,Post-baccalaureate Certificate,27034
+2705,Statistics.,4,Post-baccalaureate Certificate,27054
+4005,Chemistry.,4,Post-baccalaureate Certificate,40054
+4407,Social Work.,4,Post-baccalaureate Certificate,44074
+4502,Anthropology.,4,Post-baccalaureate Certificate,45024
+5209,Hospitality Administration/Management.,4,Post-baccalaureate Certificate,52094
+5209,Hospitality Administration/Management.,6,Doctoral Degree,52096
+1402,"Aerospace, Aeronautical and Astronautical Engineering.",2,Associate's Degree,14022
+4004,Atmospheric Sciences and Meteorology.,1,Undergraduate Certificate or Diploma,40041
+4706,Vehicle Maintenance and Repair Technologies.,5,Master's Degree,47065
+4901,Air Transportation.,6,Doctoral Degree,49016
+4901,Air Transportation.,8,Graduate/Professional Certificate,49018
+100,"Agriculture, General.",6,Doctoral Degree,1006
+2601,"Biology, General.",7,First Professional Degree,26017
+4005,Chemistry.,7,First Professional Degree,40057
+4501,"Social Sciences, General.",7,First Professional Degree,45017
+1424,Ocean Engineering.,3,Bachelors Degree,14243
+1438,Surveying Engineering.,3,Bachelors Degree,14383
+6005,Medical Residency Programs - Subspecialty Certificates.,1,Undergraduate Certificate or Diploma,60051
+1510,Construction Engineering Technologies.,8,Graduate/Professional Certificate,15108
+5112,Medicine.,8,Graduate/Professional Certificate,51128
+2202,Legal Research and Advanced Professional Studies.,3,Bachelors Degree,22023
+403,"City/Urban, Community and Regional Planning.",4,Post-baccalaureate Certificate,4034
+1410,"Electrical, Electronics and Communications Engineering.",4,Post-baccalaureate Certificate,14104
+1901,"Family and Consumer Sciences/Human Sciences, General.",6,Doctoral Degree,19016
+2705,Statistics.,1,Undergraduate Certificate or Diploma,27051
+3105,Health and Physical Education/Fitness.,4,Post-baccalaureate Certificate,31054
+4901,Air Transportation.,4,Post-baccalaureate Certificate,49014
+5217,Insurance.,5,Master's Degree,52175
+101,Agricultural Business and Management.,7,First Professional Degree,1017
+104,Agricultural and Food Products Processing.,3,Bachelors Degree,1043
+111,Plant Sciences.,7,First Professional Degree,1117
+112,Soil Sciences.,8,Graduate/Professional Certificate,1128
+303,Fishing and Fisheries Sciences and Management.,8,Graduate/Professional Certificate,3038
+305,Forestry.,7,First Professional Degree,3057
+406,Landscape Architecture.,6,Doctoral Degree,4066
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",7,First Professional Degree,5027
+901,Communication and Media Studies.,7,First Professional Degree,9017
+1303,Curriculum and Instruction.,7,First Professional Degree,13037
+1510,Construction Engineering Technologies.,6,Doctoral Degree,15106
+2699,"Biological and Biomedical Sciences, Other.",7,First Professional Degree,26997
+3099,"Multi/Interdisciplinary Studies, Other.",7,First Professional Degree,30997
+5124,Veterinary Medicine.,5,Master's Degree,51245
+5125,Veterinary Biomedical and Clinical Sciences.,8,Graduate/Professional Certificate,51258
+5203,Accounting and Related Services.,7,First Professional Degree,52037
+5215,Real Estate.,7,First Professional Degree,52157
+1001,Communications Technology/Technician.,3,Bachelors Degree,10013
+3903,Missions/Missionary Studies and Missiology.,2,Associate's Degree,39032
+3903,Missions/Missionary Studies and Missiology.,4,Post-baccalaureate Certificate,39034
+3999,"Theology and Religious Vocations, Other.",4,Post-baccalaureate Certificate,39994
+5116,Nursing.,3,Bachelors Degree,51163
+1505,Environmental Control Technologies/Technicians.,3,Bachelors Degree,15053
+408,Architectural History and Criticism.,1,Undergraduate Certificate or Diploma,4081
+408,Architectural History and Criticism.,4,Post-baccalaureate Certificate,4084
+5132,Bioethics/Medical Ethics.,3,Bachelors Degree,51323
+3005,Peace Studies and Conflict Resolution.,1,Undergraduate Certificate or Diploma,30051
+3005,Peace Studies and Conflict Resolution.,6,Doctoral Degree,30056
+3028,Dispute Resolution.,6,Doctoral Degree,30286
+3032,Marine Sciences.,8,Graduate/Professional Certificate,30328
+5117,Optometry.,6,Doctoral Degree,51176
+5119,Osteopathic Medicine/Osteopathy.,6,Doctoral Degree,51196
+5211,International Business.,6,Doctoral Degree,52116
+5214,Marketing.,4,Post-baccalaureate Certificate,52144
+5218,"General Sales, Merchandising and Related Marketing Operations.",8,Graduate/Professional Certificate,52188
+5108,Allied Health and Medical Assisting Services.,4,Post-baccalaureate Certificate,51084
+1205,Culinary Arts and Related Services.,8,Graduate/Professional Certificate,12058
+1501,Architectural Engineering Technologies/Technicians.,4,Post-baccalaureate Certificate,15014
+4700,"Mechanics and Repairers, General.",1,Undergraduate Certificate or Diploma,47001
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",2,Associate's Degree,51202
+5207,Entrepreneurial and Small Business Operations.,6,Doctoral Degree,52076
+2202,Legal Research and Advanced Professional Studies.,4,Post-baccalaureate Certificate,22024
+2299,"Legal Professions and Studies, Other.",4,Post-baccalaureate Certificate,22994
+3023,Intercultural/Multicultural and Diversity Studies.,1,Undergraduate Certificate or Diploma,30231
+1402,"Aerospace, Aeronautical and Astronautical Engineering.",1,Undergraduate Certificate or Diploma,14021
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",1,Undergraduate Certificate or Diploma,26111
+3020,International/Global Studies.,2,Associate's Degree,30202
+1514,Nuclear Engineering Technologies/Technicians.,1,Undergraduate Certificate or Diploma,15141
+1311,Student Counseling and Personnel Services.,7,First Professional Degree,13117
+1299,"Personal and Culinary Services, Other.",1,Undergraduate Certificate or Diploma,12991
+907,"Radio, Television, and Digital Communication.",4,Post-baccalaureate Certificate,9074
+4501,"Social Sciences, General.",4,Post-baccalaureate Certificate,45014
+4599,"Social Sciences, Other.",4,Post-baccalaureate Certificate,45994
+5006,Film/Video and Photographic Arts.,4,Post-baccalaureate Certificate,50064
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,8,Graduate/Professional Certificate,51188
+6004,Medical Residency Programs - General Certificates.,2,Associate's Degree,60042
+409,Architectural Sciences and Technology.,6,Doctoral Degree,4096
+1428,Textile Sciences and Engineering.,3,Bachelors Degree,14283
+1428,Textile Sciences and Engineering.,6,Doctoral Degree,14286
+1440,Paper Science and Engineering.,5,Master's Degree,14405
+1440,Paper Science and Engineering.,6,Doctoral Degree,14406
+3016,Accounting and Computer Science.,5,Master's Degree,30165
+5215,Real Estate.,6,Doctoral Degree,52156
+5217,Insurance.,6,Doctoral Degree,52176
+5219,"Specialized Sales, Merchandising and  Marketing Operations.",8,Graduate/Professional Certificate,52198
+107,International Agriculture.,1,Undergraduate Certificate or Diploma,1071
+107,International Agriculture.,4,Post-baccalaureate Certificate,1074
+107,International Agriculture.,8,Graduate/Professional Certificate,1078
+108,Agricultural Public Services.,1,Undergraduate Certificate or Diploma,1081
+302,Natural Resources Management and Policy.,4,Post-baccalaureate Certificate,3024
+501,Area Studies.,4,Post-baccalaureate Certificate,5014
+502,"Ethnic, Cultural Minority, Gender, and Group Studies.",4,Post-baccalaureate Certificate,5024
+1424,Ocean Engineering.,8,Graduate/Professional Certificate,14248
+1443,Biochemical Engineering.,5,Master's Degree,14435
+1906,Housing and Human Environments.,5,Master's Degree,19065
+1906,Housing and Human Environments.,6,Doctoral Degree,19066
+1909,Apparel and Textiles.,6,Doctoral Degree,19096
+3011,Gerontology.,4,Post-baccalaureate Certificate,30114
+3030,Computational Science.,1,Undergraduate Certificate or Diploma,30301
+4512,Urban Studies/Affairs.,1,Undergraduate Certificate or Diploma,45121
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",4,Post-baccalaureate Certificate,51204
+6003,Veterinary Residency Programs.,5,Master's Degree,60035
+1904,Family and Consumer Economics and Related Studies.,2,Associate's Degree,19042
+5111,Health/Medical Preparatory Programs.,6,Doctoral Degree,51116
+408,Architectural History and Criticism.,5,Master's Degree,4085
+5204,Business Operations Support and Assistant Services.,3,Bachelors Degree,52043
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",5,Master's Degree,16105
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",6,Doctoral Degree,16106
+2603,Botany/Plant Biology.,1,Undergraduate Certificate or Diploma,26031
+1614,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",3,Bachelors Degree,16143
+2903,Military Applied Sciences.,2,Associate's Degree,29032
+5205,Business/Corporate Communications.,5,Master's Degree,52055
+3026,Cultural Studies/Critical Theory and Analysis.,1,Undergraduate Certificate or Diploma,30261
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,1,Undergraduate Certificate or Diploma,41021
+1315,Teaching Assistants/Aides.,5,Master's Degree,13155
+1511,Engineering-Related Technologies.,8,Graduate/Professional Certificate,15118
+1514,Nuclear Engineering Technologies/Technicians.,3,Bachelors Degree,15143
+4603,Electrical and Power Transmission Installers.,3,Bachelors Degree,46033
+4701,Electrical/Electronics Maintenance and Repair Technology.,3,Bachelors Degree,47013
+4805,Precision Metal Working.,3,Bachelors Degree,48053
+1503,Electrical Engineering Technologies/Technicians.,8,Graduate/Professional Certificate,15038
+3106,Outdoor Education.,8,Graduate/Professional Certificate,31068
+5125,Veterinary Biomedical and Clinical Sciences.,3,Bachelors Degree,51253
+910,Publishing.,3,Bachelors Degree,9103
+4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",3,Bachelors Degree,47023
+1407,Chemical Engineering.,2,Associate's Degree,14072
+1408,Civil Engineering.,2,Associate's Degree,14082
+5127,Medical Illustration and Informatics.,1,Undergraduate Certificate or Diploma,51271
+112,Soil Sciences.,2,Associate's Degree,1122
+399,"Natural Resources and Conservation, Other.",2,Associate's Degree,3992
+1302,"Bilingual, Multilingual, and Multicultural Education.",2,Associate's Degree,13022
+1403,Agricultural Engineering.,2,Associate's Degree,14032
+5136,Movement and Mind-Body Therapies and Education.,8,Graduate/Professional Certificate,51368
+5004,Design and Applied Arts.,4,Post-baccalaureate Certificate,50044
+5101,Chiropractic.,3,Bachelors Degree,51013
+1315,Teaching Assistants/Aides.,3,Bachelors Degree,13153
+5221,Telecommunications Management.,8,Graduate/Professional Certificate,52218
+1607,"South Asian Languages, Literatures, and Linguistics.",3,Bachelors Degree,16073
+1607,"South Asian Languages, Literatures, and Linguistics.",5,Master's Degree,16075
+1607,"South Asian Languages, Literatures, and Linguistics.",6,Doctoral Degree,16076
+1314,Teaching English or French as a Second or Foreign Language.,2,Associate's Degree,13142
+4001,Physical Sciences.,1,Undergraduate Certificate or Diploma,40011
+5218,"General Sales, Merchandising and Related Marketing Operations.",5,Master's Degree,52185
+1512,Computer Engineering Technologies/Technicians.,8,Graduate/Professional Certificate,15128
+1309,Social and Philosophical Foundations of Education.,2,Associate's Degree,13092
+5127,Medical Illustration and Informatics.,6,Doctoral Degree,51276
+4402,Community Organization and Advocacy.,6,Doctoral Degree,44026
+5124,Veterinary Medicine.,6,Doctoral Degree,51246
+3016,Accounting and Computer Science.,1,Undergraduate Certificate or Diploma,30161
+3016,Accounting and Computer Science.,2,Associate's Degree,30162
+1403,Agricultural Engineering.,8,Graduate/Professional Certificate,14038
+1504,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,5,Master's Degree,15045
+3905,Religious/Sacred Music.,8,Graduate/Professional Certificate,39058
+4999,"Transportation and Materials Moving, Other.",3,Bachelors Degree,49993
+5132,Bioethics/Medical Ethics.,6,Doctoral Degree,51326
+3801,Philosophy.,7,First Professional Degree,38017
+5136,Movement and Mind-Body Therapies and Education.,2,Associate's Degree,51362
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",8,Graduate/Professional Certificate,51398
+5101,Chiropractic.,1,Undergraduate Certificate or Diploma,51011
+5135,Somatic Bodywork and Related Therapeutic Services.,6,Doctoral Degree,51356
+2801,"Air Force ROTC, Air Science and Operations.",3,Bachelors Degree,28013
+5301,High School/Secondary Diploma Programs.,2,Associate's Degree,53012
+2699,"Biological and Biomedical Sciences, Other.",4,Post-baccalaureate Certificate,26994
+4199,"Science Technologies/Technicians, Other.",5,Master's Degree,41995
+5201,"Business/Commerce, General.",7,First Professional Degree,52017
+5125,Veterinary Biomedical and Clinical Sciences.,2,Associate's Degree,51252
+3019,Nutrition Sciences.,4,Post-baccalaureate Certificate,30194
+4499,"Public Administration and Social Service Professions, Other.",4,Post-baccalaureate Certificate,44994
+904,Journalism.,6,Doctoral Degree,9046
+2609,"Physiology, Pathology and Related Sciences.",4,Post-baccalaureate Certificate,26094
+4100,"Science Technologies/Technicians, General.",2,Associate's Degree,41002
+2607,Zoology/Animal Biology.,8,Graduate/Professional Certificate,26078
+405,Interior Architecture.,8,Graduate/Professional Certificate,4058
+499,"Architecture and Related Services, Other.",8,Graduate/Professional Certificate,4998
+1001,Communications Technology/Technician.,8,Graduate/Professional Certificate,10018
+1099,"Communications Technologies/Technicians and Support Services, Other.",5,Master's Degree,10995
+2612,Biotechnology.,8,Graduate/Professional Certificate,26128
+4004,Atmospheric Sciences and Meteorology.,8,Graduate/Professional Certificate,40048
+4101,Biology Technician/Biotechnology Laboratory Technician.,6,Doctoral Degree,41016
+5204,Business Operations Support and Assistant Services.,5,Master's Degree,52045
+3006,Systems Science and Theory.,8,Graduate/Professional Certificate,30068
+4808,Boilermaking/Boilermaker.,1,Undergraduate Certificate or Diploma,48081
+4808,Boilermaking/Boilermaker.,2,Associate's Degree,48082
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",1,Undergraduate Certificate or Diploma,51201
+5126,Health Aides/Attendants/Orderlies.,2,Associate's Degree,51262
+1401,"Engineering, General.",8,Graduate/Professional Certificate,14018
+1436,Manufacturing Engineering.,1,Undergraduate Certificate or Diploma,14361
+5132,Bioethics/Medical Ethics.,1,Undergraduate Certificate or Diploma,51321
+2614,Molecular Medicine.,8,Graduate/Professional Certificate,26148
+3027,Human Biology.,8,Graduate/Professional Certificate,30278
+3031,Human Computer Interaction.,1,Undergraduate Certificate or Diploma,30311
+3031,Human Computer Interaction.,8,Graduate/Professional Certificate,30318
+1506,Industrial Production Technologies/Technicians.,6,Doctoral Degree,15066
+2608,Genetics.,4,Post-baccalaureate Certificate,26084
+5100,"Health Services/Allied Health/Health Sciences, General.",7,First Professional Degree,51007
+2314,Literature.,8,Graduate/Professional Certificate,23148
+3199,"Parks, Recreation, Leisure, and Fitness Studies, Other.",6,Doctoral Degree,31996
+3011,Gerontology.,2,Associate's Degree,30112
+3023,Intercultural/Multicultural and Diversity Studies.,2,Associate's Degree,30232
+5208,Finance and Financial Management Services.,7,First Professional Degree,52087
+1513,Drafting/Design Engineering Technologies/Technicians.,8,Graduate/Professional Certificate,15138
+3014,Museology/Museum Studies.,2,Associate's Degree,30142
+3014,Museology/Museum Studies.,3,Bachelors Degree,30143
+2602,"Biochemistry, Biophysics and Molecular Biology.",2,Associate's Degree,26022
+1438,Surveying Engineering.,2,Associate's Degree,14382
+2703,Applied Mathematics.,2,Associate's Degree,27032
+1403,Agricultural Engineering.,1,Undergraduate Certificate or Diploma,14031
+110,Food Science and Technology.,8,Graduate/Professional Certificate,1108
+1441,Electromechanical Engineering.,5,Master's Degree,14415
+1441,Electromechanical Engineering.,6,Doctoral Degree,14416
+1901,"Family and Consumer Sciences/Human Sciences, General.",8,Graduate/Professional Certificate,19018
+3031,Human Computer Interaction.,6,Doctoral Degree,30316
+1616,American Sign Language.,8,Graduate/Professional Certificate,16168
+2399,"English Language and Literature/Letters, Other.",8,Graduate/Professional Certificate,23998
+3701,Personal Awareness and Self-Improvement.,1,Undergraduate Certificate or Diploma,37011
+5121,Podiatric Medicine/Podiatry.,3,Bachelors Degree,51213
+5217,Insurance.,8,Graduate/Professional Certificate,52178
+3401,Health-Related Knowledge and Skills.,5,Master's Degree,34015
+2903,Military Applied Sciences.,3,Bachelors Degree,29033
+1103,Data Processing.,8,Graduate/Professional Certificate,11038
+5205,Business/Corporate Communications.,2,Associate's Degree,52052
+499,"Architecture and Related Services, Other.",2,Associate's Degree,4992
+5101,Chiropractic.,2,Associate's Degree,51012
+5124,Veterinary Medicine.,2,Associate's Degree,51242
+1435,Industrial Engineering.,1,Undergraduate Certificate or Diploma,14351
+2200,Non-Professional General Legal Studies (Undergraduate).,7,First Professional Degree,22007
+1904,Family and Consumer Economics and Related Studies.,8,Graduate/Professional Certificate,19048
+1508,Mechanical Engineering Related Technologies/Technicians.,4,Post-baccalaureate Certificate,15084
+3401,Health-Related Knowledge and Skills.,8,Graduate/Professional Certificate,34018
+2607,Zoology/Animal Biology.,1,Undergraduate Certificate or Diploma,26071
+1436,Manufacturing Engineering.,8,Graduate/Professional Certificate,14368
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,6,Doctoral Degree,51106
+1108,Computer Software and Media Applications.,4,Post-baccalaureate Certificate,11084
+1414,Environmental/Environmental Health Engineering.,4,Post-baccalaureate Certificate,14144
+1419,Mechanical Engineering.,4,Post-baccalaureate Certificate,14194
+3013,Medieval and Renaissance Studies.,4,Post-baccalaureate Certificate,30134
+4201,"Psychology, General.",4,Post-baccalaureate Certificate,42014
+4211,Physiological Psychology/Psychobiology.,4,Post-baccalaureate Certificate,42114
+4511,Sociology.,4,Post-baccalaureate Certificate,45114
+5215,Real Estate.,4,Post-baccalaureate Certificate,52154
+4103,Physical Science Technologies/Technicians.,5,Master's Degree,41035
+5205,Business/Corporate Communications.,8,Graduate/Professional Certificate,52058
+5299,"Business, Management, Marketing, and Related Support Services, Other.",7,First Professional Degree,52997
+2803,"Army ROTC, Military Science and Operations.",3,Bachelors Degree,28033
+5134,Alternative and Complementary Medical Support Services.,1,Undergraduate Certificate or Diploma,51341
+4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",8,Graduate/Professional Certificate,47028
+5204,Business Operations Support and Assistant Services.,4,Post-baccalaureate Certificate,52044
+6001,Dental Residency Programs.,7,First Professional Degree,60017
+108,Agricultural Public Services.,6,Doctoral Degree,1086
+1399,"Education, Other.",7,First Professional Degree,13997
+1403,Agricultural Engineering.,7,First Professional Degree,14037
+1407,Chemical Engineering.,7,First Professional Degree,14077
+1414,Environmental/Environmental Health Engineering.,7,First Professional Degree,14147
+1425,Petroleum Engineering.,7,First Professional Degree,14257
+1609,"Romance Languages, Literatures, and Linguistics.",7,First Professional Degree,16097
+1901,"Family and Consumer Sciences/Human Sciences, General.",7,First Professional Degree,19017
+2503,Library and Archives Assisting.,8,Graduate/Professional Certificate,25038
+3020,International/Global Studies.,7,First Professional Degree,30207
+4006,Geological and Earth Sciences/Geosciences.,7,First Professional Degree,40067
+5005,Drama/Theatre Arts and Stagecraft.,7,First Professional Degree,50057
+5009,Music.,7,First Professional Degree,50097
+5124,Veterinary Medicine.,3,Bachelors Degree,51243
+5219,"Specialized Sales, Merchandising and Marketing Operations.",7,First Professional Degree,52197
+5220,Construction Management.,4,Post-baccalaureate Certificate,52204
+5220,Construction Management.,7,First Professional Degree,52207
+5401,History.,7,First Professional Degree,54017
+1509,Mining and Petroleum Technologies/Technicians.,3,Bachelors Degree,15093
+1906,Housing and Human Environments.,2,Associate's Degree,19062
+909,"Public Relations, Advertising, and Applied Communication.",4,Post-baccalaureate Certificate,9094
+1440,Paper Science and Engineering.,1,Undergraduate Certificate or Diploma,14401
+1440,Paper Science and Engineering.,2,Associate's Degree,14402
+1422,Naval Architecture and Marine Engineering.,1,Undergraduate Certificate or Diploma,14221
+1422,Naval Architecture and Marine Engineering.,2,Associate's Degree,14222
+3019,Nutrition Sciences.,2,Associate's Degree,30192
+106,Applied Horticulture and Horticultural Business Services.,6,Doctoral Degree,1066
+110,Food Science and Technology.,4,Post-baccalaureate Certificate,1104
+1099,"Communications Technologies/Technicians and Support Services, Other.",8,Graduate/Professional Certificate,10998
+1438,Surveying Engineering.,4,Post-baccalaureate Certificate,14384
+1438,Surveying Engineering.,5,Master's Degree,14385
+1438,Surveying Engineering.,6,Doctoral Degree,14386
+1438,Surveying Engineering.,8,Graduate/Professional Certificate,14388
+1508,Mechanical Engineering Related Technologies/Technicians.,8,Graduate/Professional Certificate,15088
+3401,Health-Related Knowledge and Skills.,3,Bachelors Degree,34013
+5137,Energy and Biologically Based Therapies.,1,Undergraduate Certificate or Diploma,51371
+1418,Materials Engineering,2,Associate's Degree,14182
+4405,Public Policy Analysis.,4,Post-baccalaureate Certificate,44054
+2902,"Intelligence, Command Control and Information Operations.",3,Bachelors Degree,29023
+5001,"Visual and Performing Arts, General.",8,Graduate/Professional Certificate,50018
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",8,Graduate/Professional Certificate,50028
+5216,Taxation.,7,First Professional Degree,52167
+3899,"Philosophy and Religious Studies, Other.",1,Undergraduate Certificate or Diploma,38991
+1104,Information Science/Studies.,4,Post-baccalaureate Certificate,11044
+1999,"Family and Consumer Sciences/Human Sciences, Other.",5,Master's Degree,19995
+1427,Systems Engineering.,4,Post-baccalaureate Certificate,14274
+1516,Nanotechnology.,6,Doctoral Degree,15166
+1516,Nanotechnology.,8,Graduate/Professional Certificate,15168
+4509,International Relations and National Security Studies.,4,Post-baccalaureate Certificate,45094
+5132,Bioethics/Medical Ethics.,4,Post-baccalaureate Certificate,51324
+100,"Agriculture, General.",8,Graduate/Professional Certificate,1008
+1401,"Engineering, General.",4,Post-baccalaureate Certificate,14014
+4999,"Transportation and Materials Moving, Other.",6,Doctoral Degree,49996
+5131,Dietetics and Clinical Nutrition Services.,7,First Professional Degree,51317
+5133,Alternative and Complementary Medicine and Medical Systems.,4,Post-baccalaureate Certificate,51334
+5134,Alternative and Complementary Medical Support Services.,5,Master's Degree,51345
+5134,Alternative and Complementary Medical Support Services.,8,Graduate/Professional Certificate,51348
+5137,Energy and Biologically Based Therapies.,5,Master's Degree,51375
+5137,Energy and Biologically Based Therapies.,8,Graduate/Professional Certificate,51378
+5123,Rehabilitation and Therapeutic Professions.,4,Post-baccalaureate Certificate,51234
+5216,Taxation.,4,Post-baccalaureate Certificate,52164
+1205,Culinary Arts and Related Services.,5,Master's Degree,12055
+1306,"Educational Assessment, Evaluation, and Research.",1,Undergraduate Certificate or Diploma,13061
+2610,Pharmacology and Toxicology.,1,Undergraduate Certificate or Diploma,26101
+4206,Counseling Psychology.,3,Bachelors Degree,42063
+5005,Drama/Theatre Arts and Stagecraft.,4,Post-baccalaureate Certificate,50054
+1438,Surveying Engineering.,1,Undergraduate Certificate or Diploma,14381
+2799,"Mathematics and Statistics, Other.",2,Associate's Degree,27992
+5136,Movement and Mind-Body Therapies and Education.,3,Bachelors Degree,51363
+2701,Mathematics.,4,Post-baccalaureate Certificate,27014
+408,Architectural History and Criticism.,6,Doctoral Degree,4086
+1602,"African Languages, Literatures, and Linguistics.",3,Bachelors Degree,16023
+1606,Modern Greek Language and Literature.,5,Master's Degree,16065
+1606,Modern Greek Language and Literature.,6,Doctoral Degree,16066
+1613,"Celtic Languages, Literatures, and Linguistics.",5,Master's Degree,16135
+1613,"Celtic Languages, Literatures, and Linguistics.",6,Doctoral Degree,16136
+3802,Religion/Religious Studies.,4,Post-baccalaureate Certificate,38024
+3802,Religion/Religious Studies.,7,First Professional Degree,38027
+3905,Religious/Sacred Music.,7,First Professional Degree,39057
+1003,Graphic Communications.,4,Post-baccalaureate Certificate,10034
+1432,Polymer/Plastics Engineering.,8,Graduate/Professional Certificate,14328
+1506,Industrial Production Technologies/Technicians.,8,Graduate/Professional Certificate,15068
+1445,Biological/Biosystems Engineering.,8,Graduate/Professional Certificate,14458
+3008,Mathematics and Computer Science.,8,Graduate/Professional Certificate,30088
+3032,Marine Sciences.,1,Undergraduate Certificate or Diploma,30321
+4010,Materials Sciences.,1,Undergraduate Certificate or Diploma,40101
+5301,High School/Secondary Diploma Programs.,3,Bachelors Degree,53013
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",2,Associate's Degree,26112
+5134,Alternative and Complementary Medical Support Services.,2,Associate's Degree,51342
+3021,Holocaust and Related Studies.,4,Post-baccalaureate Certificate,30214
+3021,Holocaust and Related Studies.,8,Graduate/Professional Certificate,30218
+1404,Architectural Engineering.,2,Associate's Degree,14042
+2602,"Biochemistry, Biophysics and Molecular Biology.",4,Post-baccalaureate Certificate,26024
+3015,"Science, Technology and Society.",2,Associate's Degree,30152
+4299,"Psychology, Other.",7,First Professional Degree,42997
+4506,Economics.,7,First Professional Degree,45067
+5216,Taxation.,3,Bachelors Degree,52163
+1500,"Engineering Technology, General.",8,Graduate/Professional Certificate,15008
+1441,Electromechanical Engineering.,3,Bachelors Degree,14413
+301,Natural Resources Conservation and Research.,4,Post-baccalaureate Certificate,3014
+1442,"Mechatronics, Robotics, and Automation Engineering.",6,Doctoral Degree,14426
+1442,"Mechatronics, Robotics, and Automation Engineering.",8,Graduate/Professional Certificate,14428
+3899,"Philosophy and Religious Studies, Other.",2,Associate's Degree,38992
+1102,Computer Programming.,4,Post-baccalaureate Certificate,11024
+3005,Peace Studies and Conflict Resolution.,2,Associate's Degree,30052
+1606,Modern Greek Language and Literature.,1,Undergraduate Certificate or Diploma,16061
+1500,"Engineering Technology, General.",6,Doctoral Degree,15006
+1433,Construction Engineering.,1,Undergraduate Certificate or Diploma,14331
+4703,Heavy/Industrial Equipment Maintenance Technologies.,3,Bachelors Degree,47033
+3032,Marine Sciences.,2,Associate's Degree,30322
+1412,Engineering Physics.,2,Associate's Degree,14122
+1001,Communications Technology/Technician.,5,Master's Degree,10015
+5301,High School/Secondary Diploma Programs.,5,Master's Degree,53015
+4227,Research and Experimental Psychology.,1,Undergraduate Certificate or Diploma,42271
+1199,"Computer and Information Sciences and Support Services, Other.",4,Post-baccalaureate Certificate,11994
+1413,Engineering Science.,8,Graduate/Professional Certificate,14138
+1422,Naval Architecture and Marine Engineering.,5,Master's Degree,14225
+1422,Naval Architecture and Marine Engineering.,6,Doctoral Degree,14226
+3006,Systems Science and Theory.,4,Post-baccalaureate Certificate,30064
+3015,"Science, Technology and Society.",4,Post-baccalaureate Certificate,30154
+1902,Family and Consumer Sciences/Human Sciences Business Services.,6,Doctoral Degree,19026
+1441,Electromechanical Engineering.,1,Undergraduate Certificate or Diploma,14411
+1441,Electromechanical Engineering.,8,Graduate/Professional Certificate,14418
+1504,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,8,Graduate/Professional Certificate,15048
+1508,Mechanical Engineering Related Technologies/Technicians.,6,Doctoral Degree,15086
+1512,Computer Engineering Technologies/Technicians.,6,Doctoral Degree,15126
+5206,Business/Managerial Economics.,2,Associate's Degree,52062
+1444,Engineering Chemistry.,3,Bachelors Degree,14443
+1900,Work and Family Studies.,3,Bachelors Degree,19003
+3201,Basic Skills and Developmental/Remedial Education.,3,Bachelors Degree,32013
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,3,Bachelors Degree,41023
+1440,Paper Science and Engineering.,3,Bachelors Degree,14403
+499,"Architecture and Related Services, Other.",4,Post-baccalaureate Certificate,4994
+999,"Communication, Journalism, and Related Programs, Other.",4,Post-baccalaureate Certificate,9994
+1306,"Educational Assessment, Evaluation, and Research.",4,Post-baccalaureate Certificate,13064
+1315,Teaching Assistants/Aides.,8,Graduate/Professional Certificate,13158
+1999,"Family and Consumer Sciences/Human Sciences, Other.",6,Doctoral Degree,19996
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",7,First Professional Degree,26117
+5105,Advanced/Graduate Dentistry and Oral Sciences.,4,Post-baccalaureate Certificate,51054
+5114,Medical Clinical Sciences/Graduate Medical Studies.,7,First Professional Degree,51147
+5125,Veterinary Biomedical and Clinical Sciences.,4,Post-baccalaureate Certificate,51254
+6004,Medical Residency Programs - General Certificates.,5,Master's Degree,60045
+910,Publishing.,1,Undergraduate Certificate or Diploma,9101
+3027,Human Biology.,1,Undergraduate Certificate or Diploma,30271
+4513,Sociology and Anthropology.,5,Master's Degree,45135
+1616,American Sign Language.,4,Post-baccalaureate Certificate,16164
+2999,"Military Technologies and Applied Sciences, Other.",3,Bachelors Degree,29993
+4101,Biology Technician/Biotechnology Laboratory Technician.,5,Master's Degree,41015
+1502,Civil Engineering Technologies/Technicians.,5,Master's Degree,15025
+1900,Work and Family Studies.,1,Undergraduate Certificate or Diploma,19001
+4227,Research and Experimental Psychology.,2,Associate's Degree,42272
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",2,Associate's Degree,16122
+4004,Atmospheric Sciences and Meteorology.,2,Associate's Degree,40042
+5112,Medicine.,2,Associate's Degree,51122
+5107,Health and Medical Administrative Services.,7,First Professional Degree,51077
+5117,Optometry.,2,Associate's Degree,51172
+108,Agricultural Public Services.,2,Associate's Degree,1082
+5206,Business/Managerial Economics.,4,Post-baccalaureate Certificate,52064
+5119,Osteopathic Medicine/Osteopathy.,5,Master's Degree,51195
+3008,Mathematics and Computer Science.,2,Associate's Degree,30082
+5125,Veterinary Biomedical and Clinical Sciences.,1,Undergraduate Certificate or Diploma,51251
+1103,Data Processing.,5,Master's Degree,11035
+1406,Ceramic Sciences and Engineering.,3,Bachelors Degree,14063
+1406,Ceramic Sciences and Engineering.,5,Master's Degree,14065
+1406,Ceramic Sciences and Engineering.,6,Doctoral Degree,14066
+1411,Engineering Mechanics.,8,Graduate/Professional Certificate,14118
+1421,Mining and Mineral Engineering.,1,Undergraduate Certificate or Diploma,14211
+3006,Systems Science and Theory.,1,Undergraduate Certificate or Diploma,30061
+3016,Accounting and Computer Science.,8,Graduate/Professional Certificate,30168
+5117,Optometry.,3,Bachelors Degree,51173
+3201,Basic Skills and Developmental/Remedial Education.,2,Associate's Degree,32012
+404,Environmental Design.,1,Undergraduate Certificate or Diploma,4041
+2806,Security Policy and Strategy.,5,Master's Degree,28065
+1433,Construction Engineering.,8,Graduate/Professional Certificate,14338
+5136,Movement and Mind-Body Therapies and Education.,6,Doctoral Degree,51366
+4513,Sociology and Anthropology.,1,Undergraduate Certificate or Diploma,45131
+399,"Natural Resources and Conservation, Other.",8,Graduate/Professional Certificate,3998
+4199,"Science Technologies/Technicians, Other.",4,Post-baccalaureate Certificate,41994
+4513,Sociology and Anthropology.,2,Associate's Degree,45132
+1105,Computer Systems Analysis.,4,Post-baccalaureate Certificate,11054
+5106,Dental Support Services and Allied Professions.,4,Post-baccalaureate Certificate,51064
+102,Agricultural Mechanization.,5,Master's Degree,1025
+1315,Teaching Assistants/Aides.,6,Doctoral Degree,13156
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,8,Graduate/Professional Certificate,41028
+3021,Holocaust and Related Studies.,3,Bachelors Degree,30213
+4001,Physical Sciences.,8,Graduate/Professional Certificate,40018
+3008,Mathematics and Computer Science.,1,Undergraduate Certificate or Diploma,30081
+1306,"Educational Assessment, Evaluation, and Research.",7,First Professional Degree,13067
+5132,Bioethics/Medical Ethics.,7,First Professional Degree,51327
+2610,Pharmacology and Toxicology.,7,First Professional Degree,26107
+4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",6,Doctoral Degree,43996
+3021,Holocaust and Related Studies.,5,Master's Degree,30215
+1609,"Romance Languages, Literatures, and Linguistics.",4,Post-baccalaureate Certificate,16094
+3701,Personal Awareness and Self-Improvement.,5,Master's Degree,37015
+4405,Public Policy Analysis.,2,Associate's Degree,44052
+1514,Nuclear Engineering Technologies/Technicians.,5,Master's Degree,15145
+1414,Environmental/Environmental Health Engineering.,2,Associate's Degree,14142
+2314,Literature.,1,Undergraduate Certificate or Diploma,23141
+1303,Curriculum and Instruction.,2,Associate's Degree,13032
+4010,Materials Sciences.,2,Associate's Degree,40102
+3001,Biological and Physical Sciences.,4,Post-baccalaureate Certificate,30014
+1432,Polymer/Plastics Engineering.,1,Undergraduate Certificate or Diploma,14321
+1420,Metallurgical Engineering.,8,Graduate/Professional Certificate,14208
+3033,Sustainability Studies.,6,Doctoral Degree,30336
+4099,"Physical Sciences, Other.",8,Graduate/Professional Certificate,40998
+1309,Social and Philosophical Foundations of Education.,1,Undergraduate Certificate or Diploma,13091
+3010,Biopsychology.,5,Master's Degree,30105
+3010,Biopsychology.,6,Doctoral Degree,30106
+4999,"Transportation and Materials Moving, Other.",2,Associate's Degree,49992
+1411,Engineering Mechanics.,2,Associate's Degree,14112
+5299,"Business, Management, Marketing, and Related Support Services, Other.",4,Post-baccalaureate Certificate,52994
+5010,"Arts, Entertainment,and Media Management.",4,Post-baccalaureate Certificate,50104
+4203,Cognitive Psychology and Psycholinguistics.,2,Associate's Degree,42032
+4512,Urban Studies/Affairs.,2,Associate's Degree,45122
+1001,Communications Technology/Technician.,6,Doctoral Degree,10016
+1307,International and Comparative Education.,6,Doctoral Degree,13076
+2799,"Mathematics and Statistics, Other.",8,Graduate/Professional Certificate,27998
+4999,"Transportation and Materials Moving, Other.",5,Master's Degree,49995
+4999,"Transportation and Materials Moving, Other.",8,Graduate/Professional Certificate,49998
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",6,Doctoral Degree,51396
+5218,"General Sales, Merchandising and Related Marketing Operations.",6,Doctoral Degree,52186
+5121,Podiatric Medicine/Podiatry.,8,Graduate/Professional Certificate,51218
+499,"Architecture and Related Services, Other.",6,Doctoral Degree,4996
+4299,"Psychology, Other.",4,Post-baccalaureate Certificate,42994
+4807,Woodworking.,5,Master's Degree,48075
+4699,"Construction Trades, Other.",3,Bachelors Degree,46993
+199,"Agriculture, Agriculture Operations, and Related Sciences, Other.",8,Graduate/Professional Certificate,1998
+1433,Construction Engineering.,6,Doctoral Degree,14336
+1505,Environmental Control Technologies/Technicians.,6,Doctoral Degree,15056
+5137,Energy and Biologically Based Therapies.,3,Bachelors Degree,51373
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,5,Master's Degree,51185
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,6,Doctoral Degree,51186
+3029,Maritime Studies.,5,Master's Degree,30295
+1109,Computer Systems Networking and Telecommunications.,4,Post-baccalaureate Certificate,11094
+2599,"Library Science, Other.",4,Post-baccalaureate Certificate,25994
+3005,Peace Studies and Conflict Resolution.,4,Post-baccalaureate Certificate,30054
+3028,Dispute Resolution.,4,Post-baccalaureate Certificate,30284
+3010,Biopsychology.,2,Associate's Degree,30102
+2604,Cell/Cellular Biology and Anatomical Sciences.,7,First Professional Degree,26047
+2605,Microbiological Sciences and Immunology.,7,First Professional Degree,26057
+2607,Zoology/Animal Biology.,7,First Professional Degree,26077
+1516,Nanotechnology.,3,Bachelors Degree,15163
+2805,Military Science and Operational Studies.,3,Bachelors Degree,28053
+4100,"Science Technologies/Technicians, General.",3,Bachelors Degree,41003
+3301,Citizenship Activities.,1,Undergraduate Certificate or Diploma,33011
+399,"Natural Resources and Conservation, Other.",4,Post-baccalaureate Certificate,3994
+1405,Biomedical/Medical Engineering.,4,Post-baccalaureate Certificate,14054
+2604,Cell/Cellular Biology and Anatomical Sciences.,4,Post-baccalaureate Certificate,26044
+3801,Philosophy.,4,Post-baccalaureate Certificate,38014
+4227,Research and Experimental Psychology.,4,Post-baccalaureate Certificate,42274
+5207,Entrepreneurial and Small Business Operations.,7,First Professional Degree,52077
+3701,Personal Awareness and Self-Improvement.,4,Post-baccalaureate Certificate,37014
+3023,Intercultural/Multicultural and Diversity Studies.,7,First Professional Degree,30237
+2610,Pharmacology and Toxicology.,2,Associate's Degree,26102
+3701,Personal Awareness and Self-Improvement.,8,Graduate/Professional Certificate,37018
+1909,Apparel and Textiles.,8,Graduate/Professional Certificate,19098
+402,Architecture.,4,Post-baccalaureate Certificate,4024
+1403,Agricultural Engineering.,4,Post-baccalaureate Certificate,14034
+104,Agricultural and Food Products Processing.,5,Master's Degree,1045
+104,Agricultural and Food Products Processing.,6,Doctoral Degree,1046
+1433,Construction Engineering.,4,Post-baccalaureate Certificate,14334
+4999,"Transportation and Materials Moving, Other.",4,Post-baccalaureate Certificate,49994
+1507,Quality Control and Safety Technologies/Technicians.,4,Post-baccalaureate Certificate,15074
+4006,Geological and Earth Sciences/Geosciences.,4,Post-baccalaureate Certificate,40064
+6001,Dental Residency Programs.,4,Post-baccalaureate Certificate,60014
+1299,"Personal and Culinary Services, Other.",2,Associate's Degree,12992
+4103,Physical Science Technologies/Technicians.,3,Bachelors Degree,41033
+5114,Medical Clinical Sciences/Graduate Medical Studies.,4,Post-baccalaureate Certificate,51144
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",4,Post-baccalaureate Certificate,50024
+1433,Construction Engineering.,2,Associate's Degree,14332
+3029,Maritime Studies.,2,Associate's Degree,30292
+5135,Somatic Bodywork and Related Therapeutic Services.,8,Graduate/Professional Certificate,51358
+5204,Business Operations Support and Assistant Services.,8,Graduate/Professional Certificate,52048
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",5,Master's Degree,50025
+3800,"Philosophy and Religious Studies, General.",1,Undergraduate Certificate or Diploma,38001
+1441,Electromechanical Engineering.,2,Associate's Degree,14412
+109,Animal Sciences.,8,Graduate/Professional Certificate,1098
+1511,Engineering-Related Technologies.,5,Master's Degree,15115
+1511,Engineering-Related Technologies.,6,Doctoral Degree,15116
+3011,Gerontology.,7,First Professional Degree,30117
+5010,"Arts, Entertainment,and Media Management.",6,Doctoral Degree,50106
+2202,Legal Research and Advanced Professional Studies.,2,Associate's Degree,22022
+2904,Military Systems and Maintenance Technology.,1,Undergraduate Certificate or Diploma,29041
+1504,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,6,Doctoral Degree,15046
+4302,Fire Protection.,6,Doctoral Degree,43026
+2613,"Ecology, Evolution, Systematics, and Population Biology.",7,First Professional Degree,26137
+5301,High School/Secondary Diploma Programs.,1,Undergraduate Certificate or Diploma,53011
+1434,Forest Engineering.,3,Bachelors Degree,14343
+1434,Forest Engineering.,5,Master's Degree,14345
+1434,Forest Engineering.,6,Doctoral Degree,14346
+3018,Natural Sciences.,8,Graduate/Professional Certificate,30188
+1204,Cosmetology and Related Personal Grooming Services.,6,Doctoral Degree,12046
+1615,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",3,Bachelors Degree,16153
+1615,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16158
+2603,Botany/Plant Biology.,8,Graduate/Professional Certificate,26038
+2599,"Library Science, Other.",3,Bachelors Degree,25993
+2615,Neurobiology and Neurosciences.,2,Associate's Degree,26152
+4800,"Precision Production Trades, General.",1,Undergraduate Certificate or Diploma,48001
+4800,"Precision Production Trades, General.",2,Associate's Degree,48002
+1513,Drafting/Design Engineering Technologies/Technicians.,6,Doctoral Degree,15136
+5221,Telecommunications Management.,6,Doctoral Degree,52216
+4603,Electrical and Power Transmission Installers.,4,Post-baccalaureate Certificate,46034
+4805,Precision Metal Working.,4,Post-baccalaureate Certificate,48054
+1299,"Personal and Culinary Services, Other.",3,Bachelors Degree,12993
+2399,"English Language and Literature/Letters, Other.",4,Post-baccalaureate Certificate,23994
+3015,"Science, Technology and Society.",1,Undergraduate Certificate or Diploma,30151
+3201,Basic Skills and Developmental/Remedial Education.,8,Graduate/Professional Certificate,32018
+3021,Holocaust and Related Studies.,6,Doctoral Degree,30216
+1507,Quality Control and Safety Technologies/Technicians.,6,Doctoral Degree,15076
+1421,Mining and Mineral Engineering.,2,Associate's Degree,14212
+107,International Agriculture.,6,Doctoral Degree,1076
+1421,Mining and Mineral Engineering.,4,Post-baccalaureate Certificate,14214
+1511,Engineering-Related Technologies.,4,Post-baccalaureate Certificate,15114
+4504,Criminology.,7,First Professional Degree,45047
+501,Area Studies.,7,First Professional Degree,5017
+1423,Nuclear Engineering.,1,Undergraduate Certificate or Diploma,14231
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",7,First Professional Degree,16017
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",7,First Professional Degree,16047
+2313,Rhetoric and Composition/Writing Studies.,7,First Professional Degree,23137
+2608,Genetics.,7,First Professional Degree,26087
+2701,Mathematics.,7,First Professional Degree,27017
+2705,Statistics.,7,First Professional Degree,27057
+4509,International Relations and National Security Studies.,7,First Professional Degree,45097
+4206,Counseling Psychology.,5,Master's Degree,42065
+4902,Ground Transportation.,8,Graduate/Professional Certificate,49028
+2608,Genetics.,1,Undergraduate Certificate or Diploma,26081
+1443,Biochemical Engineering.,8,Graduate/Professional Certificate,14438
+3022,Classical and Ancient Studies.,8,Graduate/Professional Certificate,30228
+3027,Human Biology.,6,Doctoral Degree,30276
+1314,Teaching English or French as a Second or Foreign Language.,7,First Professional Degree,13147
+3902,Bible/Biblical Studies.,7,First Professional Degree,39027
+1900,Work and Family Studies.,5,Master's Degree,19005
+2305,Creative Writing.,3,Bachelors Degree,23053
+5210,Human Resources Management and Services.,7,First Professional Degree,52107
+5214,Marketing.,7,First Professional Degree,52147
+4103,Physical Science Technologies/Technicians.,8,Graduate/Professional Certificate,41038
+1425,Petroleum Engineering.,2,Associate's Degree,14252
+5104,Dentistry.,2,Associate's Degree,51042
+3027,Human Biology.,2,Associate's Degree,30272
+1425,Petroleum Engineering.,4,Post-baccalaureate Certificate,14254
+3016,Accounting and Computer Science.,4,Post-baccalaureate Certificate,30164
+3001,Biological and Physical Sciences.,7,First Professional Degree,30017
+3029,Maritime Studies.,3,Bachelors Degree,30293
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,5,Master's Degree,41025
+6003,Veterinary Residency Programs.,6,Doctoral Degree,60036
+4604,"Building/Construction Finishing, Management, and Inspection.",5,Master's Degree,46045
+108,Agricultural Public Services.,8,Graduate/Professional Certificate,1088
+1204,Cosmetology and Related Personal Grooming Services.,5,Master's Degree,12045
+1420,Metallurgical Engineering.,2,Associate's Degree,14202
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",8,Graduate/Professional Certificate,16108
+1615,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",5,Master's Degree,16155
+1615,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",6,Doctoral Degree,16156
+1999,"Family and Consumer Sciences/Human Sciences, Other.",8,Graduate/Professional Certificate,19998
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",4,Post-baccalaureate Certificate,16124
+3301,Citizenship Activities.,3,Bachelors Degree,33013
+3018,Natural Sciences.,4,Post-baccalaureate Certificate,30184
+5134,Alternative and Complementary Medical Support Services.,3,Bachelors Degree,51343
+5116,Nursing.,8,Graduate/Professional Certificate,51168
+5104,Dentistry.,1,Undergraduate Certificate or Diploma,51041
+5112,Medicine.,1,Undergraduate Certificate or Diploma,51121
+5124,Veterinary Medicine.,8,Graduate/Professional Certificate,51248
+2200,Non-Professional General Legal Studies (Undergraduate).,4,Post-baccalaureate Certificate,22004
+4100,"Science Technologies/Technicians, General.",1,Undergraduate Certificate or Diploma,41001
+1404,Architectural Engineering.,1,Undergraduate Certificate or Diploma,14041
+4101,Biology Technician/Biotechnology Laboratory Technician.,8,Graduate/Professional Certificate,41018
+1414,Environmental/Environmental Health Engineering.,1,Undergraduate Certificate or Diploma,14141
+1602,"African Languages, Literatures, and Linguistics.",5,Master's Degree,16025
+1602,"African Languages, Literatures, and Linguistics.",6,Doctoral Degree,16026
+4514,Rural Sociology.,3,Bachelors Degree,45143
+4514,Rural Sociology.,5,Master's Degree,45145
+3022,Classical and Ancient Studies.,1,Undergraduate Certificate or Diploma,30221
+2705,Statistics.,2,Associate's Degree,27052
+3006,Systems Science and Theory.,2,Associate's Degree,30062
+4400,"Human Services, General.",4,Post-baccalaureate Certificate,44004
+4701,Electrical/Electronics Maintenance and Repair Technology.,8,Graduate/Professional Certificate,47018
+5302,High School/Secondary Certificate Programs.,3,Bachelors Degree,53023
+1515,Engineering-Related Fields.,4,Post-baccalaureate Certificate,15154
+1999,"Family and Consumer Sciences/Human Sciences, Other.",2,Associate's Degree,19992
+3026,Cultural Studies/Critical Theory and Analysis.,2,Associate's Degree,30262
+1501,Architectural Engineering Technologies/Technicians.,5,Master's Degree,15015
+3017,Behavioral Sciences.,7,First Professional Degree,30177
+6004,Medical Residency Programs - General Certificates.,1,Undergraduate Certificate or Diploma,60041
+5135,Somatic Bodywork and Related Therapeutic Services.,5,Master's Degree,51355
+3023,Intercultural/Multicultural and Diversity Studies.,4,Post-baccalaureate Certificate,30234
+5119,Osteopathic Medicine/Osteopathy.,4,Post-baccalaureate Certificate,51194
+5137,Energy and Biologically Based Therapies.,2,Associate's Degree,51372
+3501,Interpersonal and Social Skills.,8,Graduate/Professional Certificate,35018
+4505,Demography and Population Studies.,1,Undergraduate Certificate or Diploma,45051
+3501,Interpersonal and Social Skills.,3,Bachelors Degree,35013
+2806,Security Policy and Strategy.,1,Undergraduate Certificate or Diploma,28061
+2806,Security Policy and Strategy.,2,Associate's Degree,28062
+2806,Security Policy and Strategy.,8,Graduate/Professional Certificate,28068
+2999,"Military Technologies and Applied Sciences, Other.",1,Undergraduate Certificate or Diploma,29991
+105,Agricultural and Domestic Animal Services.,5,Master's Degree,1055
+1205,Culinary Arts and Related Services.,4,Post-baccalaureate Certificate,12054
+4206,Counseling Psychology.,6,Doctoral Degree,42066
+4218,Educational Psychology.,5,Master's Degree,42185
+6002,Medical Residency Programs.,5,Master's Degree,60025
+6002,Medical Residency Programs.,6,Doctoral Degree,60026
+910,Publishing.,6,Doctoral Degree,9106
+3601,Leisure and Recreational Activities.,6,Doctoral Degree,36016
+4513,Sociology and Anthropology.,6,Doctoral Degree,45136
+4203,Cognitive Psychology and Psycholinguistics.,5,Master's Degree,42035
+4207,Developmental and Child Psychology.,5,Master's Degree,42075
+404,Environmental Design.,7,First Professional Degree,4047
+3024,Neuroscience.,3,Bachelors Degree,30243
+404,Environmental Design.,4,Post-baccalaureate Certificate,4044
+4100,"Science Technologies/Technicians, General.",5,Master's Degree,41005
+1503,Electrical Engineering Technologies/Technicians.,6,Doctoral Degree,15036
+5104,Dentistry.,3,Bachelors Degree,51043
+6005,Medical Residency Programs - Subspecialty Certificates.,5,Master's Degree,60055
+4103,Physical Science Technologies/Technicians.,6,Doctoral Degree,41036
+4902,Ground Transportation.,6,Doctoral Degree,49026
+1900,Work and Family Studies.,7,First Professional Degree,19007
+3401,Health-Related Knowledge and Skills.,6,Doctoral Degree,34016
+4604,"Building/Construction Finishing, Management, and Inspection.",6,Doctoral Degree,46046
+2503,Library and Archives Assisting.,3,Bachelors Degree,25033
+2503,Library and Archives Assisting.,5,Master's Degree,25035
+4699,"Construction Trades, Other.",5,Master's Degree,46995
+4903,Marine Transportation.,6,Doctoral Degree,49036
+1203,Funeral Service and Mortuary Science.,5,Master's Degree,12035
+4301,Criminal Justice and Corrections.,7,First Professional Degree,43017
+5004,Design and Applied Arts.,7,First Professional Degree,50047
+3301,Citizenship Activities.,5,Master's Degree,33015
+3027,Human Biology.,5,Master's Degree,30275
+6003,Veterinary Residency Programs.,8,Graduate/Professional Certificate,60038
+4100,"Science Technologies/Technicians, General.",6,Doctoral Degree,41006
+5126,Health Aides/Attendants/Orderlies.,5,Master's Degree,51265
+4216,Social Psychology.,3,Bachelors Degree,42163
+3022,Classical and Ancient Studies.,2,Associate's Degree,30222
+4506,Economics.,4,Post-baccalaureate Certificate,45064
+5001,"Visual and Performing Arts, General.",4,Post-baccalaureate Certificate,50014
+4099,"Physical Sciences, Other.",7,First Professional Degree,40997
+3501,Interpersonal and Social Skills.,5,Master's Degree,35015
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",6,Doctoral Degree,50026

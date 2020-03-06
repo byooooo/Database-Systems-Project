@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_02_29_013107) do
+ActiveRecord::Schema.define(version: 2020_03_06_041424) do
 
   create_table "comparisons", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.string "supplied_name"
@@ -45,6 +45,7 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.datetime "updated_at", precision: 6, null: false
     t.string "description"
     t.string "credit_level"
+    t.bigint "cip_code"
   end
 
   create_table "favorites", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
@@ -87,6 +88,7 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "institution_id"
     t.bigint "degree_program_id"
+    t.integer "debt_payment"
     t.index ["degree_program_id"], name: "fk_rails_1d37563ee6"
     t.index ["institution_id"], name: "fk_rails_50f161f861"
   end
