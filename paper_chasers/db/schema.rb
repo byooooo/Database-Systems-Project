@@ -12,19 +12,20 @@
 
 ActiveRecord::Schema.define(version: 2020_02_29_013107) do
 
-  create_table "comparisons", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
+  create_table "comparisons", force: :cascade do |t|
     t.string "supplied_name"
     t.bigint "user_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "degree_program_id"
     t.bigint "institution_id"
-    t.index ["degree_program_id"], name: "fk_rails_5218446a90"
-    t.index ["institution_id"], name: "fk_rails_a27d3c02c3"
     t.index ["user_id"], name: "index_comparisons_on_user_id"
   end
 
-  create_table "cost_and_financial_aid_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "cost_and_financial_aid_profiles", force: :cascade do |t|
     t.integer "percent_awarded_fin_aid"
     t.string "type"
     t.datetime "created_at", precision: 6, null: false
@@ -37,17 +38,16 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.integer "average_federal_loan_amount"
     t.json "sti_store"
     t.bigint "institution_id"
-    t.index ["institution_id"], name: "fk_rails_4aaa32a97e"
   end
 
-  create_table "degree_programs", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "degree_programs", force: :cascade do |t|
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.string "description"
     t.string "credit_level"
   end
 
-  create_table "favorites", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "favorites", force: :cascade do |t|
     t.bigint "user_id"
     t.bigint "favorable_id"
     t.string "favorable_type"
@@ -56,16 +56,14 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.index ["user_id"], name: "index_favorites_on_user_id"
   end
 
-  create_table "first_time_undergrads", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "first_time_undergrads", force: :cascade do |t|
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "institution_id"
     t.bigint "state_id"
-    t.index ["institution_id"], name: "fk_rails_8950ffaf81"
-    t.index ["state_id"], name: "fk_rails_533858ce43"
   end
 
-  create_table "graduation_rate_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "graduation_rate_profiles", force: :cascade do |t|
     t.integer "grad_rate_total_cohort"
     t.integer "pell_grant_recipients_grad_rate_in_150_percent_normal_time"
     t.string "type"
@@ -76,22 +74,19 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.integer "subsidized_stafford_loan_recipients_not_receiving_pell_grants"
     t.integer "did_not_receive_pell_grants_or_subsidized_stafford_loans"
     t.bigint "institution_id"
-    t.index ["institution_id"], name: "fk_rails_06cce6cb18"
   end
 
-  create_table "institution_to_degrees", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
-    t.decimal "med_debt", precision: 10
-    t.decimal "mean_debt", precision: 10
-    t.decimal "median_wage", precision: 10
+  create_table "institution_to_degrees", force: :cascade do |t|
+    t.decimal "med_debt"
+    t.decimal "mean_debt"
+    t.decimal "median_wage"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "institution_id"
     t.bigint "degree_program_id"
-    t.index ["degree_program_id"], name: "fk_rails_1d37563ee6"
-    t.index ["institution_id"], name: "fk_rails_50f161f861"
   end
 
-  create_table "institutions", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "institutions", force: :cascade do |t|
     t.string "state_abbreviation"
     t.string "total_enrollment"
     t.string "sector_of_institition"
@@ -120,13 +115,13 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.string "name"
   end
 
-  create_table "states", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "states", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  create_table "student_demographic_profiles", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "student_demographic_profiles", force: :cascade do |t|
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.integer "undergrad_total"
@@ -154,10 +149,9 @@ ActiveRecord::Schema.define(version: 2020_02_29_013107) do
     t.integer "first_time_undergrad_us"
     t.integer "first_time_undergrad_foreign"
     t.bigint "institution_id"
-    t.index ["institution_id"], name: "fk_rails_467f2f0982"
   end
 
-  create_table "users", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci", force: :cascade do |t|
+  create_table "users", force: :cascade do |t|
     t.string "user_id"
     t.string "name"
     t.string "email"
