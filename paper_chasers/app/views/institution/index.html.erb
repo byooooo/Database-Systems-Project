@@ -9,11 +9,13 @@
   </tr>
   <%= pie_chart [["test1", 5], ["test2", 10]] %>
 
-  <% @institution.each do |institution| %>
+  <%= will_paginate @institutions %>
+  <% @institutions.each do |institution| %>
     <tr>
       <td><%= institution.name %></td>
       <td><%= institution.state_abbreviation %></td>
       <td><%= link_to 'Show', institution_path(institution) %></td>
     </tr>
   <% end %>
+  <%= will_paginate @institutions %>
 </table>
