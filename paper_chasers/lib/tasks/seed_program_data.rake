@@ -6,7 +6,7 @@ task :seed_degree_program_table => :environment do
         d = DegreeProgram.new
         d.description = row['CIPDESC']
         d.credit_level = row['CREDLEV']
-        d.cip_code = row['CIPCODE']
+        d.cip_code = row[0]
         d.save
         puts d.description
     end
