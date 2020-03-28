@@ -1,6 +1,6 @@
 # Notice
 
-this project has been migrated to [https://github.com/albertsema/paper_chasers](https://github.com/albertsema/paper_chasers)
+this project has been migrated to [https://github.com/albertsema/paper_chasers](https://github.com/albertsema/paper_chasers) in order to get it connected with Heroku.
 
 
 
