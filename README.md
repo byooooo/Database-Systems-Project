@@ -1,3 +1,9 @@
+# Notice
+
+this project has been migrated to [https://github.com/albertsema/paper_chasers](https://github.com/albertsema/paper_chasers)
+
+
+
 # Paper Chasers
 
 Paper Chasers help users learn what prospective colleges, majors, and career paths to pursue provided a query.
